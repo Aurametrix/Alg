@@ -1,3 +1,8 @@
+* ~
+*.pyc
+*.log
+*.pot
+
 # Compiled Object files
 *.slo
 *.lo
