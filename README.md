@@ -2,3 +2,6 @@ Alg
 ===
 
 Algorithms
+
+Sort:
+Quicksort
