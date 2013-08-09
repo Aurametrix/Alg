@@ -14,23 +14,31 @@ int main()
   for (c = 0; c < n; c++)
     scanf("%d", &array[c]);
  
-  for (c = 0 ; c < ( n - 1 ); c++)
-  {
-    for (d = 0 ; d < n - c - 1; d++)
-    {
-      if (array[d] > array[d+1]) /* For decreasing order use < */
-      {
-        swap       = array[d];
-        array[d]   = array[d+1];
-        array[d+1] = swap;
-      }
-    }
-  }
- 
+	bubble_sort(array, n);	
+	
   printf("Sorted list in ascending order:\n");
  
   for ( c = 0 ; c < n ; c++ )
      printf("%d\n", array[c]);
  
   return 0;
+}
+
+
+void bubble_sort(long array[], long n)
+{
+	long c, d, swap;
+	
+	for (c = 0 ; c < ( n - 1 ); c++)
+{
+    for (d = 0 ; d < n - c - 1; d++)
+    {
+		if (array[d] > array[d+1]) /* For decreasing order use < */
+		{
+			swap       = array[d];
+			array[d]   = array[d+1];
+			array[d+1] = swap;
+		}
+    }
+}
 }
