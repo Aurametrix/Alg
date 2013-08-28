@@ -4,4 +4,7 @@ Alg
 Algorithms
 
 Sort:
-Quicksort
+Quicksort, Bubblesort, Insertionsort, Mergesort
+
+Graph:
+Dijkstra,..
