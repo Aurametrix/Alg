@@ -36,5 +36,10 @@ print line.find(lookfor);
 if (line.find(lookfor,0,len(line))>-1):
    print "Found: ", lookfor
 else:
-   print "No match!!"
+   print "No match for",lookfor, "!!"
 
+match = re.search(r'[+-]?(\d+)?(\.)(\d+)', line)
+if match:
+   print "Found a float: ", match.group()
+else:
+   print "No floats!!"
