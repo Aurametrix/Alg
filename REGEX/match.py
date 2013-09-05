@@ -38,8 +38,10 @@ if (line.find(lookfor,0,len(line))>-1):
 else:
    print "No match for",lookfor, "!!"
 
-match = re.search(r'[+-]?(\d+)?(\.)(\d+)', line)
-if match:
-   print "Found a float: ", match.group()
+# [+-]?(\d+)?(\.)(\d+)?
+match = re.search(r'(\d*)(\.)(\d*)', line)
+if match and len(match.group())>1:
+   print "Found a float: ", match.group(), len(match.group())
 else:
    print "No floats!!"
+
