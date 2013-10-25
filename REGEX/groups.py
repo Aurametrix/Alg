@@ -30,7 +30,7 @@ def getpatterns(str):
 #match = re.search(r'([\d+])-([d{3}])', str)
   match = re.search(r'(\d{3})-(\d{3})-(\d{4})', str)
   if match:
-    print "phone number", match.group()    
+    print "phone number in your string", match.group()    
     
   str = 'purple alice@google.com, blah monkey bob@abc.com blah dishwasher'
   umails = re.findall(r'([\w\.-]+)@([\w\.-]+)', str)
@@ -42,8 +42,9 @@ def getpatterns(str):
 import sys 
 def main():
   str = 'purple alice-b@google.com monkeydishwasher 305-786-3222 irene@mail.com 111-11-1111'
-  if (len(sys.argv) > 2):
-        str = map(int,sys.argv[1:])        # Get string from input
+  str = raw_input("Enter a string with phone numbers and e-mails:  ")
+  #if (len(sys.argv) > 2):
+  #      str = map(int,sys.argv[1:])        # Get string from input, convert to int
   print "here's what I've got:", str 
   output = getpatterns(str)
   print "here's the result", output
