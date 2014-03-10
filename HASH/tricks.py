@@ -46,3 +46,26 @@ LASTTHREE = slice(-3, None)
 print LASTTHREE
 slice(-3, None, None)
 print a[LASTTHREE]
+
+print "zipping lists and iterables"
+a = [1, 2, 3]
+b = ['a', 'b', 'c']
+z = zip(a, b)
+print "zip 1,2,3, and a,b,c", z
+print "unzip", zip(*z)
+
+print "grouping adjacent list items using zip"
+a = [1, 2, 3, 4, 5, 6]
+print zip(a[::2], a[1::2])
+print zip(a[::3], a[1::3], a[2::3])
+group_adjacent = lambda a, k: zip(*(a[i::k] for i in range(k)))
+print "a,3", group_adjacent(a, 3)
+print "a,2", group_adjacent(a, 2)
+print "a,1", group_adjacent(a, 1)
+
+print "inverting a dictionary using zip"
+m = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+print m.items()
+print zip(m.values(), m.keys())
+mi = dict(zip(m.values(), m.keys()))
+print "dictionary of values and keys", mi
