@@ -26,7 +26,7 @@ class Parse(object):
 """ 
     an index into the words array; into the list of tokens
     a stack, to which words are pushed, before popped out once their head is set
-             contains words that occurred before i, for which we’re yet to assign a head.
+             contains words that occurred before i, for which yet need to assign a head.
 """
 
 SHIFT = 0; RIGHT = 1; LEFT = 2
@@ -45,3 +45,32 @@ def transition(move, i, stack, parse):
         return i
     raise GrammarError("Unknown move: %d" % move)
 
+# parsing loop starts with an empty stack, and a buffer index at 0, with no dependencies recorded. 
+# chooses one of the (valid) actions, and applies it to the state. Continues until the stack is empty 
+# and the buffer index is at the end of the input. 
+
+Class Parser(object):
+    ...
+    def parse(self, words):
+        tags = self.tagger(words)
+        n = len(words)
+        idx = 1
+        stack = [0]
+        deps = Parse(n)
+        while stack or idx < n:
+            features = extract_features(words, tags, idx, n, stack, deps)
+            scores = self.model.score(features)
+            valid_moves = get_valid_moves(i, n, len(stack))
+            next_move = max(valid_moves, key=lambda move: scores[move])
+            idx = transition(next_move, idx, stack, parse)
+        return tags, parse
+ 
+def get_valid_moves(i, n, stack_depth):
+    moves = []
+    if i < n:
+        moves.append(SHIFT)
+    if stack_depth >= 2:
+        moves.append(RIGHT)
+    if stack_depth >= 1:
+        moves.append(LEFT)
+    return moves
