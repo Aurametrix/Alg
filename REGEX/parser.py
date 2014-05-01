@@ -20,3 +20,28 @@ class Parse(object):
             self.lefts[head].append(child)
         else:
             self.rights[head].append(child)
+
+# to keep track of where we are up to in the sentence
+
+""" 
+    an index into the words array; into the list of tokens
+    a stack, to which words are pushed, before popped out once their head is set
+             contains words that occurred before i, for which we’re yet to assign a head.
+"""
+
+SHIFT = 0; RIGHT = 1; LEFT = 2
+MOVES = [SHIFT, RIGHT, LEFT]
+ 
+def transition(move, i, stack, parse):
+    global SHIFT, RIGHT, LEFT
+    if move == SHIFT:
+        stack.append(i)
+        return i + 1
+    elif move == RIGHT:
+        parse.add_arc(stack[-2], stack.pop())
+        return i
+    elif move == LEFT:
+        parse.add_arc(i, stack.pop())
+        return i
+    raise GrammarError("Unknown move: %d" % move)
+
