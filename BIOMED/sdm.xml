@@ -1,0 +1,52 @@
+<sdm:Summary>
+ <sdm:Parameter OID="PAR.AGESPAN" Term="Age Span" ShortName="AGESPAN">
+ <sdm:Value>Adult (18-65)</sdm:Value>
+ <sdm:Value>Elderly (&gt;65)</sdm:Value>
+ </sdm:Parameter>
+</sdm:Summary>
+
+<!-- study includion and exclusion criteria  -->
+<sdm:InclusionExclusionCriteria>
+ <Description>
+ <TranslatedText xml:lang="en">Include subjects which ...</TranslatedText>
+ </Description>
+ <sdm:InclusionCriteria>
+ <sdm:Criterion OID="CRIT00" ConditionOID="AGECOND00" Name="Age Inclusion"/>
+ </sdm:InclusionCriteria>
+ <sdm:ExclusionCriteria>
+ <sdm:Criterion OID="CRIT01" ConditionOID="AGECOND01" Name="Age Exclusion"/>
+ <sdm:Criterion OID="CRIT02" ConditionOID="PREGNANCYCOND"
+ Name="Pregnancy Exclusion"/>
+ </sdm:ExclusionCriteria>
+</sdm:InclusionExclusionCriteria>
+
+<!-- epoch definitions  -->
+<sdm:Epoch OID="SCREPOCH" Name="Screening Epoch" OrderNumber="1">
+ <Description>
+ <TranslatedText xml:lang="en">Screening Epoch</TranslatedText>
+ </Description>
+</sdm:Epoch>
+<sdm:Epoch OID="TREPOCH" Name="Treatment Epoch" OrderNumber="2">
+ <Description>
+ <TranslatedText xml:lang="en">Treatment Epoch</TranslatedText>
+ </Description>
+</sdm:Epoch>
+
+<!-- study arms  -->
+<sdm:Arm OID="PLACEBO_ARM" Name="Placebo Arm" >
+ <Description>
+ <TranslatedText xml:lang="en">Placebo arm</TranslatedText>
+ </Description>
+</sdm:Arm>
+<sdm:Arm OID="LOWDOSE_ARM" Name="Low Dose Arm" >
+ <Description>
+ <TranslatedText xml:lang="en">
+ Low-dose arm (54 mg) xanomeline)
+ </TranslatedText>
+ </Description>
+</sdm:Arm> 
+<sdm:Arm OID="HIGHDOSE_ARM" Name="High Dose Arm" >
+ <Description>
+ <TranslatedText xml:lang="en">High-dose arm (81 mg)</TranslatedText>
+ </Description>
+</sdm:Arm>
