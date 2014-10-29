@@ -1,0 +1,46 @@
+MedDRA is distributed as a set of 12 record-oriented ASCII files, each of which describes
+one of the "levels" of the MedDRA ontology and associations among the objects in the ontology (construed as a system of terms): system and organ classes, preferred terms, low-level terms, high-level terms, and high-level group terms.
+Records contain various codes linking the terms and records, and refer to other systems of classification
+such as the Hoechst Adverse Reaction Terminology System (HARTS), the World Health Organization Adverse Reaction Terminology (WHO-ART), and IDC-9 (IDC-10).
+
+Python translator 200 lines - reference 6
+resulting BTM file consistes of 600K lines of XML code, 50K topic definition, 19K occurences of variants
+
+the WHO Drug dictionary consists of 8 record-oriented ASCII files with information about drugs such as names and ingredients
+code - 150 lines python
+BTM file 500K lines of XML code, 17K topic definitions, 76K variant occurences 7
+
+BioWisdom protein ontology
+GSK THerapy ontology (similar to WHO Drug dictionary)
+Gene Ontology - 3 hierarchies
+
+notes:
+in-therapeutic-class in a GSK THesarus ontology, the subordination hierarchy in MedDRA, and the
+ATC (Anatomical-Therapeutical-Chemical) and ingredients hierarches in the WHO Drug Dictionary.
+
+Not all interesting or useful ontology relations are hierarchical 
+examples: isbiologically-equivalent-to or is-interchangeable-with
+is-a-competitor-of, is-marketed-in
+
+
+The WHO Drug Dictionary contains data from 1968 onwards. The content is originating mostly from IMS and National 
+Drug names References
+
+The majority of the entries refer to conventional (chemical substance) medicinal products but the WHO-DD also includes
+– herbal remedies
+– vaccine
+– blood products
+– homeopatic remedy
+– dietary supplement
+
+Links
+http://www.nlm.nih.gov/mesh/MBrowser.html
+http://www.umc-products.com/DynPage.aspx?id=2829
+http://www.meddra.org/how-to-use/tools
+http://www.cdc.gov/nchs/icd/icd9.htm
+
+http://www.cms.gov/Medicare/Coding/ICD10/index.html?redirect=/icd10
+http://bioportal.bioontology.org/ontologies/MEDDRA?p=summary
+Open Biological Ontologis: http://obo.sourceforge.net
+OWL http://www.w3.org/TR/owl-ref/
+
