@@ -1,3 +1,6 @@
+<!-- In the study design model, protocol elements are 
+the Summary and protocol-level InclusionExclusionCriteria  -->
+
 <sdm:Summary>
  <sdm:Parameter OID="PAR.AGESPAN" Term="Age Span" ShortName="AGESPAN">
  <sdm:Value>Adult (18-65)</sdm:Value>
@@ -32,7 +35,7 @@
  </Description>
 </sdm:Epoch>
 
-<!-- study arms  -->
+<!-- study arms - planned paths through the study  -->
 <sdm:Arm OID="PLACEBO_ARM" Name="Placebo Arm" >
  <Description>
  <TranslatedText xml:lang="en">Placebo arm</TranslatedText>
@@ -50,3 +53,69 @@
  <TranslatedText xml:lang="en">High-dose arm (81 mg)</TranslatedText>
  </Description>
 </sdm:Arm>
+
+<!-- A study cell is the part of study design that describes what happens in a 
+particular epoch for a  particular arm. It describes how the purpose of its epoch 
+is fulfilled for each arm -->
+
+<!-- three examples of CellDef XML for a study with no blinding -->
+
+<!-- a screening cell with no arm assignment -->
+<sdm:CellDef OID="SCREENCELL" Name="Screening Cell" EpochOID="SCREPOCH">
+ <Description>
+ <TranslatedText xml:lang="en">Screening cell</TranslatedText>
+ </Description>
+ <sdm:SegmentRef SegmentOID="SCREENSEG" OrderNumber="1" />
+</sdm:CellDef>
+
+<!-- cell referencing the same Epoch, occurring within Drug Arm -->
+<sdm:CellDef OID="DRUGCELL" Name="Drug Treatment Cell" EpochOID="TREPOCH">
+ <Description>
+ <TranslatedText xml:lang="en">Drug treatment cell</TranslatedText>
+ </Description>
+ <sdm:ArmAssociation Type="Unblinded">
+ <sdm:ArmRef ArmOID="DRUG_ARM"/>
+ </sdm:ArmAssociation>
+ <sdm:SegmentRef SegmentOID="DRUGSEG" OrderNumber="2" />
+</sdm:CellDef>
+
+<!-- cell referencing the same Epoch, but occurring within another Arm -->
+<sdm:CellDef OID="OPERCELL" Name="Op Treatment Cell" EpochOID="TREPOCH">
+ <Description>
+ <TranslatedText xml:lang="en">Operative procedure cell</TranslatedText>
+ </Description>
+ <sdm:ArmAssociation Type="Unblinded">
+ <sdm:ArmRef ArmOID="OPER_ARM"/>
+ </sdm:ArmAssociation>
+ <sdm:SegmentRef SegmentOID="OPERSEG" OrderNumber="3" />
+</sdm:CellDef>
+
+<!-- Cell definitions, with blinding -->
+<sdm:CellDef OID="SCREENCELL" Name="Screening Cell" EpochOID="SCREPOCH">
+ <Description>
+ <TranslatedText xml:lang="en">Screening cell</TranslatedText>
+ </Description>
+ <sdm:SegmentRef SegmentOID="SCREENSEG" OrderNumber="1" />
+</sdm:CellDef>
+<sdm:CellDef OID="TRECELL" Name="Treatment Cell" EpochOID="TREPOCH">
+ <Description>
+ <TranslatedText xml:lang="en">Treatment cell</TranslatedText>
+ </Description>
+ <sdm:ArmAssociation Type="Blinded">
+ <sdm:ArmRef ArmOID="PLACEBO_ARM"/>
+ <sdm:ArmRef ArmOID="LOWDOSE_ARM"/>
+ <sdm:ArmRef ArmOID="HIGHDOSE_ARM"/>
+ </sdm:ArmAssociation>
+ <sdm:SegmentRef SegmentOID="TRESEG" OrderNumber="2" />
+</sdm:CellDef>
+
+
+<!-- combination of planned observations and interventions, which may or may not involve 
+treatment, during a period of time. -->
+<sdm:SegmentDef OID="SCREENSEG" Name="Screening Segment">
+ <Description>
+ <TranslatedText xml:lang="en">Screening segment/period</TranslatedText>
+ </Description>
+ <sdm:ActivityRef ActivityOID="ECGFORM"/>
+ <sdm:ActivityRef ActivityOID="VSFORM"/>
+</sdm:SegmentDef>
