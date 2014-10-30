@@ -151,3 +151,18 @@ treatment, during a period of time. -->
  <FormRef FormOID="CMFORM" Mandatory="Yes"/>
 </sdm:ActivityDef>
 
+<!-- Study workflows to specify possible study participant paths through a study -->
+
+<sdm:StudyStart>
+ <sdm:ActivityRef ActivityOID="ACTDEF_STUDYSTART"/>
+</sdm:StudyStart>
+
+<sdm:StudyFinish>
+ <sdm:ActivityRef ActivityOID="ACTDEF_STUDYFINISH"/> 
+</sdm:StudyFinish>
+
+<sdm:PathCanFinish>
+ <sdm:ActivityRef ActivityOID="ACT.FeverTriggerResolved"/> 
+ <sdm:ActivityRef ActivityOID="ACT.BPTriggerResolved"/> 
+</sdm:PathCanFinish>
+
