@@ -119,3 +119,35 @@ treatment, during a period of time. -->
  <sdm:ActivityRef ActivityOID="ECGFORM"/>
  <sdm:ActivityRef ActivityOID="VSFORM"/>
 </sdm:SegmentDef>
+
+
+<!-- Activities are points in a study at which a specific action is to be taken -->
+
+<!-- activity with form completion -->
+<sdm:ActivityDef OID="ACTDEF_VITALSIGNS_01" Name="Collect Vital Signs">
+ <Description>
+ <TranslatedText xml:lang="en">Collection of Vital Signs</TranslatedText>
+ </Description>
+ <FormRef FormOID="VITFORM" Mandatory="Yes"/>
+ <FormRef FormOID="MEDFORM" Mandatory="Yes"/>
+</sdm:ActivityDef>
+
+<!-- activity without form completion //timing, follow transition rules -->
+<sdm:ActivityDef OID="ACTDEF_SCHEDULING" Name="Schedule Assessment"/>
+
+<! -- Study Events -->
+<!-- In MetaDataVersion -->
+<StudyEventDef Name="Treatment Visit 12" OID="TRT_VISIT_12"
+ Repeating="No" Type="Scheduled">
+ <FormRef FormOID="VITFORM" Mandatory="Yes"/>
+ <FormRef FormOID="CMFORM" Mandatory="Yes"/>
+ <sdm:ActivityRef ActivityOID="ACT_VS" OrderNumber="1"/>
+ <sdm:ActivityRef ActivityOID="ACT_ADVASSESS" OrderNumber="2"/>
+ <sdm:ActivityRef ActivityOID="ACT_DISPENSE_MED" OrderNumber="3"/>
+</StudyEventDef>
+<!-- In sdm:Structure -->
+<sdm:ActivityDef OID="ACT_VS" Name="Collect Vital Signs">
+ <FormRef FormOID="VITFORM" Mandatory="Yes"/>
+ <FormRef FormOID="CMFORM" Mandatory="Yes"/>
+</sdm:ActivityDef>
+
