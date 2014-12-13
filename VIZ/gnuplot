@@ -1,0 +1,21 @@
+set style line 100 lt -1 lw 0.1
+set pm3d
+set pm3d at b
+set palette defined ( 0 "blue", .5 "white", \
+.75 "yellow", 1 "red")
+set colorbox horiz user origin .1,.9 size .8,.04
+set view 55,45
+set nokey
+set hidden3d
+set isosamples 25
+set term pdf size 3in,3in
+set output 'surface-gnuplot.pdf'
+set xrange [-5:+5]
+set yrange [-5:+5]
+set zrange [-1:+1]
+set multiplot
+splot sin(sqrt(x*x+y*y)) with dots
+set pm3d
+set pm3d solid hidden3d 100
+splot sin(sqrt(x*x+y*y)) with lines
+unset multiplot
