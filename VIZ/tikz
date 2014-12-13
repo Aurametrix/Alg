@@ -1,0 +1,25 @@
+# TikZ and PGF are TeX packages for creating graphics programmatically. 
+# TikZ is build on top of PGF
+# http://texample.net/tikz/examples/
+
+% Define commands for links, joints and such
+\def\link{\draw [double distance=1.5mm,
+very thick] (0,0)--}
+\def\joint{%
+\filldraw [fill=white] (0,0) circle (5pt);
+\fill[black] circle (2pt);
+}
+\def\grip{%
+\draw[ultra thick](0cm,\dg)--(0cm,-\dg);
+\fill (0cm, 0.5\dg)+(0cm,1.5pt) --
++(0.6\dg,0cm) -- +(0pt,-1.5pt);
+\fill (0cm, -0.5\dg)+(0cm,1.5pt) --
++(0.6\dg,0cm) -- +(0pt,-1.5pt);
+}
+\def\robotbase{%
+\draw[rounded corners=8pt]
+(-\dw,-\dh)-- (-\dw, 0) --
+(0,\dh)--(\dw,0)--(\dw,-\dh);
+\draw (-0.5,-\dh)-- (0.5,-\dh);
+\fill[pattern=north east lines]
+(-0.5,-1) rectangle (0.5,-\dh);
