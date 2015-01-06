@@ -20,7 +20,6 @@ div2(5.,2.)
 # Python3 doesn't perform integer arithmetic
 
 def extendList(val, list=None):
-# w/t None & if list is assumed to be 'a'
     if list is None:
         list = []
     list.append(val)
