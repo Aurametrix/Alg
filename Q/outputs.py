@@ -34,3 +34,27 @@ print "list1 = %s" % list1
 
 print "list2 = %s" % list2
 print "list3 = %s" % list3
+
+# class variables are internally handled as dictionaries
+# If a variable name is not found in the dictionary of the current class, its hierarchy 
+# such as parent classes - are searched until the referenced variable name is found 
+# if the referenced variable name is not found in the class itself or anywhere in 
+# its hierarchy, an AttributeError occurs
+
+class Parent(object):
+    x = 1
+
+# setting x = 1 in the Parent class makes the class variable x (with a value of 1) 
+# referenceable in that class and any of its children. 
+
+class Child1(Parent):
+    pass
+
+class Child2(Parent):
+    pass
+
+print Parent.x, Child1.x, Child2.x
+Child1.x = 2
+print Parent.x, Child1.x, Child2.x
+Parent.x = 3
+print Parent.x, Child1.x, Child2.x
