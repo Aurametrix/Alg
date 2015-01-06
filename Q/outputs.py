@@ -19,8 +19,8 @@ div2(5.,2.)
 # to override: from __future__ import division 
 # Python3 doesn't perform integer arithmetic
 
-def extendList(val, list=[]):
-# w/t this list is assumed to be 'a'
+def extendList(val, list=None):
+# w/t None & if list is assumed to be 'a'
     if list is None:
         list = []
     list.append(val)
