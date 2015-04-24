@@ -8,6 +8,10 @@ root = tree.getroot()
 for child in root:
      print child.tag, child.attrib
 
+# accessing specific children by index
+print "2nd sub-element of the first element:", root[0][1].text
+print "3rd sub-element of the second element:", root[1][2].text
+
 #e = xml.etree.ElementTree.parse('sample.xml').getroot()
 
 
