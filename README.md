@@ -1,7 +1,8 @@
-Alg
+Python: Algorithms, Learning resources, Modules, Updates
 ===
 
-Algorithms
+
+###Algorithms
 
 Sort:
 Quicksort, Bubblesort, Insertionsort, Mergesort
@@ -30,6 +31,11 @@ or better keep it in virtualenv:
 sudo easy_install virtualenv
 pip install BeautifulSoup4
 
+###Learning resources
+http://www.scipy-lectures.org/ Scipy Lecture Notes
+http://quant-econ.net/py/index.html
+http://people.duke.edu/~ccc14/sta-663/
+
 http://pyml.sourceforge.net/ - machine learning
 
 http://sourceforge.net/projects/numpy/  - Numerical Python, fast and sophisticated arrays
@@ -49,7 +55,7 @@ Simple way to access google api for speech recognition with python
 https://pypi.python.org/pypi/pygsr
 pip install pygsr
 
-
+###administration
 updating 2.7.x on mac  (https://www.python.org/downloads/)
 
 sudo rm -R /System/Library/Frameworks/Python.framework/Versions/2.7
