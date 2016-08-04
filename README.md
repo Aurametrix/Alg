@@ -38,20 +38,31 @@ http://people.duke.edu/~ccc14/sta-663/
 
 http://pyml.sourceforge.net/ - machine learning
 
+http://deeplearning.net/software/theano/ - Theano library
+
+https://www.cs.cmu.edu/~ymiao/pdnntk.html - PDNN: A Python Toolkit for Deep Learning
+
+
+
 http://sourceforge.net/projects/numpy/  - Numerical Python, fast and sophisticated arrays
+
 git clone git://github.com/numpy/numpy.git numpy
 
 http://matplotlib.org/ - python 2D plotting library
+
 If you get an ImportError: No module named matplotlib
+
 set your PYTHONPATH, eg: export PYTHONPATH=/Library/Python/2.7/site-packages:$PYTHONPATH
 
 git clone git://github.com/scipy/scipy.git scipy
 
 PyAudio provides Python bindings for PortAudio, the cross-platform audio I/O library 
+
 to play and record audio on a variety of platforms.
+
 http://people.csail.mit.edu/hubert/pyaudio/
 
-Simple way to access google api for speech recognition with python
+####Simple way to access google api for speech recognition with python
 https://pypi.python.org/pypi/pygsr
 pip install pygsr
 
