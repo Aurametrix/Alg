@@ -42,6 +42,9 @@ http://deeplearning.net/software/theano/ - Theano library
 
 https://www.cs.cmu.edu/~ymiao/pdnntk.html - PDNN: A Python Toolkit for Deep Learning
 
+http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf - Intro to Python for CS & Eng
+
+http://rosalind.info/problems/locations/ - Platform for learning bioinformatics
 
 
 http://sourceforge.net/projects/numpy/  - Numerical Python, fast and sophisticated arrays
