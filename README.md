@@ -36,6 +36,10 @@ http://www.scipy-lectures.org/ Scipy Lecture Notes
 http://quant-econ.net/py/index.html
 http://people.duke.edu/~ccc14/sta-663/
 
+ http://cs109.github.io/2015/pages/videos.html
+
+https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328 - Harvard data science
+
 http://pyml.sourceforge.net/ - machine learning
 
 http://deeplearning.net/software/theano/ - Theano library
