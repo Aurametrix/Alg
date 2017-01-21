@@ -4,25 +4,31 @@ Python: Algorithms, Learning resources, Modules, Updates
 
 ###Algorithms
 
-Sort:
-Quicksort, Bubblesort, Insertionsort, Mergesort
+[Sort:](SORT/)
 
-Regex:
+[Regex:](REGEX/)
 Examples of regular expressions for matching patterns
 
-Graph:
-Example of a graph with nodes A-F and 8 edges represented by Python dictionary:
-   graph = {'A': ['B', 'C'],
-             'B': ['C', 'D'],
-             'C': ['D'],
-             'D': ['C'],
-             'E': ['F'],
-             'F': ['C']}
-
-Graph search algorithms:             
+[Graph:](GRAPH/)
 A*, B*, Breadth-first, D*, Depth-first, Dijkstra's,..
 
-WEB
+Example of a graph with six nodes A-F and eight edges represented by Python dictionary:
+
+graph = {'A': ['B', 'C'],
+
+'B': ['C', 'D'],
+
+'C': ['D'],
+
+'D': ['C'],
+
+'E': ['F'],
+
+'F': ['C']}          
+
+[Machine Learning:](ML/)
+
+[Web:](WEB/)
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. 
 
 easy_install beautifulsoup4
@@ -32,15 +38,17 @@ sudo easy_install virtualenv
 pip install BeautifulSoup4
 
 ###Learning resources
-http://www.scipy-lectures.org/ Scipy Lecture Notes
-http://quant-econ.net/py/index.html
-http://people.duke.edu/~ccc14/sta-663/
+[Scipy Lecture Notes](http://www.scipy-lectures.org/) 
+[Python for Economics](http://quant-econ.net/py/index.html)
+[Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
 
- http://cs109.github.io/2015/pages/videos.html
+[CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 
 https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328 - Harvard data science
 
-http://pyml.sourceforge.net/ - machine learning
+[PYML - Machine Learning in Python](http://pyml.sourceforge.net/)
+
+[Neural network with Python and Theano](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
 
 http://deeplearning.net/software/theano/ - Theano library
 
@@ -49,7 +57,6 @@ https://www.cs.cmu.edu/~ymiao/pdnntk.html - PDNN: A Python Toolkit for Deep Lear
 http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf - Intro to Python for CS & Eng
 
 http://rosalind.info/problems/locations/ - Platform for learning bioinformatics
-
 
 http://sourceforge.net/projects/numpy/  - Numerical Python, fast and sophisticated arrays
 
