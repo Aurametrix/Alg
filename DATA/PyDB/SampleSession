@@ -1,0 +1,30 @@
+> db
+{}
+> db['x'] = 3
+None
+> db['x']
+3
+> db['l'] = range(10)
+None
+> db
+{u'x': 3, u'l': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+> db['l'][4] = ['a', 'b', 'c']
+None
+> db.undo()
+None
+> db
+{u'x': 3, u'l': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+> db.undo()
+None
+> db.redo()
+None
+> db.redo()
+None
+> db
+{u'x': 3, u'l': [0, 1, 2, 3, [u'a', u'b', u'c'], 5, 6, 7, 8, 9]}
+> [v for v in db['l'][4]]
+[u'a', u'b', u'c']
+> [k for k in db]
+[u'x', u'l']
+> db['l'][4].append('d')
+> db.save()
