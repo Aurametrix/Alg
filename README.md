@@ -2,7 +2,7 @@ Python: Algorithms, Learning resources, Modules, Updates
 ===
 
 
-###Algorithms
+### Algorithms
 
 [Sort:](SORT/)
 
@@ -37,7 +37,7 @@ or better keep it in virtualenv:
 sudo easy_install virtualenv
 pip install BeautifulSoup4
 
-###Learning resources
+### Learning resources
 [Scipy Lecture Notes](http://www.scipy-lectures.org/) 
 [Python for Economics](http://quant-econ.net/py/index.html)
 [Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
@@ -60,6 +60,8 @@ http://rosalind.info/problems/locations/ - Platform for learning bioinformatics
 
 http://sourceforge.net/projects/numpy/  - Numerical Python, fast and sophisticated arrays
 
+[Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
+
 git clone git://github.com/numpy/numpy.git numpy
 
 http://matplotlib.org/ - python 2D plotting library
@@ -76,11 +78,11 @@ to play and record audio on a variety of platforms.
 
 http://people.csail.mit.edu/hubert/pyaudio/
 
-####Simple way to access google api for speech recognition with python
+#### Simple way to access google api for speech recognition with python
 https://pypi.python.org/pypi/pygsr
 pip install pygsr
 
-###administration
+### administration
 updating 2.7.x on mac  (https://www.python.org/downloads/)
 
 sudo rm -R /System/Library/Frameworks/Python.framework/Versions/2.7
