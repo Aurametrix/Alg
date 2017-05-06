@@ -85,6 +85,10 @@ http://people.csail.mit.edu/hubert/pyaudio/
 https://pypi.python.org/pypi/pygsr
 pip install pygsr
 
+### security
+[Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also
+[github mirror](https://github.com/isislovecruft/python-gnupg)
+
 ### administration
 updating 2.7.x on mac  (https://www.python.org/downloads/)
 
