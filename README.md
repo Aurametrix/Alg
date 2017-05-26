@@ -40,6 +40,14 @@ or better keep it in virtualenv:
 sudo easy_install virtualenv
 pip install BeautifulSoup4
 
+[5 web scraping libraries](https://elitedatascience.com/python-web-scraping-libraries)
++The Farm: Requests
++The Stew: Beautiful Soup 4
++The Salad: lxml
++The Restaurant: Selenium
++The Chef: Scrapy
+
+
 ### Learning resources
 [Scipy Lecture Notes](http://www.scipy-lectures.org/) 
 [Python for Economics](http://quant-econ.net/py/index.html)
