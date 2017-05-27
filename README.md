@@ -29,7 +29,8 @@ graph = {'A': ['B', 'C'],
 
 'F': ['C']}          
 
-[Machine Learning:](ML/)
+[Machine 
+:](ML/)
 
 [Web:](WEB/)
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. 
@@ -89,9 +90,13 @@ to play and record audio on a variety of platforms.
 
 http://people.csail.mit.edu/hubert/pyaudio/
 
-#### Simple way to access google api for speech recognition with python
-https://pypi.python.org/pypi/pygsr
+[Simple way to access google api for speech recognition with python](https://pypi.python.org/pypi/pygsr)
 pip install pygsr
+
+[A grammar of graphics for python](https://github.com/has2k1/plotnine)
+
+[wrapper providing R's ggplot2 syntax](https://github.com/sirrice/pygg)
+
 
 ### security
 [Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also
