@@ -29,8 +29,10 @@ graph = {'A': ['B', 'C'],
 
 'F': ['C']}          
 
-[Machine 
+[Machine Learning
 :](ML/)
+
+[Reinforcement Learning](https://github.com/5vision)
 
 [Web:](WEB/)
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. 
