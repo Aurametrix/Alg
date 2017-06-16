@@ -101,7 +101,8 @@ pip install pygsr
 
 [wrapper providing R's ggplot2 syntax](https://github.com/sirrice/pygg)
 
-
+### datasets
+[](https://deepmind.com/research/open-source/open-source-datasets/)
 ### security
 [Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also
 [github mirror](https://github.com/isislovecruft/python-gnupg)
