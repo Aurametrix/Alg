@@ -35,6 +35,8 @@ graph = {'A': ['B', 'C'],
 [Reinforcement Learning](https://github.com/5vision)
 [Chatfirst API](https://github.com/chatfirst/chatfirst)
 
+[Open source deep learning models](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List)
+
 
 [Web:](WEB/)
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. 
