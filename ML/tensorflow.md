@@ -19,3 +19,8 @@
  
   cd ../5_MultiGPU
  time python multigpu_basics.py
+
+
+### Developed using TensorFlow
+
++ [Using 3D Convolutional Neural Networks for Speaker Verification](https://github.com/astorfi/3D-convolutional-speaker-recognition)
