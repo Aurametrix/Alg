@@ -32,10 +32,11 @@ graph = {'A': ['B', 'C'],
 [Machine Learning
 :](ML/)
 
-[Reinforcement Learning](https://github.com/5vision)
-[Chatfirst API](https://github.com/chatfirst/chatfirst)
++ [ML Crash Course: The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
++ [Reinforcement Learning](https://github.com/5vision)
++ [Chatfirst API](https://github.com/chatfirst/chatfirst)
 
-[Open source deep learning models](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List)
++ [Open source deep learning models](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List)
 
 
 [Web:](WEB/)
