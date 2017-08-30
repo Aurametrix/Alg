@@ -1,5 +1,8 @@
-Python: Algorithms, Learning resources, Modules, Updates
+Python
 ===
+
+### Algorithms, Learning resources, Modules, Updates
+
 
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
@@ -49,6 +52,9 @@ easy_install beautifulsoup4
 or better keep it in virtualenv:
 sudo easy_install virtualenv
 pip install BeautifulSoup4
+
++ [DAta Science handbook]{(https://jakevdp.github.io/PythonDataScienceHandbook/)
++ [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 
 [5 web scraping libraries](https://elitedatascience.com/python-web-scraping-libraries)
 +The Farm: Requests
