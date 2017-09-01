@@ -112,8 +112,20 @@ pip install pygsr
 
 [wrapper providing R's ggplot2 syntax](https://github.com/sirrice/pygg)
 
+
 ### datasets
-[](https://deepmind.com/research/open-source/open-source-datasets/)
+
+[open source](https://deepmind.com/research/open-source/open-source-datasets/)
+
+[A RESTish web API for climate change related data](http://api.carbondoomsday.com); [github](https://github.com/giving-a-fuck-about-climate-change/carbondoomsday)
+
+[Global average temperatures](https://www.nsstc.uah.edu/climate/)[direct link](http://www.nsstc.uah.edu/data/msu/v6.0beta/tlt/uahncdc_lt_6.0beta5.txt)
+
+[cold and warm episodes by season](http://www.cpc.noaa.gov/products/analysis_monitoring/ensostuff/ensoyears.shtml)
+
+[sea level information](http://sealevel.colorado.edu/)
+
+
 ### security
 [Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also
 [github mirror](https://github.com/isislovecruft/python-gnupg)
