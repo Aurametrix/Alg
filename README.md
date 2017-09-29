@@ -7,6 +7,7 @@ Python
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
     
+ [Nuitka, a Python compiler](http://nuitka.net/pages/overview.html)
 
 ### Algorithms
 
