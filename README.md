@@ -113,8 +113,27 @@ pip install pygsr
 
 [wrapper providing R's ggplot2 syntax](https://github.com/sirrice/pygg)
 
+### Testing
 
-### datasets
+pip install selenium  # Downloading Python bindings for Selenium
+(for windows: C:\Python35\Scripts\pip.exe install selenium)
+
+Place drivers in /usr/bin or /usr/local/bin
+
+|Browser	| Popular Drivers                                                       	|---	|
+|---------	|-----------------------------------------------------------------------	|---	|
+| Chrome  	| https://sites.google.com/a/chromium.org/chromedriver/downloads        	|   	| 
+| Edge    	| https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/ 	|   	|
+| Firefox 	| https://github.com/mozilla/geckodriver/releases                       	|   	|  
+| Safari  	| https://webkit.org/blog/6900/webdriver-support-in-safari-10/          	|   	| 
+
+Cons: Selenium tests are unstable, time to maintain and run, low ROI
+
+Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, Jasmine and Protractor; Screenster
+
+[Testing with Cucumber and Capybara](https://www.gamesparks.com/blog/automated-testing-with-cucumber-and-capybara/)
+
+### Datasets
 
 [open source](https://deepmind.com/research/open-source/open-source-datasets/)
 
