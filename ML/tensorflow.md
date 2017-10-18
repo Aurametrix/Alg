@@ -21,6 +21,10 @@
  time python multigpu_basics.py
 
 
++ [getting started with tensor flow](https://www.tensorflow.org/get_started/get_started)
+
++ [Tensorflow vs Teano](https://news.ycombinator.com/item?id=14575465)
+
 ### Developed using TensorFlow
 
 + [Using 3D Convolutional Neural Networks for Speaker Verification](https://github.com/astorfi/3D-convolutional-speaker-recognition)
