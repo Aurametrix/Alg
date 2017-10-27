@@ -20,10 +20,14 @@
   cd ../5_MultiGPU
  time python multigpu_basics.py
 
+### Tutorials
 
 + [getting started with tensor flow](https://www.tensorflow.org/get_started/get_started)
 
 + [Tensorflow vs Teano](https://news.ycombinator.com/item?id=14575465)
+
++ [Object detection with open images](https://blog.algorithmia.com/deep-dive-into-object-detection-with-open-images-using-tensorflow/)
+
 
 ### Developed using TensorFlow
 
