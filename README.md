@@ -1,13 +1,16 @@
 Python
 ===
 
-### Algorithms, Learning resources, Modules, Updates
+### Modules, Updates
 
 
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
     
  [Nuitka, a Python compiler](http://nuitka.net/pages/overview.html)
+ 
+ 
+
 
 ### Algorithms
 
@@ -41,9 +44,16 @@ graph = {'A': ['B', 'C'],
 + [Chatfirst API](https://github.com/chatfirst/chatfirst)
 
 + [Open source deep learning models](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List)
-+[the future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
++ [the future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
 
-+[in-browser deep learning](https://tenso.rs/#readmore)
++ [in-browser deep learning](https://tenso.rs/#readmore)
+
++ [Collaboratory](https://research.google.com/colaboratory/unregistered.html)
+
++ [Azure notebooks](https://notebooks.azure.com/)
+
++ [CoCalc](https://cocalc.com/) created by the SageMath developers
+
 
 [Web:](WEB/)
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. 
