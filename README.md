@@ -97,7 +97,7 @@ http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computatio
 
 http://rosalind.info/problems/locations/ - Platform for learning bioinformatics
 
-http://sourceforge.net/projects/numpy/  - Numerical Python, fast and sophisticated arrays
+http://sourceforge.net/projects/numpy/  - Numerical Python, fast and sophisticated arrays  [python 2.7](https://github.com/numpy/numpy/blob/master/doc/neps/dropping-python2.7-proposal.rst)
 
 [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
 
