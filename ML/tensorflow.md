@@ -32,3 +32,5 @@
 ### Developed using TensorFlow
 
 + [Using 3D Convolutional Neural Networks for Speaker Verification](https://github.com/astorfi/3D-convolutional-speaker-recognition)
+
++ [Models built with TensorFlow](https://github.com/stanfordmlgroup/tf-models) from Stnford ML group
