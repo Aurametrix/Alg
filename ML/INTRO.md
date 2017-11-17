@@ -22,6 +22,9 @@
 + [CS231n Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 + [TensorFlow and deep learning](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
+
++ [Semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+
 ### ML Models implemented in Tensor Flow
 
 - [https://github.com/stanfordmlgroup/tf-models/tree/master/autoencoder](autoencoder) -- various autoencoders
