@@ -37,8 +37,7 @@ graph = {'A': ['B', 'C'],
 
 'F': ['C']}          
 
-[Machine Learning
-:](ML/)
+[Machine Learning:](ML/)
 
 + [ML Crash Course: The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
 + [Reinforcement Learning](https://github.com/5vision)
@@ -77,25 +76,27 @@ pip install BeautifulSoup4
 
 
 ### Learning resources
-[Scipy Lecture Notes](http://www.scipy-lectures.org/) 
-[Python for Economics](http://quant-econ.net/py/index.html)
-[Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/) 
+* [Python for Economics](http://quant-econ.net/py/index.html)
+* [Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
 
-[CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
+* [CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 
-https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328 - Harvard data science
+* [Harvard Data Science](https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328)
 
-[PYML - Machine Learning in Python](http://pyml.sourceforge.net/)
+* [PYML - Machine Learning in Python](http://pyml.sourceforge.net/)
 
-[Neural network with Python and Theano](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
+* [Neural network with Python and Theano](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
 
-http://deeplearning.net/software/theano/ - Theano library
+* [Theano Library](http://deeplearning.net/software/theano/)
 
-https://www.cs.cmu.edu/~ymiao/pdnntk.html - PDNN: A Python Toolkit for Deep Learning
+* (https://www.cs.cmu.edu/~ymiao/pdnntk.html) - PDNN: A Python Toolkit for Deep Learning
 
 http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf - Intro to Python for CS & Eng
 
-http://rosalind.info/problems/locations/ - Platform for learning bioinformatics
+* [Platform for learning bioinformatics](http://rosalind.info/problems/locations/)
+
+* [Matrix Calculus](http://www.matrixcalculus.org/)
 
 http://sourceforge.net/projects/numpy/  - Numerical Python, fast and sophisticated arrays  [python 2.7](https://github.com/numpy/numpy/blob/master/doc/neps/dropping-python2.7-proposal.rst)
 
