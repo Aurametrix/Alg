@@ -34,3 +34,9 @@
 + [Using 3D Convolutional Neural Networks for Speaker Verification](https://github.com/astorfi/3D-convolutional-speaker-recognition)
 
 + [Models built with TensorFlow](https://github.com/stanfordmlgroup/tf-models) from Stnford ML group
+
+### TensorFlow Datasets and Estimators
+
+[part 1](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html); [part 2: feature columns](https://developers.googleblog.com/2017/11/introducing-tensorflow-feature-columns.html)
+
+
