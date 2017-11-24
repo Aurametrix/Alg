@@ -2,7 +2,7 @@
 * [TensorFlow on Github](https://github.com/tensorflow/tensorflow)
 + [Python API](https://www.tensorflow.org/api_docs/python/)
 
-]
+
 Deep Learning with Tensor Flow
 
      docker run -it tensorflow/tensorflow bash
@@ -39,20 +39,20 @@ Deep Learning with Tensor Flow
 
 ### youtube 
 ##### Theory:
-* [How NNs work: ](https://www.youtube.com/watch?v=ILsA4nyG7I0
-* [How Convolution NNs work: ](https://www.youtube.com/watch?v=FmpDIaiMIeA
-* [How Deep NNs work: ](https://www.youtube.com/watch?v=ILsA4nyG7I0&t=5s
-* [Recurrent NNs and LSTM: ](https://www.youtube.com/watch?v=WCUNPb-5EYI
+* [How NNs work: ](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+* [How Convolution NNs work: ](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+* [How Deep NNs work: ](https://www.youtube.com/watch?v=ILsA4nyG7I0&t=5s)
+* [Recurrent NNs and LSTM: ](https://www.youtube.com/watch?v=WCUNPb-5EYI)
 
 ##### Applied:
-* [Deep Learning with NNs and TensorFlow: ](https://www.youtube.com/watch?v=oYbVFhK_olY
+* [Deep Learning with NNs and TensorFlow: ](https://www.youtube.com/watch?v=oYbVFhK_olY)
 
 
 ### Developed using TensorFlow
 
 + [Using 3D Convolutional Neural Networks for Speaker Verification](https://github.com/astorfi/3D-convolutional-speaker-recognition)
 
-+ [Models built with TensorFlow](https://github.com/stanfordmlgroup/tf-models) from Stnford ML group
++ [Models built with TensorFlow](https://github.com/stanfordmlgroup/tf-models) from Stanford ML group
 
 ### TensorFlow Datasets and Estimators
 
@@ -60,4 +60,11 @@ Deep Learning with Tensor Flow
 
 
 ### Applications
-AI agents incorporating the OpenCog AGI framework, Google Tensorflow and other powerful tools can interact within the [SingularityNET](https://github.com/singnet/singnet)
+
++ AI agents incorporating the OpenCog AGI framework, Google Tensorflow and other powerful tools can interact within the [SingularityNET](https://github.com/singnet/singnet)
+
+#### Stock Market Prediction
+
++ [Using Multi-Layer Perceptrons ](https://nicholastsmith.wordpress.com/2016/04/20/stock-market-prediction-using-multi-layer-perceptrons-with-tensorflow/)
++ [with CNN](https://github.com/kimber-chen/Tensorflow-for-stock-prediction)
++ [on GoogleCloud](https://cloud.google.com/solutions/machine-learning-with-financial-time-series-data)
