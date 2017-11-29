@@ -39,3 +39,12 @@
 - [https://github.com/stanfordmlgroup/tf-models/tree/master/textsum](textsum) -- sequence-to-sequence with attention model for text summarization.
 - [https://github.com/stanfordmlgroup/tf-models/tree/master/transformer](transformer) -- spatial transformer network, which allows the spatial manipulation of data within the network
 - [https://github.com/stanfordmlgroup/tf-models/tree/master/im2txt](im2txt) -- image-to-text neural network for image captioning.
+
+
+### Tensors and Dynamic neural networks
+
+* [Pytorch](http://pytorch.org/) - a deep learning framework that puts Python first
+
+* [DyNet – Dynamic neural network library](https://github.com/clab/dynet)
+
+TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run", as the graph structure is defined on-the-fly via the actual forward computation.
