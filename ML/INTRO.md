@@ -48,3 +48,8 @@
 * [DyNet – Dynamic neural network library](https://github.com/clab/dynet)
 
 TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run", as the graph structure is defined on-the-fly via the actual forward computation.
+
+
+### Interesting papers
+
+[Learning on just one image](https://dmitryulyanov.github.io/deep_image_prior) - [code](https://github.com/DmitryUlyanov/deep-image-prior)
