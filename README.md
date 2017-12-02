@@ -99,19 +99,21 @@ pip install BeautifulSoup4
 
 * [Matrix Calculus](http://www.matrixcalculus.org/)
 
-[Numerical Python, fast and sophisticated arrays](http://sourceforge.net/projects/numpy/) - [python 2.7](https://github.com/numpy/numpy/blob/master/doc/neps/dropping-python2.7-proposal.rst)
+* [API checklist](http://python.apichecklist.com/)
 
-[Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
+* [Numerical Python, fast and sophisticated arrays](http://sourceforge.net/projects/numpy/) - [python 2.7](https://github.com/numpy/numpy/blob/master/doc/neps/dropping-python2.7-proposal.rst)
 
-git clone git://github.com/numpy/numpy.git numpy
+* [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
 
-http://matplotlib.org/ - python 2D plotting library
+    git clone git://github.com/numpy/numpy.git numpy
+
+    http://matplotlib.org/ - python 2D plotting library
 
 If you get an ImportError: No module named matplotlib
 
 set your PYTHONPATH, eg: export PYTHONPATH=/Library/Python/2.7/site-packages:$PYTHONPATH
 
-git clone git://github.com/scipy/scipy.git scipy
+    git clone git://github.com/scipy/scipy.git scipy
 
 PyAudio provides Python bindings for PortAudio, the cross-platform audio I/O library 
 
