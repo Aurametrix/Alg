@@ -25,6 +25,8 @@
 
 + [Semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 
++ [The mclfy project](https://github.com/NLeSC/mcfly)
+
 ### ML Models implemented in Tensor Flow
 
 - [https://github.com/stanfordmlgroup/tf-models/tree/master/autoencoder](autoencoder) -- various autoencoders
