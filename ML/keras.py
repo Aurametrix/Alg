@@ -1,11 +1,7 @@
 from keras.models import Sequential
-
-model = Sequential()
-
 from keras.layers import Dense
-
-model.add(Dense(units=64, activation='relu', input_dim=100))
-model.add(Dense(units=10, activation='softmax'))
-
-# x_train and y_train are Numpy arrays --just like in the Scikit-Learn API.
-model.fit(x_train, y_train, epochs=5, batch_size=32)
+from keras.utils.vis_utils import plot_model
+model = Sequential()
+model.add(Dense(2, input_dim=1, activation='relu'))
+model.add(Dense(1, activation='sigmoid'))
+plot_model(model, to_file='model_plot.png', show_shapes=True, show_layer_names=True)
