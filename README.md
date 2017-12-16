@@ -13,6 +13,10 @@ Python
 [Junja2 - a template engine](http://jinja.pocoo.org/); [2.1](https://github.com/pallets/jinja/releases/tag/2.10)
 
 
+### Conferences
+
+[2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
+
 ### Algorithms
 
 [Sort:](SORT/)
