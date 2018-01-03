@@ -29,19 +29,21 @@
 
 ### ML Models implemented in Tensor Flow
 
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/autoencoder](autoencoder) -- various autoencoders
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/inception](inception) -- deep convolutional networks for computer vision
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/namignizer](namignizer) -- recognize and generate names
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/neural_gpu](neural_gpu) -- highly parallel neural computer
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/privacy](privacy) -- privacy-preserving student models from multiple teachers
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/resnet](resnet) -- deep and wide residual networks
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/slim](slim) -- image classification models in TF-Slim
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/swivel](swivel) -- the Swivel algorithm for generating word embeddings
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/syntaxnet](syntaxnet) -- neural models of natural language syntax
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/textsum](textsum) -- sequence-to-sequence with attention model for text summarization.
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/transformer](transformer) -- spatial transformer network, which allows the spatial manipulation of data within the network
-- [https://github.com/stanfordmlgroup/tf-models/tree/master/im2txt](im2txt) -- image-to-text neural network for image captioning.
+- [autoencoder](https://github.com/stanfordmlgroup/tf-models/tree/master/autoencoder) -- various autoencoders
+- [inception](https://github.com/stanfordmlgroup/tf-models/tree/master/inception) -- deep convolutional networks for computer vision
+- [namignizer](https://github.com/stanfordmlgroup/tf-models/tree/master/namignizer) -- recognize and generate names
+- [neural_gpu](https://github.com/stanfordmlgroup/tf-models/tree/master/neural_gpu) -- highly parallel neural computer
+- [privacy](https://github.com/stanfordmlgroup/tf-models/tree/master/privacy) -- privacy-preserving student models from multiple teachers
+- [resnet](https://github.com/stanfordmlgroup/tf-models/tree/master/resnet) -- deep and wide residual networks
+- [slim](https://github.com/stanfordmlgroup/tf-models/tree/master/slim) -- image classification models in TF-Slim
+- [swivel](https://github.com/stanfordmlgroup/tf-models/tree/master/swivel) -- the Swivel algorithm for generating word embeddings
+- [syntaxnet](https://github.com/stanfordmlgroup/tf-models/tree/master/syntaxnet) -- neural models of natural language syntax
+- [textsum](https://github.com/stanfordmlgroup/tf-models/tree/master/textsum) -- sequence-to-sequence with attention model for text summarization.
+- [transformer](https://github.com/stanfordmlgroup/tf-models/tree/master/transformer) -- spatial transformer network, which allows the spatial manipulation of data within the network
+- [im2txt](https://github.com/stanfordmlgroup/tf-models/tree/master/im2txt) -- image-to-text neural network for image captioning.
 
+-[Mask RCNN](https://github.com/matterport/Mask_RCNN) - MAtterport's implementation for object detection and instance segmentation on Keras and TensorFlow
+-using Mask R-CNN algorithm to [detect features in satellite images](https://github.com/jremillard/images-to-osm)
 
 ### Tensors and Dynamic neural networks
 
