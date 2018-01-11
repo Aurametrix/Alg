@@ -7,6 +7,9 @@
 + [YouTube Introduction to Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
 
++ [Screenshot to Code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
++[Pix2Code: Generating Code from a Graphical User Interface Screenshot](https://github.com/tonybeltramelli/pix2code)
+
 ### DIGITS
 
 + [Nvidia Developer](https://developer.nvidia.com/digits)
