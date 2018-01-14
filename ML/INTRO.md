@@ -45,8 +45,8 @@
 - [transformer](https://github.com/stanfordmlgroup/tf-models/tree/master/transformer) -- spatial transformer network, which allows the spatial manipulation of data within the network
 - [im2txt](https://github.com/stanfordmlgroup/tf-models/tree/master/im2txt) -- image-to-text neural network for image captioning.
 
--[Mask RCNN](https://github.com/matterport/Mask_RCNN) - MAtterport's implementation for object detection and instance segmentation on Keras and TensorFlow
--using Mask R-CNN algorithm to [detect features in satellite images](https://github.com/jremillard/images-to-osm)
+- [Mask RCNN](https://github.com/matterport/Mask_RCNN) - Matterport's implementation for object detection and instance segmentation on Keras and TensorFlow
+- using Mask R-CNN algorithm to [detect features in satellite images](https://github.com/jremillard/images-to-osm)
 
 ### Tensors and Dynamic neural networks
 
@@ -60,3 +60,15 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 ### Interesting papers
 
 [Learning on just one image](https://dmitryulyanov.github.io/deep_image_prior) - [code](https://github.com/DmitryUlyanov/deep-image-prior)
+
+### ML resources
+
+* [Making neural nets uncool again](http://www.fast.ai/)
+* [](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [MIT](https://agi.mit.edu/)
+* [Caltech](https://work.caltech.edu/telecourse.html)
+* [udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
+* https://www.youtube.com/watch?v=eLbMPyrw4rw&list=PL6EE0CD02910E57B8
+* https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
+* https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+* 
