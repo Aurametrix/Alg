@@ -25,7 +25,7 @@
 + [CS231n Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 + [TensorFlow and deep learning](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
-
++ [Deep Learning for self-driving cars](https://selfdrivingcars.mit.edu/)
 + [Semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 
 + [The mclfy project](https://github.com/NLeSC/mcfly)
