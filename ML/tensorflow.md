@@ -64,6 +64,8 @@ Deep Learning with Tensor Flow
 
 + AI agents incorporating the OpenCog AGI framework, Google Tensorflow and other powerful tools can interact within the [SingularityNET](https://github.com/singnet/singnet)
 
++[Product Search](https://hanxiao.github.io/2018/01/10/Build-Cross-Lingual-End-to-End-Product-Search-using-Tensorflow/)
+
 #### Stock Market Prediction
 
 + [Using Multi-Layer Perceptrons ](https://nicholastsmith.wordpress.com/2016/04/20/stock-market-prediction-using-multi-layer-perceptrons-with-tensorflow/)
