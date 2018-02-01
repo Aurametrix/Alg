@@ -2,6 +2,7 @@
 + [Theories of deep learning](https://stats385.github.io/), [GH](https://github.com/stats385/stats385.github.io)
 + [Andre Ng's online course](https://www.coursera.org/specializations/deep-learning)
 + [Brief History](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
++ [Practical Deep Learning for Coders](http://course.fast.ai/)
 
 
 + [YouTube Introduction to Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk)
