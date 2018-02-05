@@ -15,6 +15,8 @@ Python
 
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
+[Algebraic Number Theory package](https://github.com/louisabraham/algnuth)
+
 ### Conferences
 
 [2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
