@@ -13,6 +13,8 @@ Python
 [Junja2 - a template engine](http://jinja.pocoo.org/); [2.1](https://github.com/pallets/jinja/releases/tag/2.10)
 
 
+[Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
+
 ### Conferences
 
 [2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
