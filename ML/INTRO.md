@@ -73,3 +73,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 * https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
 * https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 * 
+
+### HW platforms
+
+* [GPU providers](https://rare-technologies.com/machine-learning-benchmarks-hardware-providers-gpu-part-2/)
+* [Comparison of graphics cards](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
