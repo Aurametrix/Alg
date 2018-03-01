@@ -1,7 +1,7 @@
 #### Google's open source software library for numerical computation using data flow graphs written in Python, C++ and CUDA
 * [TensorFlow on Github](https://github.com/tensorflow/tensorflow)
 + [Python API](https://www.tensorflow.org/api_docs/python/)
-
++ [Google's Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 Deep Learning with Tensor Flow
 
