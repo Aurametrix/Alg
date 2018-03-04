@@ -49,6 +49,7 @@
 - [Mask RCNN](https://github.com/matterport/Mask_RCNN) - Matterport's implementation for object detection and instance segmentation on Keras and TensorFlow
 - using Mask R-CNN algorithm to [detect features in satellite images](https://github.com/jremillard/images-to-osm)
 
+
 ### Tensors and Dynamic neural networks
 
 * [Pytorch](http://pytorch.org/) - a deep learning framework that puts Python first
@@ -57,6 +58,8 @@
 
 TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run", as the graph structure is defined on-the-fly via the actual forward computation.
 
+* [Chess AI](https://github.com/glinscott/leela-chess)
+* [Keras Implementation of Alpha Zero for Chess](https://github.com/Zeta36/chess-alpha-zero)
 
 ### Interesting papers
 
@@ -65,7 +68,7 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 ### ML resources
 
 * [Making neural nets uncool again](http://www.fast.ai/)
-* [](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [Udacity course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [MIT](https://agi.mit.edu/)
 * [Caltech](https://work.caltech.edu/telecourse.html)
 * [udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
