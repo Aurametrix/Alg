@@ -57,6 +57,8 @@ Deep Learning with Tensor Flow
 
 + [DeepLab: Deep Labelling for Semantic Image Segmentation](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
++ [instance segmentation](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
+
 ### TensorFlow Datasets and Estimators
 
 [part 1](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html); [part 2: feature columns](https://developers.googleblog.com/2017/11/introducing-tensorflow-feature-columns.html)
