@@ -55,6 +55,8 @@ Deep Learning with Tensor Flow
 
 + [Models built with TensorFlow](https://github.com/stanfordmlgroup/tf-models) from Stanford ML group
 
++ [DeepLab: Deep Labelling for Semantic Image Segmentation](https://github.com/tensorflow/models/tree/master/research/deeplab)
+
 ### TensorFlow Datasets and Estimators
 
 [part 1](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html); [part 2: feature columns](https://developers.googleblog.com/2017/11/introducing-tensorflow-feature-columns.html)
