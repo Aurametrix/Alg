@@ -55,6 +55,8 @@ Deep Learning with Tensor Flow
 
 + [Models built with TensorFlow](https://github.com/stanfordmlgroup/tf-models) from Stanford ML group
 
++ [Model analysis tools](https://github.com/tensorflow/model-analysis)
+
 + [DeepLab: Deep Labelling for Semantic Image Segmentation](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 + [instance segmentation](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
