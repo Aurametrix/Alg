@@ -9,7 +9,7 @@
 
 
 + [Screenshot to Code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
-+[Pix2Code: Generating Code from a Graphical User Interface Screenshot](https://github.com/tonybeltramelli/pix2code)
++ [Pix2Code: Generating Code from a Graphical User Interface Screenshot](https://github.com/tonybeltramelli/pix2code)
 
 ### DIGITS
 
@@ -64,6 +64,11 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 ### Interesting papers
 
 [Learning on just one image](https://dmitryulyanov.github.io/deep_image_prior) - [code](https://github.com/DmitryUlyanov/deep-image-prior)
+
+[The open source data science curriculum](http://datasciencemasters.org/)
+
+[Foundetions of data science - Berkeley course](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
+
 
 ### ML resources
 
