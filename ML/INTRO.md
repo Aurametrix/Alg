@@ -4,6 +4,22 @@
 + [Brief History](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 + [Practical Deep Learning for Coders](http://course.fast.ai/)
 
+### Jupyter Notebooks
+
++ [A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
+
++ 16 notebooks from the book "Python Machine Learning" by Raschka & Mirjalili https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition
+
++ Linear Regression, Logistic Regression, Random Forests, and k-Means Clustering notebooks by Nitin Borwankar https://github.com/nborwankar/LearnDataScience
+
++ scikit-learn tutorial notebooks by Jake VanderPlas https://github.com/jakevdp/sklearn_tutorial
+
++ Lots of deep learning notebooks from the book "Deep Learning with Python" by François Chollet https://github.com/fchollet/deep-learning-with-python-notebo...
+
++ Jupyter notebook on AWS tutorial (when your local computer just won't handle your notebook requirements): http://efavdb.com/deep-learning-with-jupyter-on-aws/
+
+
+### ---
 
 + [YouTube Introduction to Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
