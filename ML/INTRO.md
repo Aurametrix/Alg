@@ -69,6 +69,7 @@
 ### Tensors and Dynamic neural networks
 
 * [Pytorch](http://pytorch.org/) - a deep learning framework that puts Python first
+    * [OpenNMT - a full-featured, open-source neural machine translation system utilizing the Torch mathematical toolkit](https://github.com/opennmt/opennmt)
 
 * [DyNet – Dynamic neural network library](https://github.com/clab/dynet)
 
