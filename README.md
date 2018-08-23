@@ -19,6 +19,8 @@ Python
 
 [Algebraic Number Theory package](https://github.com/louisabraham/algnuth)
 
+[The Python scientific stack, compiled to WebAssembly ](https://github.com/iodide-project/pyodide); see [demo](https://iodide.io/pyodide-demo/python.html)
+
 ### Conferences
 
 [2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
@@ -74,7 +76,7 @@ or better keep it in virtualenv:
 sudo easy_install virtualenv
 pip install BeautifulSoup4
 
-+ [DAta Science handbook]{(https://jakevdp.github.io/PythonDataScienceHandbook/)
++ [Data Science handbook]{(https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 
 [5 web scraping libraries](https://elitedatascience.com/python-web-scraping-libraries)
