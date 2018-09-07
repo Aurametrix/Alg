@@ -162,6 +162,8 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 
 ### Datasets
 
+[Google dataset search](https://toolbox.google.com/datasetsearch)
+
 [open source](https://deepmind.com/research/open-source/open-source-datasets/)
 
 [A RESTish web API for climate change related data](http://api.carbondoomsday.com); [github](https://github.com/giving-a-fuck-about-climate-change/carbondoomsday)
