@@ -47,6 +47,8 @@
 
 + [The mclfy project](https://github.com/NLeSC/mcfly)
 
++ [Open ML course](https://mlcourse.ai/)
+
 ### ML Models implemented in Tensor Flow
 
 - [autoencoder](https://github.com/stanfordmlgroup/tf-models/tree/master/autoencoder) -- various autoencoders
