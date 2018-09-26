@@ -140,6 +140,10 @@ pip install pygsr
 
 [wrapper providing R's ggplot2 syntax](https://github.com/sirrice/pygg)
 
+### UI
+
++ PyQT5, [Python GUI](https://build-system.fman.io/pyqt5-tutorial)
+
 ### Testing
 
 pip install selenium  # Downloading Python bindings for Selenium
