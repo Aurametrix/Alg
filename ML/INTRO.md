@@ -3,6 +3,7 @@
 + [Andre Ng's online course](https://www.coursera.org/specializations/deep-learning)
 + [Brief History](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 + [Practical Deep Learning for Coders](http://course.fast.ai/)
+  + [Intro to ML for coders](http://course.fast.ai/ml)
 
 ### Jupyter Notebooks
 
