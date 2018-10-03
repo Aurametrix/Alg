@@ -50,6 +50,8 @@
 
 + [Open ML course](https://mlcourse.ai/)
 
+
+
 ### ML Models implemented in Tensor Flow
 
 - [autoencoder](https://github.com/stanfordmlgroup/tf-models/tree/master/autoencoder) -- various autoencoders
@@ -71,6 +73,8 @@
 
 ### Tensors and Dynamic neural networks
 
+* [Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)  
+* [PyTorch in GoogleCloud](Introducing PyTorch across Google Cloud)
 * [Pytorch](http://pytorch.org/) - a deep learning framework that puts Python first
     * [OpenNMT - a full-featured, open-source neural machine translation system utilizing the Torch mathematical toolkit](https://github.com/opennmt/opennmt)
 
