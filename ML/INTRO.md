@@ -85,6 +85,11 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 * [Chess AI](https://github.com/glinscott/leela-chess)
 * [Keras Implementation of Alpha Zero for Chess](https://github.com/Zeta36/chess-alpha-zero)
 
+### CUDA
+
++ [CUDA-based Finite Difference Time Domain (FDTD) Simulation](https://news.ycombinator.com/item?id=18119345)
++ [Examples of pyCUDA usage](https://wiki.tiker.net/PyCuda/Examples)
+
 ### Interesting papers
 
 [Learning on just one image](https://dmitryulyanov.github.io/deep_image_prior) - [code](https://github.com/DmitryUlyanov/deep-image-prior)
