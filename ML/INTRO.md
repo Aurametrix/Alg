@@ -19,6 +19,7 @@
 
 + Jupyter notebook on AWS tutorial (when your local computer just won't handle your notebook requirements): http://efavdb.com/deep-learning-with-jupyter-on-aws/
 
++ [colorizing and restoring old images](https://github.com/jantic/DeOldify)
 
 ### ---
 
