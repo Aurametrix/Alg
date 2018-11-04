@@ -115,6 +115,8 @@ pip install BeautifulSoup4
 
 * [Numerical Python, fast and sophisticated arrays](http://sourceforge.net/projects/numpy/) - [python 2.7](https://github.com/numpy/numpy/blob/master/doc/neps/dropping-python2.7-proposal.rst)
 
+* [Python cheet sheets](https://www.pythonsheets.com/)
+
 * [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
 
     git clone git://github.com/numpy/numpy.git numpy
@@ -179,7 +181,7 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 [sea level information](http://sealevel.colorado.edu/)
 
 
-### security
+### Security
 [Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also
 [github mirror](https://github.com/isislovecruft/python-gnupg)
 
