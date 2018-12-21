@@ -111,7 +111,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 * https://www.youtube.com/watch?v=eLbMPyrw4rw&list=PL6EE0CD02910E57B8
 * https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT
 * https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
-* 
+* [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
+
 ### AI
 + [AI training scales](https://blog.openai.com/science-of-ai/)
 
