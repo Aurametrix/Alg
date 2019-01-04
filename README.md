@@ -26,6 +26,11 @@ Python
 ### Conferences
 
 [2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
+[2019 PyCon](https://us.pycon.org/2019/)
+
+#### Discussions
+
+[Is PYthon the world's most popular language?](https://news.ycombinator.com/item?id=18182003)
 
 ### Algorithms
 
@@ -94,6 +99,10 @@ pip install BeautifulSoup4
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) 
 * [Python for Economics](http://quant-econ.net/py/index.html)
 * [Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
+
+* [Coconut](http://coconut-lang.org/), a functional programming language that compiles to Python
+
+
 
 * [CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 
