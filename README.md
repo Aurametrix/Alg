@@ -17,8 +17,11 @@ Python
 
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 
+[Machine Learning Tutorial](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
 
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
+
+[Composing programs](https://composingprograms.com/)
 
 [Algebraic Number Theory package](https://github.com/louisabraham/algnuth)
 
