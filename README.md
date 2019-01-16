@@ -19,6 +19,10 @@ Python
 
 [Machine Learning Tutorial](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
 
+[A Simple Guide to creating Predictive Models](https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-2b-7be3afb5c557)
+
+https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-2b-7be3afb5c557)
+
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
 [Composing programs](https://composingprograms.com/)
