@@ -83,7 +83,7 @@ Deep Learning with Tensor Flow
 Installation
 ---------------
 
-* [Installing TensorFlow](https://www.tensorflow.org/install/) - official
+* [Installing TensorFlow](https://www.tensorflow.org/install/) - official site
 * [A comprehensive guide on how to install TensorFlow from the source using python/anaconda](https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/installation)
 * [Guide by NVIDIA](http://www.nvidia.com/object/gpu-accelerated-applications-tensorflow-installation.html)
 * [Tutorial for installing TensorFlow on Windows](http://saintlad.com/install-tensorflow-on-windows/); [video](https://www.youtube.com/watch?v=r7-WPbx8VuY)
@@ -94,6 +94,8 @@ Installation
 * [Installing TensorFlow on Ubuntu](https://www.youtube.com/watch?v=_3JFEPk4qQY&t=3s)
 * [seting up](https://www.youtube.com/watch?v=CvspEt8kSIg)
 * [GPU-targeted TensoFlow installation](https://www.youtube.com/watch?v=io6Ajf5XkaM)
+* [Installing CPU and GPU TensorFlow on Windows](https://www.youtube.com/watch?v=r7-WPbx8VuY)
+* [Installing the GPU version of TensorFlow for making use of your CUDA GPU:](https://www.youtube.com/watch?v=io6Ajf5XkaM)
 
 
 ---------------
@@ -116,15 +118,10 @@ Getting Started
 Advancing
 --------------------------
 
-* `TensorFlow Mechanics`_: More experienced machine learning users can dig more in TensorFlow
-* `Advanced TensorFlow`_: Advanced Tutorials in TensorFlow
-* `We Need to Go Deeper`_: A Practical Guide to Tensorflow and Inception
-* `Wide and Deep Learning - Better Together with TensorFlow`_: A tutorial by Google Research Blog
-
-.. _TensorFlow Mechanics: https://www.tensorflow.org/get_started/mnist/mechanics
-.. _Advanced TensorFlow: https://github.com/sjchoi86/advanced-tensorflow
-.. _We Need to Go Deeper: https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f
-.. _Wide and Deep Learning - Better Together with TensorFlow: https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html
+* [TensorFlow Mechanics:](https://www.tensorflow.org/get_started/mnist/mechanics)
+* [Advanced TensorFlow: ](https://github.com/sjchoi86/advanced-tensorflow)
+* [We Need to Go Deeper: ](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f)
+* [Wide and Deep Learning] - Better Together with TensorFlow: ](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
 
 
 * `TensorFlow DeepDive`_: More experienced machine learning users can dig more in TensorFlow
@@ -222,7 +219,6 @@ Sharing Variables
 --------------------
 TensorFlow Utilities
 --------------------
-
 
 
 ~~~~~~~~~~
@@ -495,8 +491,6 @@ Online Courses and Documentations
 Books
 ------
 
-
-* `TensorFlow Machine Learning Cookbook`_: Quick guide to implementing TensorFlow in your day-to-day machine learning activities
 * `Deep Learning with TensorFlow`_: Throughout the book, you’ll learn how to implement deep learning algorithms for machine learning systems
 * `First contact with TensorFlow`_: An online book on TensorFlow
 * `Building Machine Learning Projects with TensorFlow`_: Learn how to implement TensorFlow in production
@@ -506,7 +500,8 @@ Books
 * `Hands-On Machine Learning with Scikit-Learn and TensorFlow`_: By using examples, theory, the book help to gain an understanding of the machine learning concepts
 * `Machine Learning with TensorFlow (MEAP)`_: An introduction to the concepts of TensorFlow
 
-.. _TensorFlow Machine Learning Cookbook: https://www.amazon.com/dp/B01HY3TC54/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+* [TensorFlow Machine Learning Cookbook: ](https://www.amazon.com/dp/B01HY3TC54/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Quick guide to implementing TensorFlow in your day-to-day machine learning activities
 .. _Deep Learning with TensorFlow: https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow
 .. _First contact with TensorFlow: http://jorditorres.org/first-contact-with-tensorflow/
 .. _Building Machine Learning Projects with TensorFlow: https://www.amazon.com/dp/B01M2Z8FS4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
