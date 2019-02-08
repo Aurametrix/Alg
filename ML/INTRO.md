@@ -40,6 +40,7 @@
 
 ### ML
 
++ [ML for everyone](https://vas3k.com/blog/machine_learning/)
 + [YouTube Machine Learning](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 + [CS231n Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 + [TensorFlow and deep learning](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
@@ -120,3 +121,7 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 
 * [GPU providers](https://rare-technologies.com/machine-learning-benchmarks-hardware-providers-gpu-part-2/)
 * [Comparison of graphics cards](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
+
+### Applications
+
+[Lectures on Quantitative Economics](ttps://lectures.quantecon.org/py/)
