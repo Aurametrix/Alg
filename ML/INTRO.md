@@ -92,7 +92,7 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 + [CUDA-based Finite Difference Time Domain (FDTD) Simulation](https://news.ycombinator.com/item?id=18119345)
 + [Examples of pyCUDA usage](https://wiki.tiker.net/PyCuda/Examples)
 
-### Interesting papers
+### Interesting papers and books
 
 [Learning on just one image](https://dmitryulyanov.github.io/deep_image_prior) - [code](https://github.com/DmitryUlyanov/deep-image-prior)
 
@@ -101,6 +101,10 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 [Foundetions of data science - Berkeley course](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
 
 [Generating custom photo-realistic faces](https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-using-ai-d170b1b59255)
+
+[Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+[ML notebooks](https://github.com/ageron/handson-ml)
 
 ### ML resources
 
