@@ -31,6 +31,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [The Python scientific stack, compiled to WebAssembly ](https://github.com/iodide-project/pyodide); see [demo](https://iodide.io/pyodide-demo/python.html)
 
+[online translation server](https://github.com/translate/pootle)
+
 ### Conferences
 
 [2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
