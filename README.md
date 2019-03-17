@@ -35,10 +35,15 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [online translation server](https://github.com/translate/pootle)
 
+[nb2md: conversion of Jupyter and Zeppelin notebooks to Jupyter or Markdown formats](https://github.com/elehcimd/nb2md/)
+
+
 ### Conferences
 
-[2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
-[2019 PyCon](https://us.pycon.org/2019/)
++ [2019 Scipy](https://www.scipy2019.scipy.org/)
+    + [2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
+
++ [2019 PyCon](https://us.pycon.org/2019/)
 
 #### Discussions
 
