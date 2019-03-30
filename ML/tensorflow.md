@@ -101,6 +101,7 @@ Installation
 ---------------
 Getting Started
 ---------------
+* [Deep LEarning with TensorFlow course](https://getbuzz.io/c/deep-learning-with-tensorflow-20/stories/Introduction-Tensorflow-20-5918161711)
 * [Getting Started With TensorFlow Framework](https://www.tensorflow.org/get_started/get_started): This guide gets you started programming in TensorFlow
 * [learning TensorFlow Deep Learning]( http://learningtensorflow.com/getting_started/): A great resource to start
 * [Welcome to TensorFlow World](https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/0-welcome): A simple and concise start to TensorFLow
@@ -121,7 +122,7 @@ Advancing
 * [TensorFlow Mechanics:](https://www.tensorflow.org/get_started/mnist/mechanics)
 * [Advanced TensorFlow: ](https://github.com/sjchoi86/advanced-tensorflow)
 * [We Need to Go Deeper: ](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f)
-* [Wide and Deep Learning] - Better Together with TensorFlow: ](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
+* [Wide and Deep Learning] - Better Together with TensorFlow: (https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
 
 
 * `TensorFlow DeepDive`_: More experienced machine learning users can dig more in TensorFlow
