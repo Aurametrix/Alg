@@ -52,7 +52,8 @@
 
 + [Open ML course](https://mlcourse.ai/)
 
-
++ [AmpliGraph: A TensorFlow-Based Library for Knowledge Graph Embeddings](https://github.com/Accenture/AmpliGraph)
++ [PyTorch-BigGraph](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs/)
 
 ### ML Models implemented in Tensor Flow
 
