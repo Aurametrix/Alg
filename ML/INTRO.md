@@ -92,6 +92,7 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 
 + [CUDA-based Finite Difference Time Domain (FDTD) Simulation](https://news.ycombinator.com/item?id=18119345)
 + [Examples of pyCUDA usage](https://wiki.tiker.net/PyCuda/Examples)
++ [CuPy – NumPy-like API accelerated with CUDA](https://cupy.chainer.org/)
 
 ### Interesting papers and books
 
