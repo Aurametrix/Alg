@@ -170,6 +170,9 @@ pip install pygsr
 
 [wrapper providing R's ggplot2 syntax](https://github.com/sirrice/pygg)
 
+### Interesting projects
++ [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
+
 ### UI
 
 + PyQT5, [Python GUI](https://build-system.fman.io/pyqt5-tutorial)
