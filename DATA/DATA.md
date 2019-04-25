@@ -5,18 +5,18 @@
 
 + [9K+ real estate properties](https://drive.google.com/file/d/0B5F9-_del_r1d1B6bXc2eHUzQkk/edit) from realtor.com
 + [Commercial real estate data sources](https://blog.apto.com/blog/the-best-of-commercial-real-estate-data-sources-listings/availabilities)
-
+ 
 
 Data Mining
 
-+ [UC Irvine Machine Learning list of data mining sets] (http://archive.ics.uci.edu/ml/index.php)
++ [UC Irvine Machine Learning list of data mining sets](http://archive.ics.uci.edu/ml/index.php)
 
 KD Nuggets list of data mining sets
 
-+ [BigML list of data mining sets] (https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/#national_governments)
++ [BigML list of data mining sets](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/#national_governments)
 
 
-
++ [Amundsen](https://github.com/lyft/amundsenfrontendlibrary), a metadata driven application developed by Lyft
 
 + International Monetary Fund Time series data on lending, exchange rates and other economic and financial indicators.
 
