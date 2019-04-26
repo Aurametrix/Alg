@@ -6,6 +6,7 @@
 + [9K+ real estate properties](https://drive.google.com/file/d/0B5F9-_del_r1d1B6bXc2eHUzQkk/edit) from realtor.com
 + [Commercial real estate data sources](https://blog.apto.com/blog/the-best-of-commercial-real-estate-data-sources-listings/availabilities)
  
++ [scraping Canadian weather data](https://github.com/alaudet/my_weather) 
 
 Data Mining
 
