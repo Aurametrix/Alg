@@ -94,6 +94,9 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 + [Examples of pyCUDA usage](https://wiki.tiker.net/PyCuda/Examples)
 + [CuPy – NumPy-like API accelerated with CUDA](https://cupy.chainer.org/)
 
+### Azure
++ [Automated ML](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-auto-train)
+
 ### Interesting papers and books
 
 [Learning on just one image](https://dmitryulyanov.github.io/deep_image_prior) - [code](https://github.com/DmitryUlyanov/deep-image-prior)
