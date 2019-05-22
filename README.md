@@ -25,6 +25,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
+[Built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+
 [Composing programs](https://composingprograms.com/)
 
 [Algebraic Number Theory package](https://github.com/louisabraham/algnuth)
