@@ -170,6 +170,8 @@ pip install pygsr
 
 [A grammar of graphics for python](https://github.com/has2k1/plotnine)
 
+[Knowledge extraction from unstructured texts](https://blog.heuritech.com/2016/04/15/knowledge-extraction-from-unstructured-texts/)
+
 [wrapper providing R's ggplot2 syntax](https://github.com/sirrice/pygg)
 
 ### Interesting projects
