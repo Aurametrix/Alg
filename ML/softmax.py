@@ -28,9 +28,43 @@ def getLoss(w,x,y,lam):
     return loss,grad
     
     
- def oneHotIt(Y):
+def oneHotIt(Y):
     m = Y.shape[0]
     #Y = Y[:,0]
     OHX = scipy.sparse.csr_matrix((np.ones(m), (Y, np.array(range(m)))))
     OHX = np.array(OHX.todense()).T
     return OHX
+
+def softmax(z):
+    z -= np.max(z)
+    sm = (np.exp(z).T / np.sum(np.exp(z),axis=1)).T
+    return sm
+
+def getProbsAndPreds(someX):
+    probs = softmax(np.dot(someX,w))
+    preds = np.argmax(probs,axis=1)
+    return probs,preds
+
+w = np.zeros([x.shape[1],len(np.unique(y))])
+lam = 1
+iterations = 1000
+learningRate = 1e-5
+losses = []
+for i in range(0,iterations):
+    loss,grad = getLoss(w,x,y,lam)
+    losses.append(loss)
+    w = w - (learningRate * grad)
+print loss
+
+plt.plot(losses)
+
+def getAccuracy(someX,someY):
+    prob,prede = getProbsAndPreds(someX)
+    accuracy = sum(prede == someY)/(float(len(someY)))
+    return accuracy
+
+print 'Training Accuracy: ', getAccuracy(x,y)
+print 'Test Accuracy: ', getAccuracy(testX,testY)
+
+classWeightsToVisualize = 3
+plt.imshow(scipy.reshape(w[:,classWeightsToVisualize],[28,28]))
