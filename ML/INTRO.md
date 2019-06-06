@@ -55,6 +55,8 @@
 + [AmpliGraph: A TensorFlow-Based Library for Knowledge Graph Embeddings](https://github.com/Accenture/AmpliGraph)
 + [PyTorch-BigGraph](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs/)
 
++ [Kedro](https://github.com/quantumblacklabs/kedro), the open source library for production-ready Machine Learning code
+
 ### ML Models implemented in Tensor Flow
 
 - [autoencoder](https://github.com/stanfordmlgroup/tf-models/tree/master/autoencoder) -- various autoencoders
