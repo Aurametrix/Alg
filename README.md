@@ -123,7 +123,7 @@ pip install BeautifulSoup4
 
 * [Coconut](http://coconut-lang.org/), a functional programming language that compiles to Python
 
-
+* [Google Collab](https://colab.research.google.com/notebooks/welcome.ipynb#)
 
 * [CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 
@@ -175,6 +175,9 @@ pip install pygsr
 [Knowledge extraction from unstructured texts](https://blog.heuritech.com/2016/04/15/knowledge-extraction-from-unstructured-texts/)
 
 [wrapper providing R's ggplot2 syntax](https://github.com/sirrice/pygg)
+
+[Brancher](https://brancher.org/), A user-centered Python package for differentiable probabilistic inference
+
 
 ### Interesting projects
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
