@@ -113,6 +113,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 
 [ML notebooks](https://github.com/ageron/handson-ml)
 
+[FG-Net](https://github.com/NVlabs/DG-Net) - Discriminative and Generative Learning for Person Re-identification
+
 ### ML resources
 
 * [Making neural nets uncool again](http://www.fast.ai/)
