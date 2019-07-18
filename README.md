@@ -263,3 +263,6 @@ sudo easy_install -U numpy
 pip install scipy
 
 pip install matplotlib
+
+### What's coming
+[Python 3.8](https://lwn.net/SubscriberLink/793818/0c6f9dd271021cd4/)
