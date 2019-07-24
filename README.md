@@ -41,6 +41,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [nb2md: conversion of Jupyter and Zeppelin notebooks to Jupyter or Markdown formats](https://github.com/elehcimd/nb2md/)
 
+[NLP lirary](https://stanfordnlp.github.io/stanfordnlp/)
+
 
 ### Conferences
 
@@ -49,9 +51,11 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 + [2019 PyCon](https://us.pycon.org/2019/)
 
+
 #### Discussions
 
 [Is PYthon the world's most popular language?](https://news.ycombinator.com/item?id=18182003)
+
 
 ### Algorithms
 
@@ -140,7 +144,7 @@ pip install BeautifulSoup4
 * [Intro to Python for CS & Eng](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 
 * [Platform for learning bioinformatics](http://rosalind.info/problems/locations/)
-
+* [Common mistakes of beginners](https://deepsource.io/blog/python-common-mistakes/)
 * [Matrix Calculus](http://www.matrixcalculus.org/)
 
 * [API checklist](http://python.apichecklist.com/)
