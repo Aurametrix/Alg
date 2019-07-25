@@ -185,6 +185,7 @@ pip install pygsr
 
 ### Interesting projects
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
++ [HN API](https://github.com/HackerNews/API) = [Algolia](https://hn.algolia.com/api)
 
 ### UI
 
