@@ -187,6 +187,7 @@ pip install pygsr
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
 + [HN API](https://github.com/HackerNews/API) = [Algolia](https://hn.algolia.com/api)
 + [web-based spreadsheet application](https://github.com/ricklamers/gridstudio)
++ [Simulating Quantum mechanics](https://github.com/marl0ny/1D-Quantum-Mechanics-Applet)
 
 ### UI
 
