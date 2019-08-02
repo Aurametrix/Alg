@@ -3,7 +3,10 @@
 + [Andre Ng's online course](https://www.coursera.org/specializations/deep-learning)
 + [Brief History](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 + [Practical Deep Learning for Coders](http://course.fast.ai/)
-  + [Intro to ML for coders](http://course.fast.ai/ml)
++ [Intro to ML for coders](http://course.fast.ai/ml)
+  
+ 
+ ![PyTorch and TensorFlow: rise in popularity](https://d3ansictanv2wj.cloudfront.net/image1-e18a246da831903928949a96696ffb38.png)
 
 ### Jupyter Notebooks
 
