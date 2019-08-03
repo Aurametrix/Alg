@@ -193,6 +193,8 @@ pip install pygsr
 
 + PyQT5, [Python GUI](https://build-system.fman.io/pyqt5-tutorial)
 
++ Apprise, [Push notifications](https://github.com/caronc/apprise/#showhn-one-last-time)
+
 ### Testing
 
 pip install selenium  # Downloading Python bindings for Selenium
@@ -232,7 +234,7 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 [Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also
 [github mirror](https://github.com/isislovecruft/python-gnupg)
 
-### administration
+### Administration
 updating 2.7.x on mac  (https://www.python.org/downloads/)
 
 sudo rm -R /System/Library/Frameworks/Python.framework/Versions/2.7
