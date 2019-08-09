@@ -31,6 +31,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Algebraic Number Theory package](https://github.com/louisabraham/algnuth)
 
+[Loops](https://www.blog.duomly.com/loops-in-python-comparison-and-performance/)
+
 [The Python scientific stack, compiled to WebAssembly ](https://github.com/iodide-project/pyodide); see [demo](https://iodide.io/pyodide-demo/python.html)
 
 [AI Autocomplete](https://transformer.huggingface.co/); [code ](https://github.com/huggingface/transfer-learning-conv-ai)
