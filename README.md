@@ -35,6 +35,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [The Python scientific stack, compiled to WebAssembly ](https://github.com/iodide-project/pyodide); see [demo](https://iodide.io/pyodide-demo/python.html)
 
+[Remote GUI for Python](http://www.remigui.com/)
+
 [AI Autocomplete](https://transformer.huggingface.co/); [code ](https://github.com/huggingface/transfer-learning-conv-ai)
 
 [Pyodide, Python in a web browser](https://alpha.iodide.io/notebooks/222/)
