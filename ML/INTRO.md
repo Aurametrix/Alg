@@ -112,6 +112,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 
 [Generating custom photo-realistic faces](https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-using-ai-d170b1b59255)
 
+[Weight Agnostic Neural Networks]() - [github](https://github.com/google/brain-tokyo-workshop/tree/master/WANNRelease/prettyNEAT)
+
 [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 [ML notebooks](https://github.com/ageron/handson-ml)
