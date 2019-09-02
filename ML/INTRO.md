@@ -145,3 +145,6 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 [Lectures on Quantitative Economics](ttps://lectures.quantecon.org/py/)
 
 [Video classification](https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/) with Keras and Deep Learning
+
+[Detecting scenes in movies](https://pyscenedetect.readthedocs.io/en/latest/reference/command-line-params/)
+[github](https://github.com/Breakthrough/PySceneDetect)
