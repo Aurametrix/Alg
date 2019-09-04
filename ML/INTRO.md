@@ -148,3 +148,5 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 
 [Detecting scenes in movies](https://pyscenedetect.readthedocs.io/en/latest/reference/command-line-params/)
 [github](https://github.com/Breakthrough/PySceneDetect)
+
+[Replacing faces in videos](https://github.com/iperov/DeepFaceLab)
