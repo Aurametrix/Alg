@@ -47,6 +47,7 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [NLP lirary](https://stanfordnlp.github.io/stanfordnlp/)
 
+[make a self contained executable for windows](https://pypi.org/project/py2exe/)
 
 ### Conferences
 
