@@ -48,6 +48,7 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 [NLP lirary](https://stanfordnlp.github.io/stanfordnlp/)
 
 [make a self contained executable for windows](https://pypi.org/project/py2exe/)
+[spaCy](https://blog.dominodatalab.com/natural-language-in-python-using-spacy/?r=1) for Text Analytics
 
 ### Conferences
 
