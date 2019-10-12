@@ -60,7 +60,11 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 #### Discussions
 
+[Python news](https://news.python.sc/newest)
+
 [Is PYthon the world's most popular language?](https://news.ycombinator.com/item?id=18182003)
+
+
 
 
 ### Algorithms
@@ -221,6 +225,8 @@ Cons: Selenium tests are unstable, time to maintain and run, low ROI
 Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, Jasmine and Protractor; Screenster
 
 [Testing with Cucumber and Capybara](https://www.gamesparks.com/blog/automated-testing-with-cucumber-and-capybara/)
+
+[Pytest for data scientists](https://statestitle.com/resource/pytest-for-data-scientists/)
 
 ### Datasets
 
