@@ -1,0 +1,14 @@
+pip install python-usda
+from usda import UsdaClient
+client = UsdaClient('API_KEY')
+
+foods_list = client.list_foods(5)
+for _ in range(5):
+    food_item = next(foods_list)
+    print(food_item.name)
+
+
+target_url = "https://api.nal.usda.gov/fdc/v1/search"
+params = {'generalSearchInput':'almond'}
+headers = {"x-api-key":API_KEY}
+response = requests.post(target_url, headers=headers, data=params).json()
