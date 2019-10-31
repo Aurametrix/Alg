@@ -234,7 +234,13 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 
 [open source](https://deepmind.com/research/open-source/open-source-datasets/)
 
+[Kaggle datasets](https://www.kaggle.com/datasets)
+
+[The Million Song dataset](http://millionsongdataset.com/)
+
 [A RESTish web API for climate change related data](http://api.carbondoomsday.com); [github](https://github.com/giving-a-fuck-about-climate-change/carbondoomsday)
+
+[Disbiome](https://disbiome.ugent.be/) -- [article](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-018-1197-5)
 
 [Global average temperatures](https://www.nsstc.uah.edu/climate/)[direct link](http://www.nsstc.uah.edu/data/msu/v6.0beta/tlt/uahncdc_lt_6.0beta5.txt)
 
