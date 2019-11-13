@@ -132,6 +132,13 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 * https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
 
+* {Popular ML taacks](https://news.ycombinator.com/item?id=21516311) -- 11/12/2019
+
+    + [BentoML](https://colab.research.google.com/github/bentoml/BentoML/blob/master/guides/quick-start/bentoml-quick-start-guide.ipynb) - framework for deploying ML models
+    + R  - > Plumber APIs that wrap these packages/models -> Docker images -> Docker Swarm -> Nginx -> C#.
+    + SageMaker (costly)
+    + [Cortex](https://github.com/cortexlabs/cortex/) - takes machine learning models—trained with nearly any framework—and turns them into production web APIs in one command.
+    
 ### AI
 + [AI training scales](https://blog.openai.com/science-of-ai/)
 
