@@ -51,6 +51,9 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [NLP lirary](https://stanfordnlp.github.io/stanfordnlp/)
 
+
+[Library for quantitative finance](https://www.quantlib.org/)
+
 [make a self contained executable for windows](https://pypi.org/project/py2exe/)
 [spaCy](https://blog.dominodatalab.com/natural-language-in-python-using-spacy/?r=1) for Text Analytics
 
@@ -201,6 +204,7 @@ pip install pygsr
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
 + [HN API](https://github.com/HackerNews/API) = [Algolia](https://hn.algolia.com/api)
 + [web-based spreadsheet application](https://github.com/ricklamers/gridstudio)
++ [Quantitative Finance](https://github.com/cantaro86/Financial-Models-Numerical-Methods)
 + [Simulating Quantum mechanics](https://github.com/marl0ny/1D-Quantum-Mechanics-Applet)
 + [Evidence-Based Medicine](https://github.com/ebmdatalab/)
 
