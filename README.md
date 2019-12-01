@@ -3,6 +3,7 @@ Python
 
 ### Modules, Updates, Setup
 
+[Python programming language](https://github.com/python/cpython)
 
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
@@ -202,11 +203,14 @@ pip install pygsr
 
 ### Interesting projects
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
++ [Find usernames across social networks](https://github.com/sherlock-project/sherlock)
 + [HN API](https://github.com/HackerNews/API) = [Algolia](https://hn.algolia.com/api)
 + [web-based spreadsheet application](https://github.com/ricklamers/gridstudio)
++ [Wonderland of math](https://github.com/neozhaoliang/pywonderland)
 + [Quantitative Finance](https://github.com/cantaro86/Financial-Models-Numerical-Methods)
 + [Simulating Quantum mechanics](https://github.com/marl0ny/1D-Quantum-Mechanics-Applet)
 + [Evidence-Based Medicine](https://github.com/ebmdatalab/)
+
 
 ### UI
 
