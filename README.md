@@ -212,6 +212,12 @@ pip install pygsr
 + [Simulating Quantum mechanics](https://github.com/marl0ny/1D-Quantum-Mechanics-Applet)
 + [Evidence-Based Medicine](https://github.com/ebmdatalab/)
 
++ Python libraries for NLP:
+    + Natural Language Toolkit (NLTK)
+    + spaCy
+    + TextBlob
+    + Chatterbot
+
 
 ### UI
 
