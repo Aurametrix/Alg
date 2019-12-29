@@ -18,6 +18,8 @@
 
 + scikit-learn tutorial notebooks by Jake VanderPlas https://github.com/jakevdp/sklearn_tutorial
 
++ [lightweight wrapper that enables fitting generalized linear multivariate multilevel models from python via R](https://github.com/stanbiryukov/sklearn-GLMM)
+
 + Lots of deep learning notebooks from the book "Deep Learning with Python" by François Chollet https://github.com/fchollet/deep-learning-with-python-notebo...
 
 + Jupyter notebook on AWS tutorial (when your local computer just won't handle your notebook requirements): http://efavdb.com/deep-learning-with-jupyter-on-aws/
