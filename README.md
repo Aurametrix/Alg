@@ -200,6 +200,8 @@ pip install pygsr
 
 [Brancher](https://brancher.org/), A user-centered Python package for differentiable probabilistic inference
 
+[Automate the boring stuff](https://automatetheboringstuff.com/2e/)
+
 
 ### Interesting projects
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
