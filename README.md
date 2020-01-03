@@ -30,6 +30,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Composing programs](https://composingprograms.com/)
 
+[job queues](https://github.com/rq/rq)
+
 [Algebraic Number Theory package](https://github.com/louisabraham/algnuth)
 
 [Loops](https://www.blog.duomly.com/loops-in-python-comparison-and-performance/)
