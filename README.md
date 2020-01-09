@@ -26,6 +26,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
+[Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
+
 [Built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
 [Composing programs](https://composingprograms.com/)
