@@ -275,8 +275,11 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 
 
 ### Security
-[Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also
+[Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also 
+
 [github mirror](https://github.com/isislovecruft/python-gnupg)
+
+[HTTPX](https://www.python-httpx.org/)
 
 ### Administration
 updating 2.7.x on mac  (https://www.python.org/downloads/)
