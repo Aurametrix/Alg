@@ -219,6 +219,12 @@ pip install pygsr
 + [Evidence-Based Medicine](https://github.com/ebmdatalab/)
 + [Chatistics](https://github.com/MasterScrat/Chatistics) - convert chat logs into Panda DataFrames
 
++ [ML for microbiome classification](https://www.biorxiv.org/content/10.1101/816090v1.full), [github repo](https://github.com/SchlossLab/Topcuoglu_ML_XXX_2019/)
+
++ [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
+
+
+
 + Python libraries for NLP:
     + Natural Language Toolkit (NLTK)
     + spaCy
