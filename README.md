@@ -224,6 +224,7 @@ pip install pygsr
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 
 
++ [Seq — a language for bioinformatics](https://seq-lang.org/)
 
 + Python libraries for NLP:
     + Natural Language Toolkit (NLTK)
@@ -279,6 +280,7 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 [cold and warm episodes by season](http://www.cpc.noaa.gov/products/analysis_monitoring/ensostuff/ensoyears.shtml)
 
 [sea level information](http://sealevel.colorado.edu/)
+
 
 
 ### Security
