@@ -74,6 +74,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Python news](https://news.python.sc/newest)
 
+    + [New Pandas](https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.0.0.html) - 1.00 - January 29, 2020
+
 [Is PYthon the world's most popular language?](https://news.ycombinator.com/item?id=18182003)
 
 
