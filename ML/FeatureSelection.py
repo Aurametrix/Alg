@@ -36,12 +36,18 @@ from sklearn.linear_model import LogisticRegression
 
 # Feature extraction
 #model = LogisticRegression()
-model = LogisticRegression(solver='lbfgs', max_iter=1000)
+model = LogisticRegression(solver='lbfgs', max_iter=5000)
 
-rfe = RFE(model, 3)
+# how to retrieve the 15 most informative features
+rfe = RFE(model, 15)
 #fit = rfe.fit(X, Y)
-fit = rfe(X, Y.ravel())
+#print(Y.ravel())
+fit = rfe.fit(X, Y.ravel())
 
 print("Num Features: %s" % (fit.n_features_))
 print("Selected Features: %s" % (fit.support_))
 print("Feature Ranking: %s" % (fit.ranking_))
+
+new = pd.DataFrame(list(zip(*[names, fit.support_, fit.ranking_]))).add_prefix('Col')
+
+new.to_csv('features.csv', index=False)
