@@ -225,6 +225,7 @@ pip install pygsr
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 
++ [Inline C in Python](https://github.com/georgek42/inlinec)
 
 + [Seq — a language for bioinformatics](https://seq-lang.org/)
 
