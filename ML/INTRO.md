@@ -127,6 +127,9 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 ### ML resources
 
 * [Making neural nets uncool again](http://www.fast.ai/)
+
+* [F](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/) - [dev](http://dev.fast.ai/) - [FastAi2 - git](https://github.com/fastai/fastai2)
+
 * [Udacity course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [MIT](https://agi.mit.edu/)
 * [Caltech](https://work.caltech.edu/telecourse.html)
