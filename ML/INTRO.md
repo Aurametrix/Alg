@@ -4,6 +4,7 @@
 + [Brief History](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 + [Practical Deep Learning for Coders](http://course.fast.ai/)
 + [Intro to ML for coders](http://course.fast.ai/ml)
++ [Trax](https://github.com/google/trax) - advanced deep learning
   
  
  ![PyTorch and TensorFlow: rise in popularity](https://d3ansictanv2wj.cloudfront.net/image1-e18a246da831903928949a96696ffb38.png)
