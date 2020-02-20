@@ -60,6 +60,7 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 [Library for quantitative finance](https://www.quantlib.org/)
 
 [make a self contained executable for windows](https://pypi.org/project/py2exe/)
+
 [spaCy](https://blog.dominodatalab.com/natural-language-in-python-using-spacy/?r=1) for Text Analytics
 
 ### Conferences
@@ -242,6 +243,8 @@ pip install pygsr
 + PyQT5, [Python GUI](https://build-system.fman.io/pyqt5-tutorial)
 
 + Apprise, [Push notifications](https://github.com/caronc/apprise/#showhn-one-last-time)
+
++ [D-Tale](https://github.com/man-group/dtale) - tool to visualize pandas dataframes
 
 ### Testing
 
