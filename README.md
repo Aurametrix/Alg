@@ -57,6 +57,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/)
       + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
    
+[T5](https://github.com/google-research/text-to-text-transfer-transformer)
+
 
 [Library for quantitative finance](https://www.quantlib.org/)
 
