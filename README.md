@@ -212,6 +212,7 @@ pip install pygsr
 
 [Automate the boring stuff](https://automatetheboringstuff.com/2e/)
 
+[A Hitchhikers Guide to Asynchronous Programming](https://github.com/crazyguitar/pysheeet/blob/master/docs/appendix/python-concurrent.rst)
 
 ### Interesting projects
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
