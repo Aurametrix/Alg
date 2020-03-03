@@ -26,6 +26,13 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
++ Python libraries for NLP:
+    + Natural Language Toolkit (NLTK): https://www.nltk.org/
+    + spaCy: https://spacy.io/
+    + TextBlob: https://github.com/sloria/TextBlob/
+    + Chatterbot: https://chatterbot.readthedocs.io/en/stable/
+    
+
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 
 [Built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
@@ -233,13 +240,11 @@ pip install pygsr
 
 + [Inline C in Python](https://github.com/georgek42/inlinec)
 
++ [command-line journal application](https://github.com/jrnl-org/jrnl)
+
 + [Seq — a language for bioinformatics](https://seq-lang.org/)
 
-+ Python libraries for NLP:
-    + Natural Language Toolkit (NLTK)
-    + spaCy
-    + TextBlob
-    + Chatterbot
+
 
 
 ### UI
