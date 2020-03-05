@@ -4,6 +4,7 @@
 + [Brief History](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 + [Practical Deep Learning for Coders](http://course.fast.ai/)
 + [Intro to ML for coders](http://course.fast.ai/ml)
++ [Algorithms](https://theaisummer.com/Deep-Learning-Algorithms/)
 + [Trax](https://github.com/google/trax) - advanced deep learning
   
  
