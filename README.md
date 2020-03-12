@@ -85,11 +85,32 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Python news](https://news.python.sc/newest)
 
-    + [New Pandas](https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.0.0.html) - 1.00 - January 29, 2020
+[New Pandas](https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.0.0.html) - 1.00 - January 29, 2020
 
-[Is PYthon the world's most popular language?](https://news.ycombinator.com/item?id=18182003)
+[what's new in 1.0.0](https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.0.0.html)
+
+[Is Python the world's most popular language?](https://news.ycombinator.com/item?id=18182003)
 
 
+### tips & tricks
+
+pass a URL in place of a file name 
+    dfs = pd.read_html(url)
+
+    date ranges date_range = pd.date_range(date_from, date_to, freq="D")
+
+if you set `indicator` parameter of merge() to True pandas adds a column that tells you which dataset the row came from merge with approximate match - the tolerance parameter of merge_asof()
+
+    pd.merge_asof(trades, quotes, on="timestamp", by='ticker', tolerance=pd.Timedelta('10ms'), direction='backward')
+
+Merge with indicator is also useful for doing anti-joins:
+
+    left.merge(right, how="left", indicator=True, ...) 
+    [lambda df: df._merge == "left_only"]
+
+Use gzip with when saving to csv
+
+Create an Excel report and add some charts 
 
 
 ### Algorithms
