@@ -28,6 +28,10 @@
 
 + [colorizing and restoring old images](https://github.com/jantic/DeOldify)
 
++ [A graph-based functional API for building complex scikit-learn pipelines](https://github.com/alegonz/baikal)
+
++ [FKlearn](https://fklearn.readthedocs.io/en/latest/)
+
 ### ---
 
 + [YouTube Introduction to Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk)
