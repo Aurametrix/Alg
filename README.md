@@ -181,6 +181,8 @@ pip install BeautifulSoup4
 * [Python for Economics](http://quant-econ.net/py/index.html)
 * [Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
 
+* [Intro for absolute beginners](https://github.com/webartifex/intro-to-python)
+
 * [Coconut](http://coconut-lang.org/), a functional programming language that compiles to Python
 
 * [Google Collab](https://colab.research.google.com/notebooks/welcome.ipynb#)
