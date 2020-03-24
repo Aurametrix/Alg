@@ -1,3 +1,7 @@
+### timeseries data: https://github.com/ulklc/covid19-timeseries
+### John Hopkins https://github.com/CSSEGISandData/COVID-19
+### Dx & Tx https://github.com/greenelab/covid19-review
+
 import numpy as np
   # initialize the population vector from the origin-destination flow matrix
   N_k = np.abs(np.diagonal(OD) + OD.sum(axis=0) - OD.sum(axis=1))
