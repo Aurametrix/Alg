@@ -267,7 +267,7 @@ pip install pygsr
 
 + [Seq — a language for bioinformatics](https://seq-lang.org/)
 
-
++[API-less video downloader](https://github.com/althonos/InstaLooter)
 
 
 ### UI
