@@ -8,7 +8,9 @@
 + [Trax](https://github.com/google/trax) - advanced deep learning
   
  
- ![PyTorch and TensorFlow: rise in popularity](https://d3ansictanv2wj.cloudfront.net/image1-e18a246da831903928949a96696ffb38.png)
+ + [PyTorch and TensorFlow: rise in popularity](https://d3ansictanv2wj.cloudfront.net/image1-e18a246da831903928949a96696ffb38.png)
+ 
+ + [Mimicry](https://github.com/kwotsin/mimicry) - a PyTorch library for the reproducibility of Generative Adversarial Networks (GANs)
 
 ### Jupyter Notebooks
 
