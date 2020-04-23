@@ -61,6 +61,11 @@ Deep Learning with Tensor Flow
 
 + [instance segmentation](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
 
++ [Intro to Bert](https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/)
++ [Bert](https://github.com/google-research/bert) - Bidirectional Encoder Representations from Transformers
++ [Albert](https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html) - A Lite BERT for Self-Supervised Learning of Language Representations
+
+
 ### TensorFlow Datasets and Estimators
 
 [part 1](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html); [part 2: feature columns](https://developers.googleblog.com/2017/11/introducing-tensorflow-feature-columns.html)
