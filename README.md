@@ -320,7 +320,7 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 
 [sea level information](http://sealevel.colorado.edu/)
 
-
+[Astroquery](https://github.com/astropy/astroquery) - collection of tools to access online Astronomical data
 
 ### Security
 [Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also 
