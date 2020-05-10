@@ -267,8 +267,10 @@ pip install pygsr
 
 + [Seq — a language for bioinformatics](https://seq-lang.org/)
 
-+[API-less video downloader](https://github.com/althonos/InstaLooter)
++ [API-less video downloader](https://github.com/althonos/InstaLooter)
 
++ [Mario](https://github.com/python-mario/mario) - python pipelines for your shell
++ [Pyp](https://github.com/hauntsaninja/pyp) - python from shell
 
 ### UI
 
