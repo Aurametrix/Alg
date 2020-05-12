@@ -164,6 +164,8 @@ or better keep it in virtualenv:
 sudo easy_install virtualenv
 pip install BeautifulSoup4
 
++ [Pelican for Web building](https://shahayush.com/2020/03/web-pelican-intro/)
+
 + [Data Science handbook]{(https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 
@@ -200,6 +202,8 @@ pip install BeautifulSoup4
 * (https://www.cs.cmu.edu/~ymiao/pdnntk.html) - PDNN: A Python Toolkit for Deep Learning
 
 * [Intro to Python for CS & Eng](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+
+* [MS 44-part programming course](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 * [Platform for learning bioinformatics](http://rosalind.info/problems/locations/)
 * [Common mistakes of beginners](https://deepsource.io/blog/python-common-mistakes/)
