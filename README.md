@@ -66,12 +66,15 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
    
 [T5](https://github.com/google-research/text-to-text-transfer-transformer)
 
+[pyGeno](http://pygeno.iric.ca/) for precision medicine -- [github](https://github.com/tariqdaouda/pyGeno)
 
 [Library for quantitative finance](https://www.quantlib.org/)
 
 [make a self contained executable for windows](https://pypi.org/project/py2exe/)
 
 [spaCy](https://blog.dominodatalab.com/natural-language-in-python-using-spacy/?r=1) for Text Analytics
+
+[Subinterpreters](https://lwn.net/SubscriberLink/820424/172e6da006687167/)
 
 ### Conferences
 
