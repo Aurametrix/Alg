@@ -229,6 +229,11 @@ Wichita, Kansas	http://opendata.wichita.gov/
 Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 
 
+### Projects
+[COVID-19 safegraph](https://docs.safegraph.com/docs/covid19-response-dashboard-changelog)
+[urban mobility tracker](https://github.com/nathanrooy/rpi-urban-mobility-tracker)
+[PedNet](https://github.com/nathanrooy/ped-net)
+
 ### Courses
 
 + [Advanced Data Structures](http://courses.csail.mit.edu/6.851/)
