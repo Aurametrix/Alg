@@ -249,6 +249,10 @@ pip install pygsr
 
 [Automate the boring stuff](https://automatetheboringstuff.com/2e/)
 
+[Dev environments](https://jacobian.org/2019/nov/11/python-environment-2020/)
+
+[the Hitchhikers Guide to Python](https://docs.python-guide.org/)
+
 [A Hitchhikers Guide to Asynchronous Programming](https://github.com/crazyguitar/pysheeet/blob/master/docs/appendix/python-concurrent.rst)
 
 ### Interesting projects
