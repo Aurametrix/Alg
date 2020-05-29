@@ -47,6 +47,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [The Python scientific stack, compiled to WebAssembly ](https://github.com/iodide-project/pyodide); see [demo](https://iodide.io/pyodide-demo/python.html)
 
+[Functional Programming](https://github.com/dry-python/returns)
+
 [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) 
 
 [Clean Code](https://github.com/davified/clean-code-ml/blob/master/notebooks/titanic-notebook-1.ipynb)
