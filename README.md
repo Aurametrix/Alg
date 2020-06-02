@@ -78,6 +78,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Subinterpreters](https://lwn.net/SubscriberLink/820424/172e6da006687167/)
 
+[Dependency management tools](https://modelpredict.com/python-dependency-management-tools)
+
 ### Conferences
 
 + [2019 Scipy](https://www.scipy2019.scipy.org/)
