@@ -68,6 +68,8 @@
 + [AmpliGraph: A TensorFlow-Based Library for Knowledge Graph Embeddings](https://github.com/Accenture/AmpliGraph)
 + [PyTorch-BigGraph](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs/)
 
++ [Neuropod](https://github.com/uber/neuropod) -  a library that provides a uniform interface to run deep learning models from multiple frameworks in C++ and Python.
+
 + [Kedro](https://github.com/quantumblacklabs/kedro), the open source library for production-ready Machine Learning code
 
 ### ML Models implemented in Tensor Flow
