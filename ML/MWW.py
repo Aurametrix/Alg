@@ -54,3 +54,44 @@ stats.ranksums(sample2, sample3)
 
 stats.ranksums(sample1, sample2)
 
+
+import pandas as pd
+data=pd.read_csv("dataset/mwt.csv", skipinitialspace= True )
+data['Speaker'] = data['Speaker'].map(lambda x: x.strip())
+# data.shape
+# test of stochastic equality
+import scipy.stats as stats
+import matplotlib.pyplot as plt
+%matplotlib inline
+import seaborn as sns
+plt.style.use('bmh')
+plt.style.use('ggplot')
+plt.rcParams['figure.figsize'] = 20, 10
+Pooh=data[data['Speaker'] == 'Pooh']
+Piglet=data[data['Speaker'] == 'Piglet']
+Pooh.hist(figsize=(5, 5), bins=5, xlabelsize=8, ylabelsize=8);
+Piglet.hist(figsize=(5, 5), bins=5, xlabelsize=8, ylabelsize=8);
+
+stats.mannwhitneyu(Pooh.Likert, Piglet.Likert)
+
+# If the p-value>0.05 we accept alternate hypothesis which is The two groups do not exhibit stochastic equality.
+
+# The Mann-Whitney U test allows comparison of two groups of data where the data is not normally distributed.
+
+import numpy as np
+import scipy.stats as stats
+
+# Create two groups of data
+
+group1 = [1, 5 ,7 ,3 ,5 ,8 ,34 ,1 ,3 ,5 ,200, 3]
+group2 = [10, 18, 11, 12, 15, 19, 9, 17, 1, 22, 9, 8]
+
+# Calculate u and probability of a difference
+
+u_statistic, pVal = stats.mannwhitneyu(group1, group2)
+
+# Print results
+
+print ('P value:')
+print (pVal)
+
