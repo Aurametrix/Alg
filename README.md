@@ -119,6 +119,8 @@ Use gzip with when saving to csv
 
 Create an Excel report and add some charts 
 
++ [write beetter python](https://github.com/SigmaQuan/Better-Python-59-Ways)
+
 
 ### Algorithms
 
