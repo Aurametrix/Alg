@@ -72,6 +72,8 @@
 
 + [Kedro](https://github.com/quantumblacklabs/kedro), the open source library for production-ready Machine Learning code
 
++ [Low-code ML model deployment](https://modelzoo.dev/)
+
 ### ML Models implemented in Tensor Flow
 
 - [autoencoder](https://github.com/stanfordmlgroup/tf-models/tree/master/autoencoder) -- various autoencoders
