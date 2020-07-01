@@ -61,8 +61,6 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [online translation server](https://github.com/translate/pootle)
 
-[nb2md: conversion of Jupyter and Zeppelin notebooks to Jupyter or Markdown formats](https://github.com/elehcimd/nb2md/)
-
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/)
       + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
    
@@ -79,6 +77,20 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 [Subinterpreters](https://lwn.net/SubscriberLink/820424/172e6da006687167/)
 
 [Dependency management tools](https://modelpredict.com/python-dependency-management-tools)
+
+#### Jupyter Notebooks
+
++ [nb2md: conversion of Jupyter and Zeppelin notebooks to Jupyter or Markdown formats](https://github.com/elehcimd/nb2md/)
+
++ [Jupyter Notebook to Web Apps](https://github.com/ChristianFJung/NotebookToWebApp/blob/master/article.md)
+
+
+    jupyter notebook --generate-config
+    notepad C:\Users\[]user-name\.jupyter\jupyter_notebook_config.py
+    c.NotebookApp.notebook_dir ='C:/the/path/to/home/folder/'  # to change directory
+    #c.NotebookApp.token = 'nonempty-string'  # remove generated if "'_xsrf' argument missing from POST
+    c.NotebookApp.disable_check_xsrf = True 
+    
 
 ### Conferences
 
@@ -275,7 +287,6 @@ pip install pygsr
 
 + [large Zip archives](https://github.com/BuzonIO/zipfly#zipfly)
 
-+ [Jupyter Notebook to Web Apps](https://github.com/ChristianFJung/NotebookToWebApp/blob/master/article.md)
 + [ML for microbiome classification](https://www.biorxiv.org/content/10.1101/816090v1.full), [github repo](https://github.com/SchlossLab/Topcuoglu_ML_XXX_2019/)
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
