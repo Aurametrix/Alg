@@ -88,9 +88,17 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 
     jupyter notebook --generate-config
-    notepad C:\Users\[]user-name\.jupyter\jupyter_notebook_config.py
+     
+    notepad C:\Users\[user-name]\.jupyter\jupyter_notebook_config.py
+    
     c.NotebookApp.notebook_dir ='C:/the/path/to/home/folder/'  # to change directory
+    c.NotebookApp.notebook_dir = 'C:\\username\\folder_that_you_whant'  # for windows
+    
+  Go to your Jupyter Notebook link and right click it. Select properties. Go to the Shortcut menu and click Target. Look for %USERPROFILE%. Delete it. Save. Restart Jupyter.
+  C:\xxx\cwp.py C:xxx\envs\E1 C:\xxx\python.exe C:\xxx\jupyter-notebook-script.py "%USERPROFILE%/"  
+    
     #c.NotebookApp.token = 'nonempty-string'  # remove generated if "'_xsrf' argument missing from POST
+    
     c.NotebookApp.disable_check_xsrf = True 
     
 
