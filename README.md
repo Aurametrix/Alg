@@ -78,6 +78,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Python Turtle](https://dev.to/ducaale/teaching-code-reuse-using-python-turtle-5fmd) for code reuse
 
+[Pylance](https://www.infoq.com/news/2020/07/pylance-visual-studio-code/)
+
 [Dependency management tools](https://modelpredict.com/python-dependency-management-tools)
 
 #### Jupyter Notebooks
