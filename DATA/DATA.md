@@ -79,6 +79,8 @@ KD Nuggets list of data mining sets
 
 + European Union Open Data Portal Portal for data from European Union institutions.
 
++ [Russian Vote 2020](https://github.com/khakhalin/Sketches/tree/master/ru_vote_2020)
+
 ### North America
 
 
