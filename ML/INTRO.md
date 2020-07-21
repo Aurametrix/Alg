@@ -74,6 +74,8 @@
 
 + [Low-code ML model deployment](https://modelzoo.dev/)
 
++ [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://github.com/facebookresearch/swav)
+
 ### ML Models implemented in Tensor Flow
 
 - [autoencoder](https://github.com/stanfordmlgroup/tf-models/tree/master/autoencoder) -- various autoencoders
