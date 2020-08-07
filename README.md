@@ -369,6 +369,8 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 ### Security
 [Gnupg](https://bitbucket.org/vinay.sajip/python-gnupg/) - Python library which takes care of the internal details and allows its users to generate and manage keys, encrypt and decrypt data, and sign and verify messages. See also 
 
+[Pysa](https://engineering.fb.com/security/pysa/): An open source static analysis tool to detect and prevent security issues in Python code
+
 [github mirror](https://github.com/isislovecruft/python-gnupg)
 
 [HTTPX](https://www.python-httpx.org/)
