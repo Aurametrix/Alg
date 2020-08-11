@@ -20,8 +20,8 @@ def sample_required(p1, p_diff, alpha):
         n += 1
     return n
     
-    #Map how sample size changes as choice of p1 changes, holding all 
-#else constant.
+#Map how sample size changes as choice of p1 changes, holding all else constant.
+p_diff=.05
 
 p1s = [x*.01 for x in range(96)]
 
