@@ -134,6 +134,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 
 [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+[Orchest](https://github.com/orchest/orchest) - visual pipeline tool for data scientists
+
 [ML notebooks](https://github.com/ageron/handson-ml)
 
 [FG-Net](https://github.com/NVlabs/DG-Net) - Discriminative and Generative Learning for Person Re-identification
