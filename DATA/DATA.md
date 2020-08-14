@@ -236,6 +236,8 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 [urban mobility tracker](https://github.com/nathanrooy/rpi-urban-mobility-tracker)
 [PedNet](https://github.com/nathanrooy/ped-net)
 
+[Simplee SQL](https://github.com/nackjicholson/aiosql)
+
 ### Courses
 
 + [Advanced Data Structures](http://courses.csail.mit.edu/6.851/)
