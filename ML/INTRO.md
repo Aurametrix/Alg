@@ -182,3 +182,5 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 [Replacing faces in videos](https://github.com/iperov/DeepFaceLab)
 
 [Table extraction with Deep Learning](https://nanonets.com/blog/table-extraction-deep-learning/) - [Nanonets](https://github.com/NanoNets/nanonets-ocr-sample-python)
+
+[InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - extract info from invoice docs
