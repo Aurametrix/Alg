@@ -24,6 +24,8 @@ Python
 
 https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-2b-7be3afb5c557)
 
+[Python IDM](https://github.com/pyIDM/PyIDM) - Internet Download manager
+
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
 + Python libraries for NLP:
