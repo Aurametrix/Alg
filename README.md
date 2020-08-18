@@ -187,6 +187,11 @@ graph = {'A': ['B', 'C'],
 
 + [Azure notebooks](https://notebooks.azure.com/)
 
++ Amazon's Machine Learning University (MLU) 
+    + [NLP](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+    + [Computer Vision](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)
+    + [Tabulr class](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab)
+    
 + [CoCalc](https://cocalc.com/) created by the SageMath developers
 
 
