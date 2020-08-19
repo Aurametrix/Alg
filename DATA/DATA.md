@@ -235,8 +235,8 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 [COVID-19 safegraph](https://docs.safegraph.com/docs/covid19-response-dashboard-changelog)
 [urban mobility tracker](https://github.com/nathanrooy/rpi-urban-mobility-tracker)
 [PedNet](https://github.com/nathanrooy/ped-net)
-
-[Simplee SQL](https://github.com/nackjicholson/aiosql)
+[self-hosted knowledge base](https://github.com/Uzay-G/archivy)
+[Simple SQL](https://github.com/nackjicholson/aiosql)
 
 ### Courses
 
