@@ -64,10 +64,18 @@ ax.set(title='2014 Revenue', xlabel='Total Revenue', ylabel='Customer')
 import numpy as np
 import matplotlib.pyplot as plt
 
-np.x1=np.array([5,6,7,8])  # Xs of BEFORE  Bad bacteria
-np.y1=np.array([1,2,3,4]) # Ys of BEFORE Good bacteria
-np.x2=np.array([0,1,3,2]) #Xs of AFTER - BAD
-np.y2=np.array([0,0,2,2]) #Ys of AFTER - GOOD
+# np.x1=np.array([5,6,7,8])  # Xs of BEFORE  1
+# np.y1=np.array([1,2,3,4]) # Ys of BEFORE 2
+# np.x2=np.array([0,1,3,2]) #Xs of AFTER - 1
+# np.y2=np.array([0,0,2,2]) #Ys of AFTER - 2
+
+import pandas as pd
+
+df = pd.read_csv("vectors.csv", sep=",", encoding='cp1252')
+np.x1 = df[["C1"]].to_numpy() 
+np.x2 = df[["C2"]].to_numpy() 
+np.y1 = df[["D1"]].to_numpy() 
+np.y2 = df[["D2"]].to_numpy() 
 
 plt.figure()
 ax = plt.gca()
