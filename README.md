@@ -329,6 +329,15 @@ pip install pygsr
 
 + [D-Tale](https://github.com/man-group/dtale) - tool to visualize pandas dataframes
 
+(Slicing, Indexing, Subsetting ataframes)[https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/]
+
+    df[~((df.A == 0) & (df.B == 2) & (df.C == 6) & (df.D == 0))]  
+    df.ix[rows]
+    df[((df.A == 0) & (df.B == 2) & (df.C == 6) & (df.D == 0))]
+    df.loc[[0,2,4]]
+    df.loc[1:3]
+    df.iloc[0:df[df.year == 'y3'].index[0]]
+
 ### Testing
 
 pip install selenium  # Downloading Python bindings for Selenium
