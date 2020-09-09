@@ -157,6 +157,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 
 * {Popular ML taacks](https://news.ycombinator.com/item?id=21516311) -- 11/12/2019
 
++ [Fast.ai vs Python](https://www.wandb.com/podcast/jeremy-howard)
+
     + [BentoML](https://colab.research.google.com/github/bentoml/BentoML/blob/master/guides/quick-start/bentoml-quick-start-guide.ipynb) - framework for deploying ML models
     + R  - > Plumber APIs that wrap these packages/models -> Docker images -> Docker Swarm -> Nginx -> C#.
     + SageMaker (costly)
