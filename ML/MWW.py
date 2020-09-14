@@ -95,3 +95,27 @@ u_statistic, pVal = stats.mannwhitneyu(group1, group2)
 print ('P value:')
 print (pVal)
 
+
+# Confidence intervl for t-test averages - ds1 and ds2
+import statsmodels.api as sm
+tstat, p_value, dof = sm.stats.ttest_ind(ds1, ds2)
+CI = sm.stats.CompareMeans.from_data(ds1, ds2).tconfint_diff()
+
+### Confidence interval for Mann-Whitney medians
+from scipy.stats import norm
+
+ct1 = ds1.count()  #items in dataset 1
+ct2 = ds2.count()  #items in dataset 2
+alpha = 0.05       #95% confidence interval
+N = norm.ppf(1 - alpha/2) # percent point function - inverse of cdf
+
+# The confidence interval for the difference between the two population
+# medians is derived through these nxm differences.
+diffs = sorted([i-j for i in ds1 for j in ds2])
+
+# For an approximate 100(1-a)% confidence interval first calculate K:
+k = int(round(ct1*ct2/2 - (N * (ct1*ct2*(ct1+ct2+1)/12)**0.5)))
+
+# The Kth smallest to the Kth largest of the n x m differences 
+# ct1 and ct2 should be > ~20
+CI = (diffs[k], diffs[len(diffs)-k])
