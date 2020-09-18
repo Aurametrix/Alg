@@ -304,6 +304,8 @@ pip install pygsr
 + [Evidence-Based Medicine](https://github.com/ebmdatalab/)
 + [Chatistics](https://github.com/MasterScrat/Chatistics) - convert chat logs into Panda DataFrames
 
++ [Array Programming with Numpy](https://www.nature.com/articles/s41586-020-2649-2)
+
 + [large Zip archives](https://github.com/BuzonIO/zipfly#zipfly)
 
 + [ML for microbiome classification](https://www.biorxiv.org/content/10.1101/816090v1.full), [github repo](https://github.com/SchlossLab/Topcuoglu_ML_XXX_2019/)
