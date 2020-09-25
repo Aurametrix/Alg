@@ -27,8 +27,6 @@ from scipy import stats
 
 # standard error of the mean for “3rd_set” column when “1st_set” equals 25: 
 
- from scipy import stats
-
 # stats.sem(dataF[dataF[“1st_set”] == 25][“3rd_set”])
 
 # MWW Rank Sum test  - if two sets of data are significantly different -  vs t-test normally distributed.
@@ -49,7 +47,6 @@ sample2=dataF[“2nd_set”].dropna()
 sample3=dataF[“3rd_set”].dropna()
 
 stats.ranksums(sample2, sample3)
-
 
 
 stats.ranksums(sample1, sample2)
@@ -75,7 +72,6 @@ Piglet.hist(figsize=(5, 5), bins=5, xlabelsize=8, ylabelsize=8);
 stats.mannwhitneyu(Pooh.Likert, Piglet.Likert)
 
 # If the p-value>0.05 we accept alternate hypothesis which is The two groups do not exhibit stochastic equality.
-
 # The Mann-Whitney U test allows comparison of two groups of data where the data is not normally distributed.
 
 import numpy as np
@@ -119,3 +115,17 @@ k = int(round(ct1*ct2/2 - (N * (ct1*ct2*(ct1+ct2+1)/12)**0.5)))
 # The Kth smallest to the Kth largest of the n x m differences 
 # ct1 and ct2 should be > ~20
 CI = (diffs[k], diffs[len(diffs)-k])
+
+# The lmfit confidence module allows you to explicitly calculate confidence intervals for variable parameters.
+import lmfit
+
+mini = lmfit.Minimizer(residual, p, nan_policy='omit')
+ci = lmfit.conf_interval(mini, result)
+
+###
+
+mini = Minimizer(some_func, params)
+result = mini.leastsq()
+x, y, gr = conf_interval2d(mini, result, 'para1','para2')
+plt.contour(x,y,gr)
+lmfit.printfuncs.report_ci(ci)
