@@ -223,6 +223,8 @@ pip install BeautifulSoup4
 * [Python for Economics](http://quant-econ.net/py/index.html)
 * [Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
 
+* [Python for Kids](https://github.com/mytechnotalent/Python-For-Kids)
+* [Python in Pics](https://projects.raspberrypi.org/en/codeclub/python-module-1)
 * [Intro for absolute beginners](https://github.com/webartifex/intro-to-python)
 * [Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
 * [Coconut](http://coconut-lang.org/), a functional programming language that compiles to Python
