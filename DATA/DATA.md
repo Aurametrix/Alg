@@ -237,6 +237,8 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 [PedNet](https://github.com/nathanrooy/ped-net)
 [self-hosted knowledge base](https://github.com/Uzay-G/archivy)
 [Simple SQL](https://github.com/nackjicholson/aiosql)
+[Public Coronavirus Twitter Data Set](https://github.com/echen102/COVID-19-TweetIDs)
+
 
 ### Courses
 
