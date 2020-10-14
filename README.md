@@ -325,6 +325,10 @@ pip install pygsr
 + [Mario](https://github.com/python-mario/mario) - python pipelines for your shell
 + [Pyp](https://github.com/hauntsaninja/pyp) - python from shell
 
++ [Converting tapes](https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/) of  [Usenet archives](UsenetArchives.com)
+
++ [predict Personality type based on Reddit profile](https://gimmeserendipity.com/mbtimodel/reddit/)
+
 ### UI
 
 + PyQT5, [Python GUI](https://build-system.fman.io/pyqt5-tutorial)
