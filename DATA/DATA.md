@@ -238,7 +238,7 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 [self-hosted knowledge base](https://github.com/Uzay-G/archivy)
 [Simple SQL](https://github.com/nackjicholson/aiosql)
 [Public Coronavirus Twitter Data Set](https://github.com/echen102/COVID-19-TweetIDs)
-
+[Geolocation of Twitter users](https://github.com/shawn-terryah/Twitter_Geolocation)
 
 ### Courses
 
