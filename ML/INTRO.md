@@ -97,6 +97,10 @@
 
 + [ML model collection](https://docs.google.com/spreadsheets/d/1ehKtQeuZKnE9R0JUFuRsV6B82p9KYkLKF7cMA7nH2cA/edit#gid=0)
 
++ Bayesian Modeling
+    + [with PYMC3](https://juanitorduz.github.io/intro_pymc3/)
+    + [Bayesnet.py](https://github.com/sonph/bayesnetinference)
+
 ### Tensors and Dynamic neural networks
 
 * [Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)  
