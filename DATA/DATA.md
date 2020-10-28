@@ -7,6 +7,7 @@
 + [Commercial real estate data sources](https://blog.apto.com/blog/the-best-of-commercial-real-estate-data-sources-listings/availabilities)
  
 + [scraping Canadian weather data](https://github.com/alaudet/my_weather) 
++ [196,640 books in plain .txt](https://github.com/soskek/bookcorpus/issues/27#issuecomment-716104208)  - https://the-eye.eu/public/AI/pile_preliminary_components/books1.tar.gz
 
 Data Mining
 
