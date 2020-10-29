@@ -4,6 +4,7 @@ Python
 ### Modules, Updates, Setup
 
 [Python programming language](https://github.com/python/cpython)
+[Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
 
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
