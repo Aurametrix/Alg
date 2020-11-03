@@ -338,6 +338,8 @@ pip install pygsr
 + Apprise, [Push notifications](https://github.com/caronc/apprise/#showhn-one-last-time)
 
 + [D-Tale](https://github.com/man-group/dtale) - tool to visualize pandas dataframes
++ [dataclass container](https://github.com/joshlk/dataclassframe)
+
 
 (Slicing, Indexing, Subsetting ataframes)[https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/]
 
