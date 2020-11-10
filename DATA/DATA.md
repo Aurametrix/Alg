@@ -78,7 +78,7 @@ KD Nuggets list of data mining sets
 
 + European Union Data Portal Funded by the European Union, this is a portal harvested metadata from public sector portals throughout Europe.
 
-+ European Union Open Data Portal Portal for data from European Union institutions.
++ [European Union Open Data Portal Portal for data from European Union institutions](https://data.europa.eu/euodp/en/data/)
 
 + [Russian Vote 2020](https://github.com/khakhalin/Sketches/tree/master/ru_vote_2020)
 
@@ -234,7 +234,11 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 
 ### Projects
 [COVID-19 safegraph](https://docs.safegraph.com/docs/covid19-response-dashboard-changelog)
-[urban mobility tracker](https://github.com/nathanrooy/rpi-urban-mobility-tracker)
+[Urban mobility tracker](https://github.com/nathanrooy/rpi-urban-mobility-tracker)
+[Data from Hackathons](https://github.com/Mike-Honey/hackathons)
+    + [COVID-19 Symptom Data Challenge](https://github.com/Mike-Honey/hackathons/tree/master/CSDC), [official site](https://www.symptomchallenge.org/)
+    + [COVID-19 open data](https://github.com/GoogleCloudPlatform/covid-19-open-data) 
+[Create Artficial Data](https://medium.com/gretel-ai/create-artificial-data-with-gretel-synthetics-and-google-colaboratory-2e36609bf192) with Gretel Synthetics and Google Colaboratory
 [PedNet](https://github.com/nathanrooy/ped-net)
 [self-hosted knowledge base](https://github.com/Uzay-G/archivy)
 [Simple SQL](https://github.com/nackjicholson/aiosql)
