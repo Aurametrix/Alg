@@ -100,6 +100,7 @@
 + Bayesian Modeling
     + [with PYMC3](https://juanitorduz.github.io/intro_pymc3/)
     + [Bayesnet.py](https://github.com/sonph/bayesnetinference)
+    + [Pomegranate](https://github.com/jmschrei/pomegranate)
 
 ### Tensors and Dynamic neural networks
 
