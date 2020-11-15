@@ -27,3 +27,18 @@ filtered
 python_bool = df["LanguageWorkedWith"].str.contains('Python')
 python_bool.value_counts(normalize=True)
 lang_df.stack().value_counts().plot(kind='bar', figsize=(15,7), color="#61d199")
+
+
+def CronbachAlpha(itemscores):
+    itemscores = numpy.asarray(itemscores)
+    itemvars = itemscores.var(axis=1, ddof=1)
+    tscores = itemscores.sum(axis=0)
+    nitems = len(itemscores)
+
+    return nitems / (nitems-1.) * (1 - itemvars.sum() / tscores.var(ddof=1))
+    
+from tcistats import cronbach_alpha
+#cronbach_alpha([[1, 2, 3], [2, 3, 4], [3, 4, 5]])
+
+alphas = cronbach_alpha(my_items)
+print('Cronbach alpha results: ', alphas)
