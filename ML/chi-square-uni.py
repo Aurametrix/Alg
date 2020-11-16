@@ -68,3 +68,38 @@ for ds in (dset1, dset2):
     prob = chi2Probability( dof, distance)
     print "probability: %.4f"%prob,
     print "uniform? ", "Yes"if chi2IsUniform(ds,0.05) else "No"
+    
+    
+import pandas as pd
+import researchpy as rp
+import scipy.stats as stats
+
+# To load a sample dataset  - from stata documentation
+import statsmodels.api as sm
+
+df = sm.datasets.webuse("citytemp2")
+
+df.info()
+# 956 entries, 0 to 955; 7 columns
+# is there a relationship between region and age (ageecat = 3 categories)
+rp.summary_cat(df[["agecat", "region"]])
+# CHI-SQUARE TEST OF INDEPENDENCE WITH SCIPY.STATS
+# scipy.stats.chi2_contingency : https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html
+# This method requires to pass a crosstabulation table, this can be accomplished using pandas.crosstab
+crosstab = pd.crosstab(df["region"], df["agecat"])
+crosstab
+stats.chi2_contingency(crosstab)
+# 2st value returned is chi-square 61.29, second pval< 0.0001
+
+# independece test with Researchpy
+crosstab, test_results, expected = rp.crosstab(df["region"], df["agecat"],
+                                               test= "chi-square",
+                                               expected_freqs= True,
+                                               prop= "cell")
+
+crosstab
+test_results
+# Pearson chi-square is 61.29, pval also small
+# dditionally calculated: strength of association - Cramer's V
+# 0.17 here - strong but not very strong
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107969/
