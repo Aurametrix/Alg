@@ -31,10 +31,12 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 + Python libraries for NLP:
     + Natural Language Toolkit (NLTK): https://www.nltk.org/
+        + [War and Peace with NLTK](http://csmoon-ml.com/index.php/2019/01/25/analysis-of-text-tolstoys-war-and-peace/)
     + spaCy: https://spacy.io/
     + TextBlob: https://github.com/sloria/TextBlob/
     + Chatterbot: https://chatterbot.readthedocs.io/en/stable/
     
+    + Gensim: https://radimrehurek.com/gensim/ - for similarity analysis
 
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 
