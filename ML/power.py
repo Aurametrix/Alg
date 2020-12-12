@@ -1,3 +1,8 @@
+# estimate sample size via power analysis
+from statsmodels.stats.power import TTestIndPower
+import matplotlib.pyplot as plt
+import numpy as np
+
 # parameters for the analysis 
 effect_size = 0.8
 alpha = 0.05 # significance level
@@ -31,7 +36,7 @@ fig.subplots_adjust(top = 1.4)
 
 
 # for this part I assume significance level of 0.05
-import plotly.plotly as py
+import chart-studio.plotly as py
 import plotly.graph_objs as go
 
 @np.vectorize
