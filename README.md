@@ -54,6 +54,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Functional Programming](https://github.com/dry-python/returns)
 
+[generations vs functions](https://www.pythonkitchen.com/python-generators-in-depth/)
+
 [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) 
 
 [Clean Code](https://github.com/davified/clean-code-ml/blob/master/notebooks/titanic-notebook-1.ipynb)
