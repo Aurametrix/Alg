@@ -228,7 +228,7 @@ pip install BeautifulSoup4
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/) 
 * [Python for Economics](http://quant-econ.net/py/index.html)
 * [Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
-
+* [CS topics](https://github.com/jwasham/coding-interview-university)
 * [Python for Kids](https://github.com/mytechnotalent/Python-For-Kids)
 * [Python in Pics](https://projects.raspberrypi.org/en/codeclub/python-module-1)
 * [Intro for absolute beginners](https://github.com/webartifex/intro-to-python)
