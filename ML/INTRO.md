@@ -168,6 +168,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
     + R  - > Plumber APIs that wrap these packages/models -> Docker images -> Docker Swarm -> Nginx -> C#.
     + SageMaker (costly)
     + [Cortex](https://github.com/cortexlabs/cortex/) - takes machine learning models—trained with nearly any framework—and turns them into production web APIs in one command.
+    
+    + [Code Generator for ML](https://traingenerator.jrieke.com/)
 
 
 ### Time Series    
