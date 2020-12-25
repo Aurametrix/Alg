@@ -39,7 +39,17 @@ http://bsonspec.org/
 Jepsen analysis of databases  http://jepsen.io/analyses
 
 
+
 Read generic binary files:
-with open(fileName, mode='rb') as file: # b is important -> binary
-    fileContent = file.read()
-struct.unpack("iiiii", fileContent[:20])
+
+    import struct
+    with open("aurametrix_production.0", mode='rb') as file: # b is important -> binary
+        fileContent = file.read()
+    struct.unpack("iiiii", fileContent[:20])
+
+ read bson
+ 
+    import bson
+    with open('diary_entries.bson','rb') as f:
+        data = bson.decode_all(f.read())
+    print(data)  
