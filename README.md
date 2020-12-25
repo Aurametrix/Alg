@@ -316,7 +316,7 @@ pip install pygsr
 + [Opytimizer](https://github.com/gugarosa/opytimizer) - a Nature-Inspired Python Optimizer
 + [Turn images into geometric primitives](https://github.com/Tw1ddle/geometrize) - [demo](https://www.geometrize.co.uk/)
 + [large Zip archives](https://github.com/BuzonIO/zipfly#zipfly)
-
++ [Microbial simulator](https://github.com/Emergent-Behaviors-in-Biology/community-simulator)
 + [ML for microbiome classification](https://www.biorxiv.org/content/10.1101/816090v1.full), [github repo](https://github.com/SchlossLab/Topcuoglu_ML_XXX_2019/)
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
