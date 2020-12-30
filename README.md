@@ -4,6 +4,7 @@ Python
 ### Modules, Updates, Setup
 
 [Python programming language](https://github.com/python/cpython)
+[Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
 [Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
 
 [compile to another version](https://github.com/nvbn/py-backwards)
