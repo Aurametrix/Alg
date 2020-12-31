@@ -30,6 +30,8 @@ https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-mode
 
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
++ [How Python Attributes work](https://tenthousandmeters.com/blog/python-behind-the-scenes-7-how-python-attributes-work/)
+
 + Python libraries for NLP:
     + Natural Language Toolkit (NLTK): https://www.nltk.org/
         + [War and Peace with NLTK](http://csmoon-ml.com/index.php/2019/01/25/analysis-of-text-tolstoys-war-and-peace/)
