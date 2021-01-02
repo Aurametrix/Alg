@@ -171,6 +171,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
     
     + [Code Generator for ML](https://traingenerator.jrieke.com/)
 
+### Diagnosis and Prognossis
++ [dcapy](https://github.com/matt-black/dcapy) - decision curve analysis; a method to evaluate prediction models and diagnostic tests
 
 ### Time Series    
 
