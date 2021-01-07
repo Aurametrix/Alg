@@ -54,6 +54,7 @@
 ### ML
 
 + [ML for everyone](https://vas3k.com/blog/machine_learning/)
++ [500 ML projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 + [YouTube Machine Learning](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 + [CS231n Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 + [TensorFlow and deep learning](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
