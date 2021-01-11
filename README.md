@@ -284,6 +284,9 @@ to play and record audio on a variety of platforms.
 
 http://people.csail.mit.edu/hubert/pyaudio/
 
+[funct array](https://github.com/Lauriat/funct) - a better python list
+
+
 [Simple way to access google api for speech recognition with python](https://pypi.python.org/pypi/pygsr)
 pip install pygsr
 
