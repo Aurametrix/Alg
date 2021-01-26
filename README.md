@@ -156,6 +156,8 @@ Create an Excel report and add some charts
 
 + [write beetter python](https://github.com/SigmaQuan/Better-Python-59-Ways)
 
++ [API Documentation for Python Projects](https://pdoc.dev/)
+
 
 ### Algorithms
 
