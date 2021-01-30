@@ -313,6 +313,7 @@ pip install pygsr
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
 + [Find usernames across social networks](https://github.com/sherlock-project/sherlock)
 + [HN API](https://github.com/HackerNews/API) = [Algolia](https://hn.algolia.com/api)
++ [Rust bindings for Python](https://github.com/PyO3/pyo3)
 + [Pen Plotter](https://github.com/evildmp/BrachioGraph)
 + [web-based spreadsheet application](https://github.com/ricklamers/gridstudio)
 + [Wonderland of math](https://github.com/neozhaoliang/pywonderland)
