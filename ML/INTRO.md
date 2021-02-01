@@ -172,8 +172,10 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
     + [Cortex](https://github.com/cortexlabs/cortex/) - takes machine learning models—trained with nearly any framework—and turns them into production web APIs in one command.
     
     + [Code Generator for ML](https://traingenerator.jrieke.com/)
+    
+    + [Draw ML models](https://koaning.github.io/human-learn/#interactive-drawings); [code](https://koaning.github.io/human-learn/guide/drawing-classifier/drawing.html)
 
-### Diagnosis and Prognossis
+### Diagnosis and Prognosis
 + [dcapy](https://github.com/matt-black/dcapy) - decision curve analysis; a method to evaluate prediction models and diagnostic tests
 
 ### Time Series    
