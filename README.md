@@ -24,7 +24,7 @@ Python
 
 [A Simple Guide to creating Predictive Models](https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-2b-7be3afb5c557)
 
-https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-2b-7be3afb5c557)
+[IDOM](https://rmorshea.github.io/articles/2021/idom-react-but-its-python/article/) - declarative Python package for building highly interactive user interfaces
 
 [Python IDM](https://github.com/pyIDM/PyIDM) - Internet Download manager
 
