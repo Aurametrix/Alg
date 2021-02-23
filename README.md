@@ -345,6 +345,7 @@ pip install pygsr
 
 + [Converting tapes](https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/) of  [Usenet archives](UsenetArchives.com)
 
++ [Note](https://github.com/wsw70/note) - command-line note-taking app
 + [predict Personality type based on Reddit profile](https://gimmeserendipity.com/mbtimodel/reddit/)
 
 + [3D engine ever implemented in DNA code](https://github.com/pallada-92/dna-3d-engine)
