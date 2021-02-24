@@ -47,6 +47,12 @@ Python
 
 [Composing programs](https://composingprograms.com/)
 
+[Free for Developers](https://free-for.dev/#/)
+    + [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.
+   + [Colaboratory](https://colab.research.google.com/)  — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
+   + [Datapane](https://datapane.com/)
+
+
 [job queues](https://github.com/rq/rq)
 
 [Algebraic Number Theory package](https://github.com/louisabraham/algnuth)
