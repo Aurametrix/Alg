@@ -175,6 +175,13 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
     
     + [Draw ML models](https://koaning.github.io/human-learn/#interactive-drawings); [code](https://koaning.github.io/human-learn/guide/drawing-classifier/drawing.html)
 
+### Explainable AI  (XAI)
++ [A unified approach to explain the output of any machine learning model[(https://github.com/slundberg/shap)
+
++ [Review](https://arxiv.org/pdf/2006.00093.pdf) /visual, rule-based, etc/
+
+
+
 ### Diagnosis and Prognosis
 + [dcapy](https://github.com/matt-black/dcapy) - decision curve analysis; a method to evaluate prediction models and diagnostic tests
 
