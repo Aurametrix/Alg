@@ -357,6 +357,9 @@ pip install pygsr
 + [3D engine ever implemented in DNA code](https://github.com/pallada-92/dna-3d-engine)
 + [Zipfly](https://github.com/BuzonIO/zipfly#lib) - zip archive generator
 
+##### Decentralized Communities
++ [Hummingbard](https://hummingbard.com/hummingbard/introducing-hummingbard) built on top of [Matrix](https://github.com/matrix-org)
+
 ### UI
 
 + PyQT5, [Python GUI](https://build-system.fman.io/pyqt5-tutorial)
