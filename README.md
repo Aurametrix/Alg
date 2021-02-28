@@ -212,6 +212,7 @@ graph = {'A': ['B', 'C'],
     
 + [CoCalc](https://cocalc.com/) created by the SageMath developers
 
++ [Gradient-Free-Optimizers](https://github.com/SimonBlanke/Gradient-Free-Optimizers) -  a collection of easy to use optimization techniques
 
 [Web:](WEB/)
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. 
