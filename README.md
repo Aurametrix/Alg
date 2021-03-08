@@ -190,7 +190,10 @@ graph = {'A': ['B', 'C'],
 'F': ['C']}          
 
 + [Structural Pattern Matching](https://lwn.net/Articles/838600/)
-[Machine Learning:](ML/)
+    + [Python 3.10.0a6 with 100% more pattern matching](https://mail.python.org/archives/list/python-committers@python.org/message/VGZDQ5TFMSWEQZS6HNDLDJQ7GAASGUUB/)
+
+
++[Machine Learning:](ML/)
 
 + [ML Crash Course: The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
 + [Reinforcement Learning](https://github.com/5vision)
