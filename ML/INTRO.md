@@ -194,6 +194,13 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
     + [plotting](https://discourse.pymc.io/uploads/short-url/yPDTMtI9tk3g7tHzFQ0Hay4jstp.py)
     + [Jupyter script](https://discourse.pymc.io/uploads/short-url/ricfnGapUOe2061L8PF0TlmNMYU.py)
 
+### OCR - ptical character recognition
+
+Intro w/datasets https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa
+dEEP lEARNING FOR ocr https://nanonets.com/blog/receipt-ocr/
+
++ A fuzzy receipt parser https://github.com/ReceiptManager/receipt-parser-legacy
+
 
 ### AI
 + [AI training scales](https://blog.openai.com/science-of-ai/)
