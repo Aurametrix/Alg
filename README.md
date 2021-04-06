@@ -161,8 +161,16 @@ Use gzip with when saving to csv
 Create an Excel report and add some charts 
 
 + [write beetter python](https://github.com/SigmaQuan/Better-Python-59-Ways)
-
++ [API tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 + [API Documentation for Python Projects](https://pdoc.dev/)
+    Rest API, FTP, TCP, etc. Choosing the one according to your data requirements and speed would be wise.
+
+    + standard Rest API helps to obtain data in real-time 
+           + https://marketstack.com/?fpr=geekflare
+           + https://finnhub.io/docs/api
+           + https://github.com/barchart/barchart-ondemand-client-python
+    + With TCP, there’s no need to request for fetching the data
+    + With FTP - older tech
 
 
 ### Algorithms
