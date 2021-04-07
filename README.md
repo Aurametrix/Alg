@@ -28,6 +28,8 @@ Python
 
 [Python IDM](https://github.com/pyIDM/PyIDM) - Internet Download manager
 
+[Django 3.2](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
+
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
 + [How Python Attributes work](https://tenthousandmeters.com/blog/python-behind-the-scenes-7-how-python-attributes-work/)
