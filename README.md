@@ -18,6 +18,8 @@ Python
 
 [Snakemake workflow management system](http://snakemake.readthedocs.io/en/stable/) - is a tool to create reproducible and scalable data analyses
 
+[Free books](https://github.com/pamoroso/free-python-books)
+
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 
 [Machine Learning Tutorial](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
@@ -29,6 +31,8 @@ Python
 [Python IDM](https://github.com/pyIDM/PyIDM) - Internet Download manager
 
 [Django 3.2](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
+
+[Tools for making python packages](https://antonz.org/python-packaging/)
 
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
