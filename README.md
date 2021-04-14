@@ -105,6 +105,8 @@ Python
 
 [Dependency management tools](https://modelpredict.com/python-dependency-management-tools)
 
+[Crush course by Google](https://www.i-programmer.info/news/150-training-a-education/14493-a-crash-course-on-python-by-google.html)
+
 #### Jupyter Notebooks
 
 + [nb2md: conversion of Jupyter and Zeppelin notebooks to Jupyter or Markdown formats](https://github.com/elehcimd/nb2md/)
