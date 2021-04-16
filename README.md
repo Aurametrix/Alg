@@ -58,6 +58,7 @@ Python
    + [Colaboratory](https://colab.research.google.com/)  — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
    + [Datapane](https://datapane.com/)
 
+[google cloud](https://cloud.google.com/blog/products/open-source/supporting-the-python-ecosystem)
 
 [job queues](https://github.com/rq/rq)
 
