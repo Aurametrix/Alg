@@ -79,6 +79,8 @@ Python
 
 [Remote GUI for Python](http://www.remigui.com/)
 
+[Pyodide: Python for the browser](https://lwn.net/Articles/855875/)
+
 [AI Autocomplete](https://transformer.huggingface.co/); [code ](https://github.com/huggingface/transfer-learning-conv-ai)
 
 [Pyodide, Python in a web browser](https://alpha.iodide.io/notebooks/222/)
