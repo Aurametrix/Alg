@@ -13,12 +13,14 @@ https://sites.google.com/g.ucla.edu/pumaa/home
 
 
 
-• MicrobiomeAnalyst:http://www.microbiomeanalyst.ca/
+• MicrobiomeAnalyst: http://www.microbiomeanalyst.ca/
 
-• METAGENassist:http://www.metagenassist.ca/
+• METAGENassist: http://www.metagenassist.ca/
 
-• EBI-Metagenomics:https://www.ebi.ac.uk/metagenomics/
+• EBI-Metagenomics :https://www.ebi.ac.uk/metagenomics/
 
-• MG-RAST:http://metagenomics.anl.gov/
+• MG-RAST: http://metagenomics.anl.gov/
 
-• VAMPS:https://vamps2.mbl.edu/
+• VAMPS: https://vamps2.mbl.edu/
+• AMON: https://github.com/lozuponelab/AMON - A command line tool for predicting the compounds produced by microbes and the host.
+• Microbe Annotator: https://github.com/cruizperez/MicrobeAnnotator
