@@ -426,6 +426,7 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 [Testing with Cucumber and Capybara](https://www.gamesparks.com/blog/automated-testing-with-cucumber-and-capybara/)
 
 [Pytest for data scientists](https://statestitle.com/resource/pytest-for-data-scientists/)
+[S3 testing](https://github.com/sanjaysiddhanti/s3_testing/); [blog post](https://www.sanjaysiddhanti.com/2020/04/08/s3testing/)
 
 ### Datasets
 
