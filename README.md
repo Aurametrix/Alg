@@ -340,6 +340,7 @@ pip install pygsr
 
 ### Interesting projects
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
++ [70+ Python projects with source code](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 + [Find usernames across social networks](https://github.com/sherlock-project/sherlock)
 + [HN API](https://github.com/HackerNews/API) = [Algolia](https://hn.algolia.com/api)
 + [Rust bindings for Python](https://github.com/PyO3/pyo3)
