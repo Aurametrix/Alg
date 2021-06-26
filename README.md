@@ -77,7 +77,6 @@ Python
 
 [Clean Code](https://github.com/davified/clean-code-ml/blob/master/notebooks/titanic-notebook-1.ipynb)
 
-[Remote GUI for Python](http://www.remigui.com/)
 
 [Pyodide: Python for the browser](https://lwn.net/Articles/855875/)
 
@@ -131,6 +130,22 @@ Python
     
     c.NotebookApp.disable_check_xsrf = True 
     
+### Graphical User Interface Frameworks
+
+
++ [Remote GUI for Python](http://www.remigui.com/)
++ [Kivy](https://kivy.org/#home)
++ [libavg](https://www.libavg.de/site/projects/libavg/wiki)
++ [Pyqt](https://riverbankcomputing.com/software/pyqt/intro)
++ [PySimpleGUI](https://pypi.org/project/PySimpleGUI/#data); [examples](https://realpython.com/pysimplegui-python/)
++ [pyforms](https://pyforms.readthedocs.io/en/v3.0/)
++ [pypi](https://pypi.org/project/wax/)
++ [TkInter](https://wiki.python.org/moin/TkInter)
++  [Wxpython](https://www.wxpython.org/)
+
+
+
+
 
 ### Conferences
 
