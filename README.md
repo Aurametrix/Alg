@@ -5,7 +5,7 @@ Python
 
 [Python programming language](https://github.com/python/cpython)
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
-[Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
+[Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/) - [v2.2](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
 
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
