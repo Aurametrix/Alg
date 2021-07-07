@@ -391,7 +391,7 @@ pip install pygsr
 + [Pyp](https://github.com/hauntsaninja/pyp) - python from shell
 
 + [Converting tapes](https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/) of  [Usenet archives](UsenetArchives.com)
-
++ [Easy File Sharing](https://github.com/magic-wormhole/magic-wormhole)
 + [Note](https://github.com/wsw70/note) - command-line note-taking app
 + [predict Personality type based on Reddit profile](https://gimmeserendipity.com/mbtimodel/reddit/)
 + [Novel writer](https://github.com/vkbo/novelWriter)
