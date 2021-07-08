@@ -3,3 +3,10 @@
 [The Python Graph Gallery](https://python-graph-gallery.com/boxplot/) - from the [Catalogue ](https://datavizcatalogue.com/index.html)
 
 [Interactive Plotting Library](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md)
+
+[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+[Debug visualizer for VS code](https://github.com/hediet/vscode-debug-visualizer)
+
+9Algorithm visualizer](https://algorithms.laszlokorte.de/)
+
