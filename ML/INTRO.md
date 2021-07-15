@@ -104,6 +104,10 @@
     + [Bayesnet.py](https://github.com/sonph/bayesnetinference)
     + [Pomegranate](https://github.com/jmschrei/pomegranate)
 
+###
++ [Deploy GPU-Accelerated Models](https://inferrd.com/?gpu)
+
+
 ### Tensors and Dynamic neural networks
 
 * [Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)  
