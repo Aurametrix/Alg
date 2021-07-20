@@ -516,4 +516,6 @@ pip install scipy
 pip install matplotlib
 
 ### What's coming:
-[Python 3.10](https://pythoninsider.blogspot.com/2020/11/python-3100a2-is-now-available-for.html)
++ [Python 3.10](https://pythoninsider.blogspot.com/2020/11/python-3100a2-is-now-available-for.html)
++ [What's new in Python 3.11](https://docs.python.org/3.11/whatsnew/3.11.html)
+
