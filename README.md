@@ -280,6 +280,8 @@ pip install BeautifulSoup4
 * [Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
 * [CS topics](https://github.com/jwasham/coding-interview-university)
 * [Python for Kids](https://github.com/mytechnotalent/Python-For-Kids)
+* [Jetbrains academy](https://www.jetbrains.com/academy/)
+* [Web academy](https://academy.bigbinary.com/)
 * [Python in Pics](https://projects.raspberrypi.org/en/codeclub/python-module-1)
 * [Intro for absolute beginners](https://github.com/webartifex/intro-to-python)
 * [Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
