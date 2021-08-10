@@ -397,6 +397,7 @@ pip install pygsr
 + [Note](https://github.com/wsw70/note) - command-line note-taking app
 + [predict Personality type based on Reddit profile](https://gimmeserendipity.com/mbtimodel/reddit/)
 + [Novel writer](https://github.com/vkbo/novelWriter)
++ [DataProfiler](https://github.com/capitalone/DataProfiler) - library designed to make data analysis, monitoring and sensitive data detection easy.
 
 + [3D engine ever implemented in DNA code](https://github.com/pallada-92/dna-3d-engine)
 + [Zipfly](https://github.com/BuzonIO/zipfly#lib) - zip archive generator
