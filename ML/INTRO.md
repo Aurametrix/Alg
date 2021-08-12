@@ -96,7 +96,6 @@
 - [Mask RCNN](https://github.com/matterport/Mask_RCNN) - Matterport's implementation for object detection and instance segmentation on Keras and TensorFlow
 - using Mask R-CNN algorithm to [detect features in satellite images](https://github.com/jremillard/images-to-osm)
 
-
 + [ML model collection](https://docs.google.com/spreadsheets/d/1ehKtQeuZKnE9R0JUFuRsV6B82p9KYkLKF7cMA7nH2cA/edit#gid=0)
 
 + Bayesian Modeling
@@ -192,6 +191,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 
 ### Time Series    
 
+
++ [Darts](https://github.com/unit8co/darts) - library for manipulation of time series, makes use of  forecasting models  - from ARIMA to deep learning
 + [Hierarchical time series using Prophet and PyMC3](https://discourse.pymc.io/t/hierarchical-time-series-with-prophet-and-pymc3-by-matthijs-brouns/5988)
     + [streamlit dashboard](http://prophet.mbrouns.com/)
     + [full repo](https://github.com/MBrouns/timeseers)
