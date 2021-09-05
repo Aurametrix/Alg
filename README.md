@@ -380,6 +380,7 @@ pip install pygsr
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 + [Personal Data Management Dashboard](https://volmarg.github.io/) - [GH](https://github.com/Volmarg/personal-management-system)
++ [Tracking personal finances](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)
 
 + [Inline C in Python](https://github.com/georgek42/inlinec)
 
