@@ -262,15 +262,17 @@ pip install BeautifulSoup4
 
 + [Pelican for Web building](https://shahayush.com/2020/03/web-pelican-intro/)
 
-+ [Data Science handbook]{(https://jakevdp.github.io/PythonDataScienceHandbook/)
++ [Data Science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
++ [Mastering Web-scraping](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch)
 
-[5 web scraping libraries](https://elitedatascience.com/python-web-scraping-libraries)
-+The Farm: Requests
-+The Stew: Beautiful Soup 4
-+The Salad: lxml
-+The Restaurant: Selenium
-+The Chef: Scrapy
++ [5 web scraping libraries](https://elitedatascience.com/python-web-scraping-libraries)
+    + The Farm: Requests
+    + The Stew: Beautiful Soup 4
+    + The Salad: lxml
+    + The Restaurant: Selenium
+    + The Chef: [Scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html)
+    + [Scyscraper](https://github.com/nathell/skyscraper)
 
 
 ### Learning resources
