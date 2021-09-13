@@ -186,7 +186,7 @@ Use gzip with when saving to csv
 
 Create an Excel report and add some charts 
 
-+ [write beetter python](https://github.com/SigmaQuan/Better-Python-59-Ways)
++ [write better python](https://github.com/SigmaQuan/Better-Python-59-Ways)
 + [API tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 + [API Documentation for Python Projects](https://pdoc.dev/)
     Rest API, FTP, TCP, etc. Choosing the one according to your data requirements and speed would be wise.
@@ -195,6 +195,9 @@ Create an Excel report and add some charts
            + https://marketstack.com/?fpr=geekflare
            + https://finnhub.io/docs/api
            + https://github.com/barchart/barchart-ondemand-client-python
+           + [Open-Meteo](https://open-meteo.com/en/docs#api_form) -  free weather forecast APIs
+           + [Open Weather](https://openweathermap.org/api)
+           + [Realtime weather API](https://www.visualcrossing.com/weather-api)
     + With TCP, there’s no need to request for fetching the data
     + With FTP - older tech
 
