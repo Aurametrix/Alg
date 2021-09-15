@@ -4,7 +4,10 @@ Python
 ### Modules, Updates, Setup
 
 [Python programming language](https://github.com/python/cpython)
+
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
+[Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
+
 [Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/) - [v2.2](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
 
 [compile to another version](https://github.com/nvbn/py-backwards)
@@ -47,7 +50,7 @@ Python
     
     + Gensim: https://radimrehurek.com/gensim/ - for similarity analysis
 
-[Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
+
 
 [Built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
@@ -68,6 +71,8 @@ Python
 [F-strings](https://realpython.com/python-f-strings/)
 
 [The Python scientific stack, compiled to WebAssembly ](https://github.com/iodide-project/pyodide); see [demo](https://iodide.io/pyodide-demo/python.html)
+
+[Scikit-learn](https://scikit-learn.org/dev/whats_new/v1.0.html)
 
 [Functional Programming](https://github.com/dry-python/returns)
 
