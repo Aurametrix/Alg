@@ -366,6 +366,8 @@ pip install pygsr
 
 [A Hitchhikers Guide to Asynchronous Programming](https://github.com/crazyguitar/pysheeet/blob/master/docs/appendix/python-concurrent.rst)
 
+[Programming Puzzles](https://github.com/microsoft/PythonProgrammingPuzzles)
+
 ### Interesting projects
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
 + [70+ Python projects with source code](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
