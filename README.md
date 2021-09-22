@@ -5,6 +5,7 @@ Python
 
 [Python programming language](https://github.com/python/cpython)
 
+
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 
@@ -18,6 +19,14 @@ Python
 [REPL, online compiler](https://repl.it/repls/FrugalOrderlyLearning)
  
 [Junja2 - a template engine](http://jinja.pocoo.org/); [2.1](https://github.com/pallets/jinja/releases/tag/2.10)
+
+
+
+#### building GUI
+[PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+[Gooey](https://github.com/chriskiehl/Gooey)
+
+### Resources
 
 [Snakemake workflow management system](http://snakemake.readthedocs.io/en/stable/) - is a tool to create reproducible and scalable data analyses
 
@@ -49,7 +58,9 @@ Python
     + Chatterbot: https://chatterbot.readthedocs.io/en/stable/
     
     + Gensim: https://radimrehurek.com/gensim/ - for similarity analysis
-
+    
+[NLP library](https://stanfordnlp.github.io/stanfordnlp/)
+      + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
 
 
 [Built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
@@ -61,7 +72,7 @@ Python
    + [Colaboratory](https://colab.research.google.com/)  — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
    + [Datapane](https://datapane.com/)
 
-[google cloud](https://cloud.google.com/blog/products/open-source/supporting-the-python-ecosystem)
+[Google cloud](https://cloud.google.com/blog/products/open-source/supporting-the-python-ecosystem)
 
 [job queues](https://github.com/rq/rq)
 
@@ -91,8 +102,7 @@ Python
 
 [online translation server](https://github.com/translate/pootle)
 
-[NLP library](https://stanfordnlp.github.io/stanfordnlp/)
-      + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
+
    
 [T5](https://github.com/google-research/text-to-text-transfer-transformer)
 
