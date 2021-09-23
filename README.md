@@ -405,6 +405,7 @@ pip install pygsr
 + [Tracking personal finances](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)
 
 + [Inline C in Python](https://github.com/georgek42/inlinec)
++ [Pycel](https://github.com/pyccel/pyccel) - Python extension language using accelerators
 
 + [command-line journal application](https://github.com/jrnl-org/jrnl)
 
