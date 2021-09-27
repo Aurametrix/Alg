@@ -38,6 +38,10 @@
 ### ---
 
 + [YouTube Introduction to Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk)
++ [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
+    + [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+    + [Fairscale](https://github.com/facebookresearch/fairscale)
+
 
 
 + [Screenshot to Code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
