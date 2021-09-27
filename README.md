@@ -339,6 +339,10 @@ pip install BeautifulSoup4
 * [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
 
     git clone git://github.com/numpy/numpy.git numpy
+    
+    
+    [MATPLOTLIB GUI](https://everydayanchovies.github.io/mplg/mplg)
+    
 
     http://matplotlib.org/ - python 2D plotting library
 
