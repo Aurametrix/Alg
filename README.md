@@ -410,6 +410,7 @@ pip install pygsr
 
 + [Inline C in Python](https://github.com/georgek42/inlinec)
 + [Pycel](https://github.com/pyccel/pyccel) - Python extension language using accelerators
++ [Prolog in Python](https://github.com/brunokim/prol)
 
 + [command-line journal application](https://github.com/jrnl-org/jrnl)
 
