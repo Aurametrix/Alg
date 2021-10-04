@@ -22,7 +22,7 @@ Python
 
 
 
-#### building GUI
+#### Building GUI
 [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 [Gooey](https://github.com/chriskiehl/Gooey)
 
@@ -35,6 +35,8 @@ Python
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 
 [Machine Learning Tutorial](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
+
+[Interactive Python course](https://futurecoder.io/)
 
 [A Simple Guide to creating Predictive Models](https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-2b-7be3afb5c557)
 
