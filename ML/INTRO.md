@@ -42,6 +42,9 @@
     + [DeepSpeed](https://github.com/microsoft/DeepSpeed)
     + [Fairscale](https://github.com/facebookresearch/fairscale)
 
+[tips for DL training](https://news.ycombinator.com/item?id=28786958) - Oct. 7 2021
+
+[PyTorch/XLA](https://github.com/pytorch/xla/)  - a Python package that uses the XLA deep learning compiler to connect the PyTorch deep learning framework a)
 
 
 + [Screenshot to Code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
