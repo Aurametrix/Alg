@@ -20,6 +20,7 @@ Python
  
 [Junja2 - a template engine](http://jinja.pocoo.org/); [2.1](https://github.com/pallets/jinja/releases/tag/2.10)
 
+[speeding Python with Lua](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
 
 
 #### Building GUI
