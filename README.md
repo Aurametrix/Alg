@@ -560,5 +560,6 @@ pip install matplotlib
 
 ### What's coming:
 + [Python 3.10](https://www.python.org/downloads/);  [version for testing](https://pythoninsider.blogspot.com/2020/11/python-3100a2-is-now-available-for.html)
++ [3.10 vs 3.9](https://docs.python.org/3/whatsnew/3.10.html)
 + [What's new in Python 3.11](https://docs.python.org/3.11/whatsnew/3.11.html)
     +[zero cost exception handling](https://bugs.python.org/issue40222)
