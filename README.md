@@ -313,6 +313,7 @@ pip install BeautifulSoup4
 * [Intro for absolute beginners](https://github.com/webartifex/intro-to-python)
 * [Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
 * [Coconut](http://coconut-lang.org/), a functional programming language that compiles to Python
+* [Taichi](https://github.com/taichi-dev/taichi) - Python-based parallel programming
 
 * [Google Collab](https://colab.research.google.com/notebooks/welcome.ipynb#)
 
