@@ -425,6 +425,7 @@ pip install pygsr
 + [command-line journal application](https://github.com/jrnl-org/jrnl)
 
 + [Seq — a language for bioinformatics](https://seq-lang.org/)
++ Python dependency resolution[](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
 
 + [API-less video downloader](https://github.com/althonos/InstaLooter)
 + [Python for Feature Film](https://www.gfx.dev/python-for-feature-film)
