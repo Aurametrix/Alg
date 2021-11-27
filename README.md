@@ -67,6 +67,7 @@ Python
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/)
       + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
 
+[TextAPI](https://www.thetextapi.com/documentation) with (twitter example)[https://pythonalgos.com/2021/11/26/black-friday-how-does-twitter-feel/]
 
 [Built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
