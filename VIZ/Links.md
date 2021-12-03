@@ -6,7 +6,9 @@
 
 [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+[Pybaobab](https://gitlab.tue.nl/20040367/pybaobab) - vizualizing decision trees
+
 [Debug visualizer for VS code](https://github.com/hediet/vscode-debug-visualizer)
 
-9Algorithm visualizer](https://algorithms.laszlokorte.de/)
+[Algorithm visualizer](https://algorithms.laszlokorte.de/)
 
