@@ -58,16 +58,20 @@ Python
 + Python libraries for NLP:
     + Natural Language Toolkit (NLTK): https://www.nltk.org/
         + [War and Peace with NLTK](http://csmoon-ml.com/index.php/2019/01/25/analysis-of-text-tolstoys-war-and-peace/)
-    + spaCy: https://spacy.io/
-    + TextBlob: https://github.com/sloria/TextBlob/
-    + Chatterbot: https://chatterbot.readthedocs.io/en/stable/
+    + (spaCy)[https://spacy.io/]
+    + (TextBlob)[https://github.com/sloria/TextBlob/]
+    + [Gensiim](https://github.com/natsheh/gensim) - for similarity analysis
+    + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
     
-    + Gensim: https://radimrehurek.com/gensim/ - for similarity analysis
+    + [PyNLPI](https://pynlpl.readthedocs.io/en/latest/)
     
-[NLP library](https://stanfordnlp.github.io/stanfordnlp/)
+[NLP library](https://stanfordnlp.github.io/stanfordnlp/) moved to [Stanza](https://github.com/stanfordnlp/stanza/)
+[Core NLP[(https://stanfordnlp.github.io/CoreNLP/)
       + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
 
 [TextAPI](https://www.thetextapi.com/documentation) with (twitter example)[https://pythonalgos.com/2021/11/26/black-friday-how-does-twitter-feel/]
+
+[Text classification](https://medium.com/analytics-vidhya/nlp-tutorial-for-text-classification-in-python-8f19cd17b49e)
 
 [Built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
