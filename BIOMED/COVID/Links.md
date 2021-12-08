@@ -8,3 +8,11 @@ Detect COVID with Keras, TensorFlow, and Deep Learning: https://medium.com/analy
 Impaired local intrinsic immunity to SARS-CoV-2 infection in sever: https://www.cell.com/cell/fulltext/S0092-8674(21)00882-5e COVID-19: https://www.cell.com/cell/fulltext/S0092-8674(21)00882-5
 https://github.com/ShalekLab/SARSCoV2-genome-reference
 Github: https://github.com/hyeshik/sars-cov-2-transcriptome
+
+
+### Beyond Omicron: what's next for viral evolutiuon
+https://www.nature.com/articles/d41586-021-03619-8
+
+https://covariants.org/per-country
+
+[Covariants python scripts](https://github.com/hodcroftlab/covariants/tree/master/scripts)
