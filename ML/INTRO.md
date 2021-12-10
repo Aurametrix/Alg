@@ -10,8 +10,10 @@
   
  
  + [PyTorch and TensorFlow: rise in popularity](https://d3ansictanv2wj.cloudfront.net/image1-e18a246da831903928949a96696ffb38.png)
+
  
  + [Mimicry](https://github.com/kwotsin/mimicry) - a PyTorch library for the reproducibility of Generative Adversarial Networks (GANs)
+ + [Graph-Convolutional Networks in PyTorch](https://pytorch-geometric.readthedocs.io/en/latest/notes/create_gnn.html)
 
 ### Jupyter Notebooks
 
