@@ -4,7 +4,7 @@ Python
 ### Modules, Updates, Setup
 
 [Python programming language](https://github.com/python/cpython)
-
+PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
