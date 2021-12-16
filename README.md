@@ -61,6 +61,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + Natural Language Toolkit (NLTK): https://www.nltk.org/
         + [War and Peace with NLTK](http://csmoon-ml.com/index.php/2019/01/25/analysis-of-text-tolstoys-war-and-peace/)
     + (spaCy)[https://spacy.io/]
+        + [Analysis of open-ended responses](https://robertorocha.info/using-nlp-to-analyze-open-ended-responses-in-surveys/)
     + (TextBlob)[https://github.com/sloria/TextBlob/]
     + [Gensiim](https://github.com/natsheh/gensim) - for similarity analysis
     + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
