@@ -11,3 +11,7 @@ Procedures,
 Diseases/Disorders and
 Medications.
 https://github.com/kenpachiii/cTAKES-Python-API
+
+### Learning the Structure of Biomedical Relationships from Unstructured Text
+A python implementation of the Ensemble Biclustering for Classification (EBC) algorithm
+https://github.com/blpercha/ebc
