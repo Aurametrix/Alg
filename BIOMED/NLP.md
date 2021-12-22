@@ -15,3 +15,6 @@ https://github.com/kenpachiii/cTAKES-Python-API
 ### Learning the Structure of Biomedical Relationships from Unstructured Text
 A python implementation of the Ensemble Biclustering for Classification (EBC) algorithm
 https://github.com/blpercha/ebc
+
+[MedTAG](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01706-4): a portable and customizable annotation tool for biomedical documents
+https://github.com/MedTAG/medtag-core/tree/main#installation
