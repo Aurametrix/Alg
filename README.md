@@ -63,7 +63,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + (spaCy)[https://spacy.io/]
         + [Analysis of open-ended responses](https://robertorocha.info/using-nlp-to-analyze-open-ended-responses-in-surveys/)
     + (TextBlob)[https://github.com/sloria/TextBlob/]
-    + [Gensiim](https://github.com/natsheh/gensim) - for similarity analysis
+    + [Gensim](https://github.com/rare-technologies/gensim) - for similarity analysis
+        + [similarity of sentences](https://www.tutorialexample.com/python-calculate-the-similarity-of-two-sentences-with-gensim-gensim-tutorial/)   
     + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
     
     + [PyNLPI](https://pynlpl.readthedocs.io/en/latest/)
