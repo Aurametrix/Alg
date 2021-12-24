@@ -60,8 +60,9 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 + Python libraries for NLP:
     + Natural Language Toolkit (NLTK): https://www.nltk.org/
         + [War and Peace with NLTK](http://csmoon-ml.com/index.php/2019/01/25/analysis-of-text-tolstoys-war-and-peace/)
-    + (spaCy)[https://spacy.io/]
+    + [spaCy](https://spacy.io/)
         + [Analysis of open-ended responses](https://robertorocha.info/using-nlp-to-analyze-open-ended-responses-in-surveys/)
+        + [Advanced NLP](https://course.spacy.io/en/)
     + (TextBlob)[https://github.com/sloria/TextBlob/]
     + [Gensim](https://github.com/rare-technologies/gensim) - for similarity analysis
         + [similarity of sentences](https://www.tutorialexample.com/python-calculate-the-similarity-of-two-sentences-with-gensim-gensim-tutorial/)   
