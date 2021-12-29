@@ -70,6 +70,10 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
     
     + [PyNLPI](https://pynlpl.readthedocs.io/en/latest/)
+    + [Sense2Vec 2.0](https://pypi.org/project/sense2vec/)
+    + [Word2Vec](http://rare-technologies.com/word2vec-tutorial/)
+
+https://arxiv.org/abs/1511.06388
     
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/) moved to [Stanza](https://github.com/stanfordnlp/stanza/)
 [Core NLP[(https://stanfordnlp.github.io/CoreNLP/)
