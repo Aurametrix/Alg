@@ -459,6 +459,7 @@ pip install pygsr
 + [Novel writer](https://github.com/vkbo/novelWriter)
 + [DataProfiler](https://github.com/capitalone/DataProfiler) - library designed to make data analysis, monitoring and sensitive data detection easy.
 + [cryptographic primitives](https://www.nayuki.io/page/cryptographic-primitives-in-plain-python)
++ [K-Anonymity](https://github.com/Nuclearstar/K-Anonymity) - anonymization methods for network security
 
 + [3D engine ever implemented in DNA code](https://github.com/pallada-92/dna-3d-engine)
 + [Zipfly](https://github.com/BuzonIO/zipfly#lib) - zip archive generator
