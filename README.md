@@ -63,8 +63,9 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + [spaCy](https://spacy.io/)
         + [Analysis of open-ended responses](https://robertorocha.info/using-nlp-to-analyze-open-ended-responses-in-surveys/)
         + [Text classification](https://towardsdatascience.com/sarcasm-text-classification-using-spacy-in-python-7cd39074f32e)
+        + [Videos](https://spacy.io/universe/category/videos)
         + [Advanced NLP](https://course.spacy.io/en/)
-    + (TextBlob)[https://github.com/sloria/TextBlob/]
+    + [TextBlob](https://github.com/sloria/TextBlob/)
     + [Gensim](https://github.com/rare-technologies/gensim) - for similarity analysis
         + [similarity of sentences](https://www.tutorialexample.com/python-calculate-the-similarity-of-two-sentences-with-gensim-gensim-tutorial/)   
     + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
@@ -112,6 +113,8 @@ https://arxiv.org/abs/1511.06388
 [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) 
 
 [Clean Code](https://github.com/davified/clean-code-ml/blob/master/notebooks/titanic-notebook-1.ipynb)
+
+[Docstrings better than comments](https://blog.jaraco.com/why-docstrings-are-preferable-to-comments/)
 
 
 [Pyodide: Python for the browser](https://lwn.net/Articles/855875/)
