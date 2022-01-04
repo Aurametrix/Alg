@@ -69,6 +69,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + [Gensim](https://github.com/rare-technologies/gensim) - for similarity analysis
         + [similarity of sentences](https://www.tutorialexample.com/python-calculate-the-similarity-of-two-sentences-with-gensim-gensim-tutorial/)   
     + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
+    + [Reddit bot](https://medium.com/@bbrenng1/create-your-first-reddit-bot-with-python-and-heroku-e75d7af3026f)
     
     + [PyNLPI](https://pynlpl.readthedocs.io/en/latest/)
     + [Sense2Vec 2.0](https://pypi.org/project/sense2vec/)
