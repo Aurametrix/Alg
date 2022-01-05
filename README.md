@@ -117,6 +117,8 @@ https://arxiv.org/abs/1511.06388
 
 [Docstrings better than comments](https://blog.jaraco.com/why-docstrings-are-preferable-to-comments/)
 
+[](https://github.com/inaccel/numpy-allocator)
+
 
 [Pyodide: Python for the browser](https://lwn.net/Articles/855875/)
 
