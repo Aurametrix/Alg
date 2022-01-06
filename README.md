@@ -27,6 +27,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 [Solution for concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
 
 
+
+
 #### Building GUI
 [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 [Gooey](https://github.com/chriskiehl/Gooey)
@@ -72,10 +74,10 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + [Reddit bot](https://medium.com/@bbrenng1/create-your-first-reddit-bot-with-python-and-heroku-e75d7af3026f)
     
     + [PyNLPI](https://pynlpl.readthedocs.io/en/latest/)
-    + [Sense2Vec 2.0](https://pypi.org/project/sense2vec/)
+    + [Sense2Vec 2.0](https://pypi.org/project/sense2vec/); [paper](https://arxiv.org/abs/1511.06388)
     + [Word2Vec](http://rare-technologies.com/word2vec-tutorial/)
 
-https://arxiv.org/abs/1511.06388
+
     
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/) moved to [Stanza](https://github.com/stanfordnlp/stanza/)
 [Core NLP[(https://stanfordnlp.github.io/CoreNLP/)
@@ -110,6 +112,10 @@ https://arxiv.org/abs/1511.06388
 [Functional Programming](https://github.com/dry-python/returns)
 
 [generations vs functions](https://www.pythonkitchen.com/python-generators-in-depth/)
+
+[Handling optional imports](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/) - Kludge of the year
+
+[Pointers/References](https://yurichev.com/news/20211223_Py_ptrs/)
 
 [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) 
 
