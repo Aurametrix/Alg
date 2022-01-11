@@ -77,7 +77,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + [Sense2Vec 2.0](https://pypi.org/project/sense2vec/); [paper](https://arxiv.org/abs/1511.06388)
     + [Word2Vec](http://rare-technologies.com/word2vec-tutorial/)
 
-
+[TExt Similarity with Python](https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python)
     
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/) moved to [Stanza](https://github.com/stanfordnlp/stanza/)
 [Core NLP[(https://stanfordnlp.github.io/CoreNLP/)
@@ -443,6 +443,7 @@ pip install pygsr
 + [Microbial simulator](https://github.com/Emergent-Behaviors-in-Biology/community-simulator)
 + [ML for microbiome classification](https://www.biorxiv.org/content/10.1101/816090v1.full), [github repo](https://github.com/SchlossLab/Topcuoglu_ML_XXX_2019/)
 + [Educational Food Game project](https://github.com/begalv/Educational-Food-Game)
++ [Python-based blog engine](http://pyblosxom.github.io/)
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 + [Personal Data Management Dashboard](https://volmarg.github.io/) - [GH](https://github.com/Volmarg/personal-management-system)
