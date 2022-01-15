@@ -155,6 +155,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 [Python Turtle](https://dev.to/ducaale/teaching-code-reuse-using-python-turtle-5fmd) for code reuse
 
 [Pylance](https://www.infoq.com/news/2020/07/pylance-visual-studio-code/)
+[Folders](https://github.com/SinaKhalili/Folders.py) - python implementation
 
 [Dependency management tools](https://modelpredict.com/python-dependency-management-tools)
 
