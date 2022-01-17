@@ -128,6 +128,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Pyodide: Python for the browser](https://lwn.net/Articles/855875/)
 
+[PyFlow](https://github.com/wonderworks-software/PyFlow) - visualk scripting framework
+
 [AI Autocomplete](https://transformer.huggingface.co/); [code ](https://github.com/huggingface/transfer-learning-conv-ai)
 
 [Pyodide, Python in a web browser](https://alpha.iodide.io/notebooks/222/)
