@@ -77,7 +77,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + [Sense2Vec 2.0](https://pypi.org/project/sense2vec/); [paper](https://arxiv.org/abs/1511.06388)
     + [Word2Vec](http://rare-technologies.com/word2vec-tutorial/)
 
-[TExt Similarity with Python](https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python)
+[Text Similarity with Python](https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python)
     
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/) moved to [Stanza](https://github.com/stanfordnlp/stanza/)
 [Core NLP[(https://stanfordnlp.github.io/CoreNLP/)
@@ -128,7 +128,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Pyodide: Python for the browser](https://lwn.net/Articles/855875/)
 
-[PyFlow](https://github.com/wonderworks-software/PyFlow) - visualk scripting framework
+[PyFlow](https://github.com/wonderworks-software/PyFlow) - visual scripting framework
 
 [AI Autocomplete](https://transformer.huggingface.co/); [code ](https://github.com/huggingface/transfer-learning-conv-ai)
 
@@ -197,6 +197,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 + [pypi](https://pypi.org/project/wax/)
 + [TkInter](https://wiki.python.org/moin/TkInter)
 + [Wxpython](https://www.wxpython.org/)
++ [SMS with providers.py](https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/)
 
 
 
