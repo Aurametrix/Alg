@@ -116,6 +116,8 @@
 
 ###
 + [Deploy GPU-Accelerated Models](https://inferrd.com/?gpu)
++ [DeepStack AI Server](https://deepstack.cc/#apis)
++ [Redis](redis.com)
 
 
 ### Tensors and Dynamic neural networks
