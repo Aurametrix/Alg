@@ -459,6 +459,7 @@ pip install pygsr
 + [Prolog in Python](https://github.com/brunokim/prol)
 
 + [command-line journal application](https://github.com/jrnl-org/jrnl)
++ [wordle-solver](https://github.com/jason-chao/wordle-solver)
 
 + [Seq — a language for bioinformatics](https://seq-lang.org/)
 + Python dependency resolution[](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
