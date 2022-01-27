@@ -245,6 +245,8 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 
 [Python and SQL](https://alex-monahan.github.io/2021/08/22/Python_and_SQL_Better_Together.html)
 
+[SQL with Python in the middle](https://github.com/dcmoura/spyql)
+
 [Public Coronavirus Twitter Data Set](https://github.com/echen102/COVID-19-TweetIDs)
 [Geolocation of Twitter users](https://github.com/shawn-terryah/Twitter_Geolocation)
 
