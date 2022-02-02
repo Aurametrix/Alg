@@ -320,6 +320,7 @@ sudo easy_install virtualenv
 pip install BeautifulSoup4
 
 + [Pelican for Web building](https://shahayush.com/2020/03/web-pelican-intro/)
++ [Tools for Semantic Web](https://github.com/pysemtec/semantic-python-overview)
 
 + [Data Science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
