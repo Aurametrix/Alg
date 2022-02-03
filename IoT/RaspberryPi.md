@@ -1,5 +1,8 @@
 Python packages: https://www.raspberrypi.org/documentation/linux/software/python.md
 
+Run your home on a Raspberry Pi: https://pragprog.com/titles/mrpython/portable-python-projects/
+
+
 piwheels (Python wheels) ready for use on the Raspberry Pi. Raspbian is pre-configured to use piwheels for pip. www.piwheels.org
 
 
