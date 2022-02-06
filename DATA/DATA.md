@@ -253,6 +253,11 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 
 [Reproducible analysis pipelines for large tabular datasets](https://github.com/KCL-BMEIS/ExeTera/)
 
+
+#### JSON
+
+    json.dumps({"name": "JP", "object": {"fruit": "Orange", "point": {"x": 10, "y": 20}, "number": 17}, "sunday": False})
+
 ### Courses
 
 + [Advanced Data Structures](http://courses.csail.mit.edu/6.851/)
