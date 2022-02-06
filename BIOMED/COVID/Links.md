@@ -16,3 +16,7 @@ https://www.nature.com/articles/d41586-021-03619-8
 https://covariants.org/per-country
 
 [Covariants python scripts](https://github.com/hodcroftlab/covariants/tree/master/scripts)
+
+### Vaccine Reactogenicity
+
+[Sputnik in Kazakhstan](https://github.com/dimbage/COVID-19-Kz-2022/blob/main/Sputnik-V%202022.ipynb)
