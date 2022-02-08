@@ -26,6 +26,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Solution for concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
 
+[Koda](https://pypi.org/project/koda/) - a collection of practical type-safe tools for Python.
 
 
 
