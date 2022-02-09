@@ -253,6 +253,8 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 
 [Reproducible analysis pipelines for large tabular datasets](https://github.com/KCL-BMEIS/ExeTera/)
 
+[AI that builds open source clinical drug information databases](https://github.com/OpenPIL/OpenPIL)
+
 
 #### JSON
 
