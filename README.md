@@ -124,8 +124,9 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Docstrings better than comments](https://blog.jaraco.com/why-docstrings-are-preferable-to-comments/)
 
-[](https://github.com/inaccel/numpy-allocator)
+[Memory Allocator in Numpy](https://github.com/inaccel/numpy-allocator)
 
+[Faster Calculations with Numba](https://pythonspeed.com/articles/numba-faster-python/)
 
 [Pyodide: Python for the browser](https://lwn.net/Articles/855875/)
 
