@@ -245,6 +245,9 @@ Use gzip with when saving to csv
 Create an Excel report and add some charts 
 
 + [write better python](https://github.com/SigmaQuan/Better-Python-59-Ways)
++ [improve data science code](https://zerowithdot.com/improve-data-science-code/)
+
+
 + [API tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 + [API Documentation for Python Projects](https://pdoc.dev/)
     Rest API, FTP, TCP, etc. Choosing the one according to your data requirements and speed would be wise.
