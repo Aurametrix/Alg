@@ -143,6 +143,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Overpass](https://github.com/GOATS2K/overpass) - host your own live streaming server
 
+[Partial Function applications](https://github.com/chrisgrimm/better_partial)
+
    
 [T5](https://github.com/google-research/text-to-text-transfer-transformer)
 
