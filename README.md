@@ -477,6 +477,7 @@ pip install pygsr
 + [AeroPython](https://github.com/barbagroup/AeroPython)
 + [Mario](https://github.com/python-mario/mario) - python pipelines for your shell
 + [Pyp](https://github.com/hauntsaninja/pyp) - python from shell
++ [Semantle](https://gitlab.com/novalis_dt/semantle) - guess the secret word
 
 + [Converting tapes](https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/) of  [Usenet archives](UsenetArchives.com)
 + [Easy File Sharing](https://github.com/magic-wormhole/magic-wormhole)
