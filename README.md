@@ -81,8 +81,10 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 [Text Similarity with Python](https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python)
     
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/) moved to [Stanza](https://github.com/stanfordnlp/stanza/)
-[Core NLP[(https://stanfordnlp.github.io/CoreNLP/)
+[Core NLP](https://stanfordnlp.github.io/CoreNLP/)
       + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
+
+[Word2Vec online](https://github.com/turbomaze/word2vecjson)' [demo](Demo at http://turbomaze.github.io/word2vecjson/)
 
 [TextAPI](https://www.thetextapi.com/documentation) with (twitter example)[https://pythonalgos.com/2021/11/26/black-friday-how-does-twitter-feel/]
 
