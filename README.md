@@ -11,6 +11,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
 
+[Python built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+
 [Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/) - [v2.2](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
 
 [compile to another version](https://github.com/nvbn/py-backwards)
