@@ -541,6 +541,8 @@ Old school: Ranorex, LeanFT, TestComplete, Telerik and Sahi; Fantom.js, Mocha, J
 [Pytest for data scientists](https://statestitle.com/resource/pytest-for-data-scientists/)
 [S3 testing](https://github.com/sanjaysiddhanti/s3_testing/); [blog post](https://www.sanjaysiddhanti.com/2020/04/08/s3testing/)
 
+[Asmle](https://github.com/KatPurpy/asmle) - Wordle in 512 bytes
+
 ### Datasets
 
 [Google dataset search](https://toolbox.google.com/datasetsearch)
