@@ -103,6 +103,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Google cloud](https://cloud.google.com/blog/products/open-source/supporting-the-python-ecosystem)
 
+[Convert Curl to Python](https://curlconverter.com/)
+
 [job queues](https://github.com/rq/rq)
 
 [Algebraic Number Theory package](https://github.com/louisabraham/algnuth)
