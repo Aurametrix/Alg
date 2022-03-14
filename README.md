@@ -26,6 +26,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [speeding Python with Lua](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
 
+[Python Design Patterns](https://python-patterns.guide/)
+
 [Solution for concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
 
 [Koda](https://pypi.org/project/koda/) - a collection of practical type-safe tools for Python.
