@@ -1,3 +1,8 @@
+# https://www.pinecone.io/learn/k-means-clustering/
+# https://dataskeptic.com/episodes/k-means
+# https://github.com/djdt/ckwrap  python wrapper for  for the R package Ckmeans.1d.dp
+
+
 # Function: K Means
 # -------------
 # K-Means is an algorithm that takes in a dataset and a constant
