@@ -130,6 +130,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Clean Code](https://github.com/davified/clean-code-ml/blob/master/notebooks/titanic-notebook-1.ipynb)
 
+[Batteries included](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/)
+
 [Docstrings better than comments](https://blog.jaraco.com/why-docstrings-are-preferable-to-comments/)
 
 [Memory Allocator in Numpy](https://github.com/inaccel/numpy-allocator)
