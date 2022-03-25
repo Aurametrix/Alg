@@ -20,3 +20,8 @@ https://covariants.org/per-country
 ### Vaccine Reactogenicity
 
 [Sputnik in Kazakhstan](https://github.com/dimbage/COVID-19-Kz-2022/blob/main/Sputnik-V%202022.ipynb)
+
+### Genetic risks
+
++ [Common, low-frequency, rare, and ultra-rare coding variants contribute to COVID-19 severity](https://link.springer.com/article/10.1007/s00439-021-02397-7) - [code](https://github.com/gen-covid/pmm/)
++ [Tools for creating genomic region plots](https://github.com/Geeketics/LocusZooms)
