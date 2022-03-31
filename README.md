@@ -481,7 +481,8 @@ pip install pygsr
 + [wordle-solver](https://github.com/jason-chao/wordle-solver)
 
 + [Seq — a language for bioinformatics](https://seq-lang.org/)
-+ Python dependency resolution[](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
++ [Compare floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
++ [Python dependency resolution](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
 
 + [API-less video downloader](https://github.com/althonos/InstaLooter)
 + [Python for Feature Film](https://www.gfx.dev/python-for-feature-film)
