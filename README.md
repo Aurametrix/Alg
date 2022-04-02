@@ -77,7 +77,9 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
         + [similarity of sentences](https://www.tutorialexample.com/python-calculate-the-similarity-of-two-sentences-with-gensim-gensim-tutorial/)   
     + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
     + [Reddit bot](https://medium.com/@bbrenng1/create-your-first-reddit-bot-with-python-and-heroku-e75d7af3026f)
-    
+   
+   + [Topic Modeling](https://hackernoon.com/advanced-topic-modeling-tutorial-how-to-use-svd-and-nmf-in-python-to-find-topics-in-text)
+   
     + [PyNLPI](https://pynlpl.readthedocs.io/en/latest/)
     + [Sense2Vec 2.0](https://pypi.org/project/sense2vec/); [paper](https://arxiv.org/abs/1511.06388)
     + [Word2Vec](http://rare-technologies.com/word2vec-tutorial/)
