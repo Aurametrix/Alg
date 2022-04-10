@@ -139,6 +139,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Memory Allocator in Numpy](https://github.com/inaccel/numpy-allocator)
 
+    [einsum](https://ajcr.net/Basic-guide-to-einsum/)
+
 [Faster Calculations with Numba](https://pythonspeed.com/articles/numba-faster-python/)
 
 [Pyodide: Python for the browser](https://lwn.net/Articles/855875/)
