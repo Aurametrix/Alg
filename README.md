@@ -189,6 +189,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 + [nb2md: conversion of Jupyter and Zeppelin notebooks to Jupyter or Markdown formats](https://github.com/elehcimd/nb2md/)
 
 + [Jupyter Notebook to Web Apps](https://github.com/ChristianFJung/NotebookToWebApp/blob/master/article.md)
++ [Textualize](https://www.textualize.io/) - a framework for building Text User Interface applications 
 
 
     jupyter notebook --generate-config
