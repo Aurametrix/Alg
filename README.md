@@ -173,6 +173,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [spaCy](https://blog.dominodatalab.com/natural-language-in-python-using-spacy/?r=1) for Text Analytics
 
+[PyNeuraLogic](https://github.com/LukasZahradnik/PyNeuraLogic)
+
 [Subinterpreters](https://lwn.net/SubscriberLink/820424/172e6da006687167/)
 
 [Python Turtle](https://dev.to/ducaale/teaching-code-reuse-using-python-turtle-5fmd) for code reuse
