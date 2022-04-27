@@ -6,6 +6,7 @@ Python
 [Python programming language](https://github.com/python/cpython)
 PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
+[Top libraries of 2021](https://tryolabs.com/blog/2021/12/21/top-python-libraries-2021)
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 
@@ -14,6 +15,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 [Python built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
 [Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/) - [v2.2](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
+
+[Reloadium](https://github.com/reloadware/reloadium) - adds hot reloading also called "edit and continue" functionality to any Python application
 
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
