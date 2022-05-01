@@ -37,6 +37,13 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Koda](https://pypi.org/project/koda/) - a collection of practical type-safe tools for Python.
 
+#### Run python in your browser
++ [Pyscript](https://pyscript.net/) 
++ [Codebrew](https://github.com/plasticityai/coldbrew)
++ [Bryton](https://github.com/brython-dev/brython)
++ [Gradio]( https://gradio.app/) - creates a web demo that runs in the browser using only python
+
+
 
 
 #### Building GUI
