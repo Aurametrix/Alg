@@ -42,6 +42,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 + [Codebrew](https://github.com/plasticityai/coldbrew)
 + [Bryton](https://github.com/brython-dev/brython)
 + [Gradio]( https://gradio.app/) - creates a web demo that runs in the browser using only python
++ [Gradio App](https://github.com/gradio-app/gradio) - create beautiful user interfaces around your machine learning models
 
 
 
