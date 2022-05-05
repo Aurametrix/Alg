@@ -29,6 +29,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [speeding Python with Lua](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
 
+[Modern Python Performance Considerations](https://lwn.net/SubscriberLink/893686/8978976335696804/)
+
 [Python Design Patterns](https://python-patterns.guide/)
 
 [On Python's type hints](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html) - [type hints](https://peps.python.org/pep-0484/)
