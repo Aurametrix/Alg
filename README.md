@@ -487,6 +487,7 @@ pip install pygsr
 + [ML for microbiome classification](https://www.biorxiv.org/content/10.1101/816090v1.full), [github repo](https://github.com/SchlossLab/Topcuoglu_ML_XXX_2019/)
 + [Educational Food Game project](https://github.com/begalv/Educational-Food-Game)
 + [Python-based blog engine](http://pyblosxom.github.io/)
++ [Datasette Lite](https://simonwillison.net/2022/May/4/datasette-lite/) - server-side Python web application running in a browser - [try it out here](https://simonw.github.io/datasette-lite/)
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 + [Personal Data Management Dashboard](https://volmarg.github.io/) - [GH](https://github.com/Volmarg/personal-management-system)
