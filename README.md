@@ -33,6 +33,10 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Python Design Patterns](https://python-patterns.guide/)
 
+[Introduction to Linear Programming in Python](https://mlabonne.github.io/blog/linearoptimization/)
+
+
+
 [On Python's type hints](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html) - [type hints](https://peps.python.org/pep-0484/)
 
 [Solution for concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
