@@ -252,6 +252,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + [2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
 
 + [2019 PyCon](https://us.pycon.org/2019/)
++ [Pycon 2022 highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
+    + [Pyscript](https://anaconda.cloud/pyscript-python-in-the-browser) 
 
 
 #### Discussions
