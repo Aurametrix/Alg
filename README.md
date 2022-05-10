@@ -14,6 +14,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Python built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
+[Natto](https://python.natto.dev/) - spatial environment for Python
+
 [Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/) - [v2.2](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
 
 [Reloadium](https://github.com/reloadware/reloadium) - adds hot reloading also called "edit and continue" functionality to any Python application
