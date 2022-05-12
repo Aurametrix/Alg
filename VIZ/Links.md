@@ -14,3 +14,23 @@
 
 [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14)
 
+VosViewer
+https://seinecle.github.io/vosviewer-tutorials/generated-pdf/importing-en.pdf
+https://nocodefunctions.com/networkconverter/network_format_converter.html
+
+
+Metaknowledge, a bibliometric toolkit in Python
+
+import metaknowledge as mk
+import networkx as nx
+import matplotlib.pyplot as plt
+%matplotlib inline
+import metaknowledge.contour as mkv
+import pandas
+RC = mk.RecordCollection("pubmed_medline.txt")
+for R in RC:
+  if 'AB' in R.keys():
+  print(R['AB'])
+  print('\n')
+
+
