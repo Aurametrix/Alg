@@ -32,3 +32,15 @@ Endpoints:
  'Studies']
  
  cbio_py client provides a simple wrapper for the API:  https://pypi.org/project/cbio-py/
+ 
+ https://www.cbioportal.org/api/swagger-ui.html#/Samples
+ 
+ connect to the cBioPortal API:
+ 
+     from bravado.client import SwaggerClient
+     cbioportal = SwaggerClient.from_url('https://www.cbioportal.org/api/api-docs',
+                                config={"validate_requests":False,"validate_responses":False})
+     print(cbioportal)
+
+acc = cbioportal.Cancer_Types.getCancerTypeUsingGET(cancerTypeId='acc').result()
+print(acc)
