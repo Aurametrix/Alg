@@ -11,3 +11,11 @@ PyPI packages
 
 
 [PyInpaint](https://github.com/aGIToz/PyInpaint) - A lightwieght inpainting tool for images to remove scratches, bruises and small holes by doing Dirichlet interpolation on a non-local graph created using images
+
+
+### Imaging
+
++ [pyImaging](https://github.com/alexandrovteam/pyImagingMSpec) - library for processing imaging mass spectrometry data
++ [Multiplex imaging pipeline](https://github.com/estorrs/multiplex-imaging-pipeline)
++ [Mplexable/](https://pypi.org/project/mplexable/) - analysis of bio-medical microscopy images
+
