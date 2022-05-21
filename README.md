@@ -521,6 +521,7 @@ pip install pygsr
 + [Mario](https://github.com/python-mario/mario) - python pipelines for your shell
 + [Pyp](https://github.com/hauntsaninja/pyp) - python from shell
 + [Semantle](https://gitlab.com/novalis_dt/semantle) - guess the secret word
++ [Mito](https://github.com/mito-ds/monorepo) - [try mito](https://www.trymito.io/) - Excel-like interface to Pandas
 
 + [Converting tapes](https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/) of  [Usenet archives](UsenetArchives.com)
 + [Easy File Sharing](https://github.com/magic-wormhole/magic-wormhole)
