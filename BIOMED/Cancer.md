@@ -44,3 +44,7 @@ Endpoints:
 
 acc = cbioportal.Cancer_Types.getCancerTypeUsingGET(cancerTypeId='acc').result()
 print(acc)
+
++ [Parsing GENIE files](https://github.com/dgmaghini/GENIE)
++ [Harmonized Cancer Databases](https://portal.gdc.cancer.gov/)
++ [GENIE BPC](https://github.com/GENIE-BPC/genieBPC) - Genomics Evidence Neoplasia Information Exchange Biopharma Collaborative 
