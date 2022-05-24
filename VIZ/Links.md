@@ -14,9 +14,14 @@
 
 [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14)
 
-VosViewer
-https://seinecle.github.io/vosviewer-tutorials/generated-pdf/importing-en.pdf
-https://nocodefunctions.com/networkconverter/network_format_converter.html
+### VosViewer
++ [tutorial](https://seinecle.github.io/vosviewer-tutorials/generated-html/importing-en.html), [pdf](https://seinecle.github.io/vosviewer-tutorials/generated-pdf/importing-en.pdf)
++ [from freely available citation data](https://www.cwts.nl/blog?article=n-r2r294)
++ [format converter](https://nocodefunctions.com/networkconverter/network_format_converter.html)
+
+### text-to-image
++ [imagen](https://gweb-research-imagen.appspot.com/)
++ [open source DALLE-2 implementation](https://github.com/lucidrains/DALLE2-pytorch)
 
 
 Metaknowledge, a bibliometric toolkit in Python
