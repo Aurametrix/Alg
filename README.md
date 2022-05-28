@@ -373,6 +373,7 @@ pip install BeautifulSoup4
 + [Data Science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 + [Mastering Web-scraping](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch)
++ [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
 
 + [5 web scraping libraries](https://elitedatascience.com/python-web-scraping-libraries)
     + The Farm: Requests
