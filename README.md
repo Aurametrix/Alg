@@ -211,6 +211,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 + [Jupyter Notebook to Web Apps](https://github.com/ChristianFJung/NotebookToWebApp/blob/master/article.md)
 + [Textualize](https://www.textualize.io/) - a framework for building Text User Interface applications 
++ [Turn any Jupyter cell into a shareable web-hosted Python script](https://colab.research.google.com/drive/1E5oU6TjH6OocmvEfU-foJfvCTbTfQrqd?usp=sharing)
++ [1000 words](https://1000words-hq.com/)
 
 
     jupyter notebook --generate-config
