@@ -468,6 +468,8 @@ pip install pygsr
 
 [Automate the boring stuff](https://automatetheboringstuff.com/2e/)
 
+[Share and Run Python code](https://abstra.show/)
+
 [Dev environments](https://jacobian.org/2019/nov/11/python-environment-2020/)
 
 [the Hitchhikers Guide to Python](https://docs.python-guide.org/)
