@@ -70,6 +70,7 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 [Machine Learning Tutorial](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
 
 [Interactive Python course](https://futurecoder.io/)
+[The Python tutorial](https://docs.python.org/3/tutorial/index.html)
 
 [A Simple Guide to creating Predictive Models](https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-2b-7be3afb5c557)
 
