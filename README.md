@@ -305,6 +305,7 @@ Create an Excel report and add some charts
            + [Open-Meteo](https://open-meteo.com/en/docs#api_form) -  free weather forecast APIs
            + [Open Weather](https://openweathermap.org/api)
            + [Realtime weather API](https://www.visualcrossing.com/weather-api)
+           + [Hacker-News API](https://github.com/HackerNews/API)
     + With TCP, there’s no need to request for fetching the data
     + With FTP - older tech
 
