@@ -65,6 +65,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Free books](https://github.com/pamoroso/free-python-books)
 
+[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - by Nicolas P. Rougier 
+
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 
 [Machine Learning Tutorial](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
