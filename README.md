@@ -114,6 +114,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/) moved to [Stanza](https://github.com/stanfordnlp/stanza/)
 [Core NLP](https://stanfordnlp.github.io/CoreNLP/)
       + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
+      
+[Analyzing Hacker News with Six Language Understanding Methods](https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Analyzing_Hacker_News_with_Six_Language_Understanding_Methods.ipynb)      
 
 [Word2Vec online](https://github.com/turbomaze/word2vecjson)' [demo](Demo at http://turbomaze.github.io/word2vecjson/)
 
