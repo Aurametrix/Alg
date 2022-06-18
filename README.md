@@ -526,6 +526,7 @@ pip install pygsr
 + [Seq — a language for bioinformatics](https://seq-lang.org/)
 + [Compare floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 + [Python dependency resolution](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
++ [Bundling binary tools in Python wheels](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/)
 
 + [API-less video downloader](https://github.com/althonos/InstaLooter)
 + [Python for Feature Film](https://www.gfx.dev/python-for-feature-film)
