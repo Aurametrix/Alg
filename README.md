@@ -4,7 +4,7 @@ Python
 ### Modules, Updates, Setup
 
 [Python programming language](https://github.com/python/cpython)
-PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
+[PDM](https://pdm.fming.dev/) - python package manager with PEP 582 support
 
 [Top libraries of 2021](https://tryolabs.com/blog/2021/12/21/top-python-libraries-2021)
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
@@ -110,6 +110,8 @@ PDM[](https://pdm.fming.dev/) - python package manager with PEP 582 support
     + [X2Vec](https://pypi.org/project/x2vec/)
 
 [Text Similarity with Python](https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python)
+
+[PyCantonese:](https://pycantonese.org/index.html) Cantonese Linguistics 
     
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/) moved to [Stanza](https://github.com/stanfordnlp/stanza/)
 [Core NLP](https://stanfordnlp.github.io/CoreNLP/)
