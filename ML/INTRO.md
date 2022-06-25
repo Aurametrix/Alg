@@ -47,7 +47,10 @@
 
 [tips for DL training](https://news.ycombinator.com/item?id=28786958) - Oct. 7 2021
 
-[PyTorch/XLA](https://github.com/pytorch/xla/)  - a Python package that uses the XLA deep learning compiler to connect the PyTorch deep learning framework a)
+[PyTorch/XLA](https://github.com/pytorch/xla/)  - a Python package that uses the XLA deep learning compiler to connect the PyTorch deep learning framework)
+
+[Core ML tools](https://github.com/apple/coremltools)
+[What's new in Core ML](https://quindarius.com/articles/whats-new-in-coreml/index.html)
 
 
 + [Screenshot to Code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
