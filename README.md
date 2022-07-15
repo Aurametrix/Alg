@@ -223,6 +223,7 @@ Python
 + [Textualize](https://www.textualize.io/) - a framework for building Text User Interface applications 
 + [Turn any Jupyter cell into a shareable web-hosted Python script](https://colab.research.google.com/drive/1E5oU6TjH6OocmvEfU-foJfvCTbTfQrqd?usp=sharing)
 + [1000 words](https://1000words-hq.com/)
++ [Newsletter with AWS](https://cloudconsultant.dev/building-an-automated-email-newsletter-with-aws-and-python/)
 
 
     jupyter notebook --generate-config
