@@ -12,3 +12,12 @@ Researchers use Raspberry Pi Zero to remotely monitor COVID-19 patients' blood o
 
 Pi HQ camera: https://chicagodist.com/products/raspberry-pi-hq-camera?src=raspberrypi
 D amp: http://linuxgizmos.com/raspberry-pi-hat-offers-up-to-40w-class-d-amp/
+
+
+pyaranet4 - Interface with Aranet4 CO₂ meter - https://github.com/stijnstijn/pyaranet4
+[Pyranet4 training](https://interconnected.org/home/2022/07/14/co2)
+
+
+[Building digital circuits with Python](https://github.com/LovetheFrogs/PyCircTools)
+[Python toolbox for digital circuits](https://github.com/m-labs/migen)
+[MyHDL](https://github.com/myhdl/myhdl)
