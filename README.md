@@ -435,6 +435,7 @@ pip install BeautifulSoup4
 * [Common mistakes of beginners](https://deepsource.io/blog/python-common-mistakes/)
 * [Matrix Calculus](http://www.matrixcalculus.org/)
 * [why python is slow](http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
+* [why Ruby is more readable](https://confuzeus.com/posts/python-ruby-readability/)
 
 * [API checklist](http://python.apichecklist.com/)
 
