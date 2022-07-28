@@ -5,6 +5,7 @@ Python
 
 [Python programming language](https://github.com/python/cpython)
 [PDM](https://pdm.fming.dev/) - python package manager with PEP 582 support
+[How to create Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
 
 [Top libraries of 2021](https://tryolabs.com/blog/2021/12/21/top-python-libraries-2021)
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
