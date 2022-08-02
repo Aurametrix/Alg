@@ -4,6 +4,8 @@
 
 [Interactive Plotting Library](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md)
 
+[Charts, Graphs, Plots with Altair](https://tech.marksblogg.com/python-data-visualisation-charts-graphs-plots.html)
+
 [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 [Pybaobab](https://gitlab.tue.nl/20040367/pybaobab) - vizualizing decision trees
