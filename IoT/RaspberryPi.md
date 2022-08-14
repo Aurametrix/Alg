@@ -21,3 +21,7 @@ pyaranet4 - Interface with Aranet4 CO₂ meter - https://github.com/stijnstijn/p
 [Building digital circuits with Python](https://github.com/LovetheFrogs/PyCircTools)
 [Python toolbox for digital circuits](https://github.com/m-labs/migen)
 [MyHDL](https://github.com/myhdl/myhdl)
+
+
+RaspberryPi Automated Feeder; CRON with Python script and monitoring
+https://www.profiq.com/raspberrypi-automated-feeder/
