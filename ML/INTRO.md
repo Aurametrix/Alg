@@ -77,6 +77,8 @@
 + [Tutorials in DL](https://github.com/open-source-for-science/TensorFlow-Course)
 + [Deep Learning for self-driving cars](https://selfdrivingcars.mit.edu/)
 + [Semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
++ [ML Books](https://github.com/tdpetrou/Machine-Learning-Books-With-Python)
++ [ISLR](https://github.com/JWarmenhoven/ISLR-python)
 
 + [The mclfy project](https://github.com/NLeSC/mcfly)
 
