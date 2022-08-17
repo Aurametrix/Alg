@@ -69,6 +69,8 @@ Python
 
 [Free books](https://github.com/pamoroso/free-python-books)
 
+[ISLR](https://github.com/JWarmenhoven/ISLR-python)
+
 [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - by Nicolas P. Rougier 
 
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
