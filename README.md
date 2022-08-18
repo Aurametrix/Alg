@@ -524,6 +524,7 @@ pip install pygsr
 + [Python-based blog engine](http://pyblosxom.github.io/)
 + [Pretty Maps](https://tech.marksblogg.com/pretty-maps-in-python.html)
 + [Datasette Lite](https://simonwillison.net/2022/May/4/datasette-lite/) - server-side Python web application running in a browser - [try it out here](https://simonw.github.io/datasette-lite/)
++ [Flatland]( https://github.com/mayahq/flatland) - environment for program synthesis experiments
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 + [Personal Data Management Dashboard](https://volmarg.github.io/) - [GH](https://github.com/Volmarg/personal-management-system)
