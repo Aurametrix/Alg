@@ -122,6 +122,13 @@
     + [Bayesnet.py](https://github.com/sonph/bayesnetinference)
     + [Pomegranate](https://github.com/jmschrei/pomegranate)
 
+### Knowlege graph embedding models
++ [TransE](https://github.com/ZichaoHuang/TransE) - TensorFlow implementation of TransE model in Translating Embeddings for Modeling Multi-relational Data
++ [OpenKE](https://github.com/thunlp/OpenKE) - An Open-source Framework for Knowledge Embedding implemented with PyTorch.
++ [TransROWL](https://github.com/Keehl-Mihael/TransROWL-HRS) - CPP: Injecting background knowledge to embedding during the process of training.
++ [RotatE](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding) - Knowledge Graph Embedding by Relational Rotation in Complex Space]
++ [Using Autoencoders for Knowledge Graph Embedding](https://github.com/dyf0631/AAE_FOR_KG) - Pytorch implementation
+
 ###
 + [Deploy GPU-Accelerated Models](https://inferrd.com/?gpu)
 + [DeepStack AI Server](https://deepstack.cc/#apis)
