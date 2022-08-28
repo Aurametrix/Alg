@@ -26,6 +26,7 @@ Python
     
 [Nuitka, a Python compiler](http://nuitka.net/pages/overview.html)
 
+
 [NEgatypes](https://www.hillelwayne.com/negatypes/)
  
 [REPL, online compiler](https://repl.it/repls/FrugalOrderlyLearning)
@@ -72,6 +73,9 @@ Python
 [ISLR](https://github.com/JWarmenhoven/ISLR-python)
 
 [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - by Nicolas P. Rougier 
+
+
+[JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy): -  high-performance C extensions
 
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 
