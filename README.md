@@ -127,6 +127,8 @@ Python
 [Core NLP](https://stanfordnlp.github.io/CoreNLP/)
       + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
       
+[UM1](https://github.com/syntience-inc/um1) - Understanding Machine One - a cloud based REST service that provides Natural Language Understanding (NLU) as a Service (UaaS). 
+      
 [Analyzing Hacker News with Six Language Understanding Methods](https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Analyzing_Hacker_News_with_Six_Language_Understanding_Methods.ipynb)      
 
 [Word2Vec online](https://github.com/turbomaze/word2vecjson)' [demo](Demo at http://turbomaze.github.io/word2vecjson/)
