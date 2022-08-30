@@ -26,6 +26,8 @@ Python
     
 [Nuitka, a Python compiler](http://nuitka.net/pages/overview.html)
 
+[Red Mail](https://github.com/Miksus/red-mail) - Advanced Email Sender
+
 
 [NEgatypes](https://www.hillelwayne.com/negatypes/)
  
