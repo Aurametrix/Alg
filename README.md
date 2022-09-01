@@ -11,7 +11,10 @@ Python
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 
+
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
+
+[Poetry 1.2.0](https://python-poetry.org/blog/announcing-poetry-1.2.0/) - PACKAGING AND DEPENDENCY MANAGEMENT
 
 [Python built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
