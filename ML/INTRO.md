@@ -261,3 +261,5 @@ dEEP lEARNING FOR ocr https://nanonets.com/blog/receipt-ocr/
 [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - extract info from invoice docs
 
 [License plate reader](https://github.com/cortexlabs/cortex/tree/master/examples/tensorflow/license-plate-reader)
+
+[DeepFace drawing](https://github.com/IGLICT/DeepFaceDrawing-Jittor) - generating face images from sketches
