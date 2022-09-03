@@ -18,4 +18,5 @@ PyPI packages
 + [pyImaging](https://github.com/alexandrovteam/pyImagingMSpec) - library for processing imaging mass spectrometry data
 + [Multiplex imaging pipeline](https://github.com/estorrs/multiplex-imaging-pipeline)
 + [Mplexable/](https://pypi.org/project/mplexable/) - analysis of bio-medical microscopy images
++ [Generate AI images with Stable Diffusion](https://twitter.com/levelsio/status/1565731907664478209)
 
