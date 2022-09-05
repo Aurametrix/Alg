@@ -6,7 +6,8 @@
 + [9K+ real estate properties](https://drive.google.com/file/d/0B5F9-_del_r1d1B6bXc2eHUzQkk/edit) from realtor.com
 + [Commercial real estate data sources](https://blog.apto.com/blog/the-best-of-commercial-real-estate-data-sources-listings/availabilities)
  
-+ [scraping Canadian weather data](https://github.com/alaudet/my_weather) 
++ [Scraping Canadian weather data](https://github.com/alaudet/my_weather) 
++ [Scraping data from an app](https://substack.thewebscraping.club/p/the-lab-1-scraping-data-from-an-app)
 + [196,640 books in plain .txt](https://github.com/soskek/bookcorpus/issues/27#issuecomment-716104208)  - https://the-eye.eu/public/AI/pile_preliminary_components/books1.tar.gz
 + [Real-time flight API](https://airlabs.co/); also Flight Radar API, Airline Schedules Database, Flight Data API, Aviation APIs, IATA Codes
 
