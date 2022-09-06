@@ -31,6 +31,7 @@ Python
 
 [Red Mail](https://github.com/Miksus/red-mail) - Advanced Email Sender
 
+[WakaQ](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python) - Distributed task queue
 
 [NEgatypes](https://www.hillelwayne.com/negatypes/)
  
