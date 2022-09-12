@@ -20,3 +20,6 @@ PyPI packages
 + [Mplexable/](https://pypi.org/project/mplexable/) - analysis of bio-medical microscopy images
 + [Generate AI images with Stable Diffusion](https://twitter.com/levelsio/status/1565731907664478209)
 
+
+### Audio
++ [HiFiScan](https://github.com/erdewit/HiFiScan) - to optimize loud speakers
