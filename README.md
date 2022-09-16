@@ -571,9 +571,11 @@ pip install pygsr
 + [Novel writer](https://github.com/vkbo/novelWriter)
 + [DataProfiler](https://github.com/capitalone/DataProfiler) - library designed to make data analysis, monitoring and sensitive data detection easy.
 + [cryptographic primitives](https://www.nayuki.io/page/cryptographic-primitives-in-plain-python)
-+ [K-Anonymity](https://github.com/Nuclearstar/K-Anonymity) - anonymization methods for network security
++ [K-Anonymity](https://github.com/Nuclearstar/K-Anonymity) - anonymization methods for network security 
++ [Built in key-value store](https://remusao.github.io/posts/python-dbm-module.html)
 
 + [3D engine ever implemented in DNA code](https://github.com/pallada-92/dna-3d-engine)
++ [Life expectancy analysis](https://thecleverprogrammer.com/2021/01/06/life-expectancy-analysis-with-python/)
 + [Zipfly](https://github.com/BuzonIO/zipfly#lib) - zip archive generator
 + [Lunatic Python](https://labix.org/lunatic-python)
 + [Interface to SQLite](https://github.com/iafisher/isqlite)
