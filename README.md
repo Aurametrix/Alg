@@ -547,6 +547,9 @@ pip install pygsr
 + [Pycel](https://github.com/pyccel/pyccel) - Python extension language using accelerators
 + [Prolog in Python](https://github.com/brunokim/prol)
 
++ [Slack bot framework](https://github.com/DonDebonair/slack-machine)
++ [Errbot](https://github.com/errbotio/errbot), another slackbot
+
 + [command-line journal application](https://github.com/jrnl-org/jrnl)
 + [wordle-solver](https://github.com/jason-chao/wordle-solver)
 
