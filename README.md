@@ -195,6 +195,8 @@ Python
 
 [AI Autocomplete](https://transformer.huggingface.co/); [code ](https://github.com/huggingface/transfer-learning-conv-ai)
 
+[AI Texture Generator](https://github.com/carson-katri/dream-textures)
+
 [Pyodide, Python in a web browser](https://alpha.iodide.io/notebooks/222/)
 
 [online translation server](https://github.com/translate/pootle)
