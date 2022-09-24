@@ -55,6 +55,8 @@ Python
 
 [Koda](https://pypi.org/project/koda/) - a collection of practical type-safe tools for Python.
 
+[THe Algorithm Library](https://the-algorithms.com/)
+
 #### Run python in your browser
 + [Pyscript](https://pyscript.net/) 
     + [Notes from PYcon 2022](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
