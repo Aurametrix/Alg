@@ -148,6 +148,7 @@ Python
 [Built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
 [Survival analysis](https://tinyheero.github.io/2016/05/12/survival-analysis.html)
+[Lifelines](https://github.com/CamDavidsonPilon/lifelines/)
 
 [Composing programs](https://composingprograms.com/)
 
