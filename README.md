@@ -40,6 +40,7 @@ Python
 [Junja2 - a template engine](http://jinja.pocoo.org/); [2.1](https://github.com/pallets/jinja/releases/tag/2.10)
 
 [speeding Python with Lua](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
+[making python fast](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/) with  mypyc
 
 [Modern Python Performance Considerations](https://lwn.net/SubscriberLink/893686/8978976335696804/)
 
