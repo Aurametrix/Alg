@@ -19,6 +19,7 @@ https://github.com/blpercha/ebc
 [MedTAG](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01706-4): a portable and customizable annotation tool for biomedical documents
 https://github.com/MedTAG/medtag-core/tree/main#installation
 
+[Biomed AI](https://www.nature.com/articles/s41591-022-01981-2)
 
 #### STonKGs: A Sophisticated Transformer Trained on Biomedical Text and Knowledge Graphs
 + [Github code](https://github.com/stonkgs/stonkgs)
