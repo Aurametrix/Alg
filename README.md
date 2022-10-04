@@ -149,7 +149,12 @@ Python
 [Built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
 [Survival analysis](https://tinyheero.github.io/2016/05/12/survival-analysis.html)
-[Lifelines](https://github.com/CamDavidsonPilon/lifelines/)
+    + [Kaplan-Maier Estimate (non-parametric)](https://towardsdatascience.com/kaplan-meier-curve-explained-9c78a681faca)
+    + [Cox Proportional Hazard Model (Semi-parametric)](https://en.wikipedia.org/wiki/Survival_analysis#Cox_proportional_hazards_(PH)_regression_analysis)
+    + [Accelerated Failure Time Model (Parametric)](https://medium.com/the-researchers-guide/survival-analysis-in-python-km-estimate-cox-ph-and-aft-model-5533843c5d5d)
+
+
+[Lifelines](https://github.com/CamDavidsonPilon/lifelines/) library
 
 [Composing programs](https://composingprograms.com/)
 
