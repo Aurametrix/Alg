@@ -564,6 +564,9 @@ pip install pygsr
 + [Pycel](https://github.com/pyccel/pyccel) - Python extension language using accelerators
 + [Prolog in Python](https://github.com/brunokim/prol)
 
++ [Discovering Novel Algorithms)](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor)  
+with [AlphaTensor](https://github.com/deepmind/alphatensor)
+
 + [Slack bot framework](https://github.com/DonDebonair/slack-machine)
 + [Errbot](https://github.com/errbotio/errbot), another slackbot
 
