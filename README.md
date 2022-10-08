@@ -603,6 +603,8 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [Lunatic Python](https://labix.org/lunatic-python)
 + [Interface to SQLite](https://github.com/iafisher/isqlite)
 
++ [Pytorch Search Engine](https://you.com/niche/pytorch?q=initialize+weights&fromSearchBar=true)
+
 ##### Decentralized Communities
 + [Hummingbard](https://hummingbard.com/hummingbard/introducing-hummingbard) built on top of [Matrix](https://github.com/matrix-org)
 
