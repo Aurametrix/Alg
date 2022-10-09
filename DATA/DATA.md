@@ -255,6 +255,9 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 [Public Coronavirus Twitter Data Set](https://github.com/echen102/COVID-19-TweetIDs)
 [Geolocation of Twitter users](https://github.com/shawn-terryah/Twitter_Geolocation)
 
+[pdf processing](https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools)
+   + [tika python](https://github.com/chrismattmann/tika-python)
+
 
 [Reproducible analysis pipelines for large tabular datasets](https://github.com/KCL-BMEIS/ExeTera/)
 
