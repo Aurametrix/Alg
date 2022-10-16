@@ -7,6 +7,10 @@
 + [Algorithms](https://theaisummer.com/Deep-Learning-Algorithms/)
 + [Trax](https://github.com/google/trax) - advanced deep learning
 + [Collection of Deep Leearning Implementations with notes](https://nn.labml.ai/)
++ [Neograd](https://github.com/pranftw/neograd) - DL framework created with Python and NumPy
+    + [make circles](https://colab.research.google.com/drive/184916aB5alIyM_xCa0qWnZAL35fDa43L?usp=sharing)
+    + [digits](https://colab.research.google.com/drive/1D4JgBwKgnNQ8Q5DpninB6rdFUidRbjwM?usp=sharing)
++     
   
  
  + [PyTorch and TensorFlow: rise in popularity](https://d3ansictanv2wj.cloudfront.net/image1-e18a246da831903928949a96696ffb38.png)
