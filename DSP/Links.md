@@ -23,3 +23,4 @@ PyPI packages
 
 ### Audio
 + [HiFiScan](https://github.com/erdewit/HiFiScan) - to optimize loud speakers
++ [Soundseeker](https://www.soundseeker.app/); [code](https://github.com/jacobshandling/soundseeker/tree/main/backend)
