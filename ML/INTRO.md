@@ -216,6 +216,11 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
     + [Draw ML models](https://koaning.github.io/human-learn/#interactive-drawings); [code](https://koaning.github.io/human-learn/guide/drawing-classifier/drawing.html)
     + [ML for game development](https://ai.googleblog.com/2021/03/leveraging-machine-learning-for-game.html)
 
+### Visual explanation of algorithms
++ [PCA on stack exchange](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
++ [Explained Visually](https://setosa.io/ev/)
++ [PCA on EV](https://setosa.io/ev/principal-component-analysis/)
+
 ### Explainable AI  (XAI)
 + [A unified approach to explain the output of any machine learning model[(https://github.com/slundberg/shap)
 
