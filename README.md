@@ -602,6 +602,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [Zipfly](https://github.com/BuzonIO/zipfly#lib) - zip archive generator
 + [Lunatic Python](https://labix.org/lunatic-python)
 + [Interface to SQLite](https://github.com/iafisher/isqlite)
++ [Diffoscope](https://diffoscope.org/) - In-depth comparison of files, archives, and directories
 
 + [Pytorch Search Engine](https://you.com/niche/pytorch?q=initialize+weights&fromSearchBar=true)
 + [Pytorch 1.13](https://pytorch.org/blog/PyTorch-1.13-release/)  
