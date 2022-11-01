@@ -7,6 +7,8 @@
 + [Algorithms](https://theaisummer.com/Deep-Learning-Algorithms/)
 + [Trax](https://github.com/google/trax) - advanced deep learning
 + [Collection of Deep Leearning Implementations with notes](https://nn.labml.ai/)
++ [GPT-3 in Python](https://www.fullstackpython.com/gpt-3.html)  
+      + [Explain Paper](https://www.explainpaper.com/) - sci jargon using GPT-3
 + [Neograd](https://github.com/pranftw/neograd) - DL framework created with Python and NumPy
     + [make circles](https://colab.research.google.com/drive/184916aB5alIyM_xCa0qWnZAL35fDa43L?usp=sharing)
     + [digits](https://colab.research.google.com/drive/1D4JgBwKgnNQ8Q5DpninB6rdFUidRbjwM?usp=sharing)
