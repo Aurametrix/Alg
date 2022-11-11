@@ -18,3 +18,5 @@ https://scrapeops.io/blog/the-state-of-web-scraping-2022/
 
 Fastest Python Web Framework?
 https://github.com/sansyrox/robyn/issues/256
+
+[Hstream](https://github.com/conradbez/hstream) - Streamlit alternative using htmx
