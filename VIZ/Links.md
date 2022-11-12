@@ -15,6 +15,7 @@
 [Algorithm visualizer](https://algorithms.laszlokorte.de/)
 
 [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14)
+[Tree viz](https://treevis.net/); [paper](https://ieeexplore.ieee.org/document/6056510)
 
 ### VosViewer
 + [tutorial](https://seinecle.github.io/vosviewer-tutorials/generated-html/importing-en.html), [pdf](https://seinecle.github.io/vosviewer-tutorials/generated-pdf/importing-en.pdf)
