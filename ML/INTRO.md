@@ -15,6 +15,10 @@
 
     + [make circles](https://colab.research.google.com/drive/184916aB5alIyM_xCa0qWnZAL35fDa43L?usp=sharing)
     + [digits](https://colab.research.google.com/drive/1D4JgBwKgnNQ8Q5DpninB6rdFUidRbjwM?usp=sharing)
+
+#### Text-to-image or text-to-text generation
++ [Dreambooth for Stable Diffusion](https://github.com/PsorTheDoctor/artificial-intelligence/blob/master/modern_approach/text_to_image/dreambooth.ipynb)
++ [HELM](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models
  
  ### This person doesn't exist: https://thispersondoesnotexist.com/
 +  [StyleGAN2 — Official TensorFlow Implementation](https://github.com/NVlabs/stylegan2)
