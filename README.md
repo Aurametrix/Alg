@@ -259,6 +259,8 @@ https://www.confluent.io/resources/online-talk/coding-in-motion/building-a-react
 + [1000 words](https://1000words-hq.com/)
 + [Newsletter with AWS](https://cloudconsultant.dev/building-an-automated-email-newsletter-with-aws-and-python/)
 
++ [Jupyterlite](https://github.com/jupyterlite/jupyterlite) - rowser-based interactive computing
+
 
     jupyter notebook --generate-config
      
