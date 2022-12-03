@@ -130,6 +130,8 @@ Python
     + [Sense2Vec 2.0](https://pypi.org/project/sense2vec/); [paper](https://arxiv.org/abs/1511.06388)
     + [Word2Vec](http://rare-technologies.com/word2vec-tutorial/)
     + [X2Vec](https://pypi.org/project/x2vec/)
+    
+    + [NLP Demystified](https://www.nlpdemystified.org/)
 
 [Text Similarity with Python](https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python)
 
