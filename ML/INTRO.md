@@ -10,6 +10,9 @@
 + [GPT-3 in Python](https://www.fullstackpython.com/gpt-3.html)  
       + [Explain Paper](https://www.explainpaper.com/) - sci jargon using GPT-3
 
++ [GPT architecture](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
++ [OpenAI comes clean about GPT 3.5](https://jmcdonnell.substack.com/p/openai-comes-clean-about-gpt-35)
+
 + [Tinygrad](https://github.com/geohot/tinygrad) - between a pytorch and a karpathy/micrograd
 + [Neograd](https://github.com/pranftw/neograd) - DL framework created with Python and NumPy
 
