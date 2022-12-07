@@ -12,7 +12,7 @@
 + [196,640 books in plain .txt](https://github.com/soskek/bookcorpus/issues/27#issuecomment-716104208)  - https://the-eye.eu/public/AI/pile_preliminary_components/books1.tar.gz
 + [Real-time flight API](https://airlabs.co/); also Flight Radar API, Airline Schedules Database, Flight Data API, Aviation APIs, IATA Codes
 
-
++ [Open source hospital price transparency](https://www.dolthub.com/blog/2022-12-02-open-source-hospital-price-transparency/)
 
 
 Data Mining
