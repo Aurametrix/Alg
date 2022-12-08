@@ -31,6 +31,8 @@ Python
     
 [Nuitka, a Python compiler](http://nuitka.net/pages/overview.html)
 
+[Codon](https://github.com/exaloop/codon) - Python-like compiler using LLVM
+
 [Red Mail](https://github.com/Miksus/red-mail) - Advanced Email Sender
 
 [WakaQ](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python) - Distributed task queue
