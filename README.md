@@ -84,6 +84,8 @@ Python
 
 [Free books](https://github.com/pamoroso/free-python-books)
 
+[Practical python programming courses](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+
 [ISLR](https://github.com/JWarmenhoven/ISLR-python)
 
 [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - by Nicolas P. Rougier 
@@ -94,6 +96,7 @@ Python
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 
 [Machine Learning Tutorial](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
+[Data-centric introduction to computing](https://dcic-world.org/2022-08-28/index.html)
 
 [Interactive Python course](https://futurecoder.io/)
 [The Python tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -214,6 +217,9 @@ Python
 [AI Autocomplete](https://transformer.huggingface.co/); [code ](https://github.com/huggingface/transfer-learning-conv-ai)
 
 [AI Texture Generator](https://github.com/carson-katri/dream-textures)
+
+[Get help from ChatGPT](https://github.com/fkhan0520/cgpt_exceptions)
+
 
 [Pyodide, Python in a web browser](https://alpha.iodide.io/notebooks/222/)
 
