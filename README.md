@@ -89,6 +89,7 @@ Python
 [ISLR](https://github.com/JWarmenhoven/ISLR-python)
 
 [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - by Nicolas P. Rougier 
+     * [v1.24.0](https://github.com/numpy/numpy/releases/tag/v1.24.0)
 
 
 [JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy): -  high-performance C extensions
