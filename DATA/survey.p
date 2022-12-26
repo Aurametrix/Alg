@@ -42,3 +42,25 @@ from tcistats import cronbach_alpha
 
 alphas = cronbach_alpha(my_items)
 print('Cronbach alpha results: ', alphas)
+
+
+=========
+import pandas as pd
+import numpy as np
+from pgmpy.estimators import BayesianEstimator
+
+# Read the CSV file into a pandas DataFrame
+df = pd.read_csv('file.csv')
+
+# Extract the column names from the DataFrame
+columns = list(df.columns)
+
+# Create a Bayesian Estimator object
+estimator = BayesianEstimator(df, columns)
+
+# Learn the structure of the Bayesian Network
+model = estimator.estimate(prior_type='BDeu', equivalent_sample_size=10)
+
+# Print the structure of the learned Bayesian Network
+print(model.edges())
+
