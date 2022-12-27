@@ -48,6 +48,7 @@ print('Cronbach alpha results: ', alphas)
 import pandas as pd
 import numpy as np
 from pgmpy.estimators import BayesianEstimator
+from pgmpy.models import BayesianNetwork
 
 # Read the CSV file into a pandas DataFrame
 df = pd.read_csv('file.csv')
@@ -55,8 +56,40 @@ df = pd.read_csv('file.csv')
 # Extract the column names from the DataFrame
 columns = list(df.columns)
 
+# Create a Bayesian network model
+model = BayesianNetwork()
+
+# Add nodes to the model for each column in the DataFrame
+for column in df.columns:
+    model.add_node(column)
+
+from pgmpy.estimators import MaximumLikelihoodEstimator
+
+
+
+
+================================================
+# Create a maximum likelihood estimator
+estimator = MaximumLikelihoodEstimator(model, data)
+
 # Create a Bayesian Estimator object
-estimator = BayesianEstimator(df, columns)
+estimator = BayesianEstimator(model, df)
+
+================================================
+
+# Estimate the CPDs for each node in the model
+cpds = estimator.estimate_cpds()
+
+# Add the estimated CPDs to the model
+model.add_cpds(*cpds)
+
+# Fit the model to the data
+model.fit(df)
+
+# Test the fit of the model to the data
+model.test_fit(df)
+
+==============================================
 
 # Learn the structure of the Bayesian Network
 model = estimator.estimate(prior_type='BDeu', equivalent_sample_size=10)
