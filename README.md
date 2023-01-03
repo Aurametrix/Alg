@@ -37,7 +37,7 @@ Python
 
 [WakaQ](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python) - Distributed task queue
 
-[NEgatypes](https://www.hillelwayne.com/negatypes/)
+[Negatypes](https://www.hillelwayne.com/negatypes/)
  
 [REPL, online compiler](https://repl.it/repls/FrugalOrderlyLearning)
  
@@ -570,6 +570,8 @@ pip install pygsr
 + [Pretty Maps](https://tech.marksblogg.com/pretty-maps-in-python.html)
 + [Datasette Lite](https://simonwillison.net/2022/May/4/datasette-lite/) - server-side Python web application running in a browser - [try it out here](https://simonw.github.io/datasette-lite/)
 + [Flatland]( https://github.com/mayahq/flatland) - environment for program synthesis experiments
++ [Pyright](https://github.com/microsoft/pyright) - static type checker
++ [MyPy](https://pypi.org/project/mypy/) - linter on steroids
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 + [Personal Data Management Dashboard](https://volmarg.github.io/) - [GH](https://github.com/Volmarg/personal-management-system)
