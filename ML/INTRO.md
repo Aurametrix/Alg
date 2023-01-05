@@ -116,6 +116,7 @@
 + [Low-code ML model deployment](https://modelzoo.dev/)
 
 + [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://github.com/facebookresearch/swav)
++ [hiclass](https://github.com/scikit-learn-contrib/hiclass) - library for hierarchical classification ompatible with scikit-learn; [paper](https://arxiv.org/abs/2112.06560)
 
 ### ML Models implemented in Tensor Flow
 
