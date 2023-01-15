@@ -148,7 +148,15 @@ Python
       + [Bran](https://github.com/patverga/bran) - relation extraction based purely on attention
       
 [UM1](https://github.com/syntience-inc/um1) - Understanding Machine One - a cloud based REST service that provides Natural Language Understanding (NLU) as a Service (UaaS). 
-      
+
+[Robyn](https://github.com/sansyrox/robyn) - fast, extensible async Python web server with a Rust runtime 
+
+[FLASK](https://flask.palletsprojects.com/en/2.2.x/) - for web development
+
+
+[FASTAPI](https://fastapi.tiangolo.com/) - modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints
+
+
 [Analyzing Hacker News with Six Language Understanding Methods](https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Analyzing_Hacker_News_with_Six_Language_Understanding_Methods.ipynb)      
 
 [Word2Vec online](https://github.com/turbomaze/word2vecjson)' [demo](Demo at http://turbomaze.github.io/word2vecjson/)
