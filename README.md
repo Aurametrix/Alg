@@ -14,6 +14,8 @@ Python
 
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
 
+[Python packaging](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/)
+
 [Yapsl](https://github.com/kutoga/yapsl) - Python SMS library
 
 [Poetry 1.2.0](https://python-poetry.org/blog/announcing-poetry-1.2.0/) - PACKAGING AND DEPENDENCY MANAGEMENT
