@@ -1,0 +1,58 @@
+https://github.com/mmabrouk/chatgpt-wrapper
+pip install git+https://github.com/mmabrouk/chatgpt-wrapper
+(uses playwright: https://playwright.dev/)
+pip freeze | grep playwright 
+playwright==1.28.0
+chatgpt install
+The SDK provides a command-line interface
+
+### The second open-source SDK is chatgpt-python
+https://github.com/labteral/chatgpt-python
+
+
+### Official instructions
+
+Python Flask
+git clone https://github.com/openai/openai-quickstart-python.git
+If you prefer not to use git, you can alternatively download the code using this zip file.
+
+Add your API key
+Navigate into the project directory and make a copy of the example environment variables file.
+
+cd openai-quickstart-python
+cp .env.example .env
+Copy your secret API key and set it as the OPENAI_API_KEY in your newly created .env file. If you haven't created a secret key yet, you can do so below.
+
+SECRET KEY	CREATED	LAST USED	
+sk-...S3Tk
+Dec 5, 2022	Never	
+
+Run the app
+Run the following commands in the project directory to install the dependencies and run the app. When running the commands, you may need to type python3/pip3 instead of python/pip depending on your setup.
+
+python -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
+flask run
+Open http://localhost:5000 in your browser and you should see the pet name generator!
+
+Understand the code
+Open up app.py in the openai-quickstart-python folder. At the bottom, you’ll see the function that generates the prompt that we were using above. Since users will be entering the type of animal their pet is, it dynamically swaps out the part of the prompt that specifies the animal.
+
+def generate_prompt(animal):
+    return """Suggest three names for an animal that is a superhero.
+
+Animal: Cat
+Names: Captain Sharpclaw, Agent Fluffball, The Incredible Feline
+Animal: Dog
+Names: Ruff the Protector, Wonder Canine, Sir Barks-a-Lot
+Animal: {}
+Names:""".format(animal.capitalize())
+On line 14 in app.py, you’ll see the code that sends the actual API request. As mentioned above, it uses the completions endpoint with a temperature of 0.6.
+
+
+response = openai.Completion.create(
+  model="text-davinci-003",
+  prompt=generate_prompt(animal),
+  temperature=0.6
+)
