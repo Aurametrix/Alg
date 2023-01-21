@@ -1,5 +1,6 @@
 + [Big datasets for machine learning](https://www.datasetlist.com/)
 + [BigBio Biomedical Dataset Library](https://github.com/bigscience-workshop/biomedical); A Framework for Data-Centric Biomedical Natural Language Processing [BigBIO paper](https://arxiv.org/abs/2206.15076)
++ [Python Client built against the Wolfram|Alpha v2.0 API](https://pypi.org/project/wolframalpha/); see [code samples](https://www.geeksforgeeks.org/python-create-a-simple-assistant-using-wolfram-alpha-api/)
 
 + [microbiome and ethnicity](https://github.com/awbrooks19/microbiota_and_ethnicity)
 
@@ -13,6 +14,7 @@
 + [Real-time flight API](https://airlabs.co/); also Flight Radar API, Airline Schedules Database, Flight Data API, Aviation APIs, IATA Codes
 
 + [Open source hospital price transparency](https://www.dolthub.com/blog/2022-12-02-open-source-hospital-price-transparency/)
++ [Water Service Boundary](https://github.com/SimpleLab-Inc/wsb); see the [map](https://lincolninstitute.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=f5bf4babf66c4d72af88e13728da7ade)
 
 
 Data Mining
