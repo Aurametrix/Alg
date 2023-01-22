@@ -9,11 +9,15 @@
 + [Collection of Deep Leearning Implementations with notes](https://nn.labml.ai/)
 + [GPT-3 in Python](https://www.fullstackpython.com/gpt-3.html)  
       + [Explain Paper](https://www.explainpaper.com/) - sci jargon using GPT-3
+      + [Virtual Machine](https://www.engraved.blog/building-a-virtual-machine-inside/)
+      + [CGPT exceptions](https://github.com/fkhan0520/cgpt_exceptions)
+      + [AI code writing assistant](https://news.ycombinator.com/item?id=34400443) - for Pandas
+      + [Github support bot](https://dagster.io/blog/chatgpt-langchain)
 
 + [GPT architecture](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
 + [OpenAI comes clean about GPT 3.5](https://jmcdonnell.substack.com/p/openai-comes-clean-about-gpt-35)
 + [Vocal Chatbot](https://github.com/jakecyr/openai-gpt3-chatbot) - OpenAI GPT-3 Chatbot
-+ [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - 
++ [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - powered by 100% RNN language model
 
 + [Tinygrad](https://github.com/geohot/tinygrad) - between a pytorch and a karpathy/micrograd
 + [Neograd](https://github.com/pranftw/neograd) - DL framework created with Python and NumPy
@@ -23,6 +27,7 @@
 
 #### Text-to-image or text-to-text generation
 + [Dreambooth for Stable Diffusion](https://github.com/PsorTheDoctor/artificial-intelligence/blob/master/modern_approach/text_to_image/dreambooth.ipynb)
++ [Stable Diffusion](https://github.com/nod-ai/SHARK/blob/main/shark/examples/shark_inference/stable_diffusion/stable_diffusion_amd.md) -  optimized for AMD RDNA2/RDNA3 GPUs
 + [HELM](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models
  
  ### This person doesn't exist: https://thispersondoesnotexist.com/
