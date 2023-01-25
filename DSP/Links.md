@@ -21,6 +21,7 @@ PyPI packages
 + [Generate AI images with Stable Diffusion](https://twitter.com/levelsio/status/1565731907664478209)
 + [Hyperspectral image analysis](https://medium.com/abraia/hyperspectral-image-analysis-with-python-made-easy-68dcd0234924)
 + [PHYCV](https://github.com/JalaliLabUCLA/phycv) - physics-inspired computer vision library
++ [imaginAIry](https://github.com/brycedrennan/imaginAIry/) - AI edits images based on text description
 
 
 ### Audio
