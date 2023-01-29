@@ -573,6 +573,7 @@ pip install pygsr
 + [Pylo](https://github.com/sebdumancic/pylo2) - python front end to Prolog 
 + [Array Programming with Numpy](https://www.nature.com/articles/s41586-020-2649-2)
 + [Opytimizer](https://github.com/gugarosa/opytimizer) - a Nature-Inspired Python Optimizer
++ [Git Hit Map](https://github.com/jmforsythe/Git-Heat-Map)
 + [Turn images into geometric primitives](https://github.com/Tw1ddle/geometrize) - [demo](https://www.geometrize.co.uk/)
 + [large Zip archives](https://github.com/BuzonIO/zipfly#zipfly)
 + [Microbial simulator](https://github.com/Emergent-Behaviors-in-Biology/community-simulator)
