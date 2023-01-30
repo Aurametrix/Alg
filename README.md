@@ -86,6 +86,12 @@ Python
 
 [Free books](https://github.com/pamoroso/free-python-books)
 
+[Fluent Python](https://www.fluentpython.com/)
+
+[Python Distilled](http://www.dabeaz.com/python-distilled/)
+
+[The Big Book of small python projects](https://automatetheboringstuff.com/)
+
 [Practical python programming courses](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 
 [ISLR](https://github.com/JWarmenhoven/ISLR-python)
