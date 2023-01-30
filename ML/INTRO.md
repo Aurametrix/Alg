@@ -4,9 +4,11 @@
 + [Brief History](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 + [Practical Deep Learning for Coders](http://course.fast.ai/)
 + [Intro to ML for coders](http://course.fast.ai/ml)
++ [Practical Deep Learning](https://course.fast.ai/)
 + [Algorithms](https://theaisummer.com/Deep-Learning-Algorithms/)
 + [Trax](https://github.com/google/trax) - advanced deep learning
 + [Collection of Deep Leearning Implementations with notes](https://nn.labml.ai/)
++ [CS231n](http://cs231n.stanford.edu/) - deep learning for computer vision
 + [GPT-3 in Python](https://www.fullstackpython.com/gpt-3.html)  
       + [Explain Paper](https://www.explainpaper.com/) - sci jargon using GPT-3
       + [Virtual Machine](https://www.engraved.blog/building-a-virtual-machine-inside/)
@@ -137,6 +139,9 @@
 - [syntaxnet](https://github.com/stanfordmlgroup/tf-models/tree/master/syntaxnet) -- neural models of natural language syntax
 - [textsum](https://github.com/stanfordmlgroup/tf-models/tree/master/textsum) -- sequence-to-sequence with attention model for text summarization.
 - [transformer](https://github.com/stanfordmlgroup/tf-models/tree/master/transformer) -- spatial transformer network, which allows the spatial manipulation of data within the network
+- [The TRansformer Family](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
+- [TRansformer Sequence Classification](https://github.com/rstebbing/workshop/tree/main/experiments/transformer_sequence_classification)
+- 
 - [im2txt](https://github.com/stanfordmlgroup/tf-models/tree/master/im2txt) -- image-to-text neural network for image captioning.
 
 - [Mask RCNN](https://github.com/matterport/Mask_RCNN) - Matterport's implementation for object detection and instance segmentation on Keras and TensorFlow
@@ -170,6 +175,7 @@
     * [OpenNMT - a full-featured, open-source neural machine translation system utilizing the Torch mathematical toolkit](https://github.com/opennmt/opennmt)
 
 * [DyNet – Dynamic neural network library](https://github.com/clab/dynet)
+* [Neural Networks: zero to hero](https://karpathy.ai/zero-to-hero.html)
 
 TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run", as the graph structure is defined on-the-fly via the actual forward computation.
 
