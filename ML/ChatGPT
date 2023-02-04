@@ -1,7 +1,18 @@
 ###
+[BioGPT](https://github.com/microsoft/BioGPT) - the implementation of [2022 article](https://academic.oup.com/bib/article/23/6/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9&login=false)
+
+###
 [jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 [social](https://github.com/riverscuomo/social) - A python package that uses OpenAI to generate a response to a social media mention
 
+[Freely Available GPT models](https://huggingface.co/EleutherAI/gpt-neo-2.7B)
+
+
+[reverse engineered chatGPT API](https://github.com/acheong08/ChatGPT)
+
+[built with GPT](https://github.com/elyase/awesome-gpt3)
+
+[Open Assistant](https://github.com/LAION-AI/Open-Assistant) - with LAION AI - [main page](https://open-assistant.io/)
 
 [GPTalk 0.0.4.4](https://github.com/0ut0flin3/GPTalk)
 
