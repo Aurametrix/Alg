@@ -48,6 +48,8 @@ Python
 [speeding Python with Lua](https://brmmm3.github.io/posts/2019/07/28/python_and_lua/)
 [making python fast](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/) with  mypyc
 
+[mypy](https://mypy-lang.blogspot.com/2023/02/mypy-10-released.html) - optional static type checker for Python
+
 [Modern Python Performance Considerations](https://lwn.net/SubscriberLink/893686/8978976335696804/)
 
 [Python Design Patterns](https://python-patterns.guide/)
