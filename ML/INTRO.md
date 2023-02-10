@@ -15,6 +15,8 @@
       + [CGPT exceptions](https://github.com/fkhan0520/cgpt_exceptions)
       + [AI code writing assistant](https://news.ycombinator.com/item?id=34400443) - for Pandas
       + [Github support bot](https://dagster.io/blog/chatgpt-langchain)
+      + [GPT in 60 lines of numpy](https://jaykmody.com/blog/gpt-from-scratch/)
+
 
 + [GPT architecture](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
 + [OpenAI comes clean about GPT 3.5](https://jmcdonnell.substack.com/p/openai-comes-clean-about-gpt-35)
