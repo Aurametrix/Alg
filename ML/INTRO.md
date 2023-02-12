@@ -72,6 +72,8 @@
 
 + [YouTube Introduction to Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk)
 + [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
++ [How to Train Really Large Models on large GPUs?](https://lilianweng.github.io/posts/2021-09-25-train-large/)
++ 
     + [DeepSpeed](https://github.com/microsoft/DeepSpeed)
     + [Fairscale](https://github.com/facebookresearch/fairscale)
 
