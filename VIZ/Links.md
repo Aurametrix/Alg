@@ -14,6 +14,8 @@
 
 [Algorithm visualizer](https://algorithms.laszlokorte.de/)
 
+[Circular viz](https://github.com/moshi4/pyCirclize)
+
 [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14)
 [Tree viz](https://treevis.net/); [paper](https://ieeexplore.ieee.org/document/6056510)
 
