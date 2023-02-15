@@ -20,6 +20,10 @@
 
 + [GPT architecture](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
 + [OpenAI comes clean about GPT 3.5](https://jmcdonnell.substack.com/p/openai-comes-clean-about-gpt-35)
+
+### OPEN SOURCE CHAT GPT alternatives
++[Open Assistant](https://open-assistant.io/); [LAION-AI on github](https://github.com/LAION-AI/Open-Assistant)
+
 + [Vocal Chatbot](https://github.com/jakecyr/openai-gpt3-chatbot) - OpenAI GPT-3 Chatbot
 + [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - powered by 100% RNN language model
 
