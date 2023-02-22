@@ -251,6 +251,10 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 [self-hosted knowledge base](https://github.com/Uzay-G/archivy)
 [Simple SQL](https://github.com/nackjicholson/aiosql)
 
+[QuestDB](https://play.questdb.io/) - 	Time-series QuestDB with Python, Pandas and SQL in a Jupyter notebook – no install
+
+
+
 [Python and SQL](https://alex-monahan.github.io/2021/08/22/Python_and_SQL_Better_Together.html)
 
 [SQL with Python in the middle](https://github.com/dcmoura/spyql)
