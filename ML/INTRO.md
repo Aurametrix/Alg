@@ -20,6 +20,7 @@
 
 + [GPT architecture](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
 + [OpenAI comes clean about GPT 3.5](https://jmcdonnell.substack.com/p/openai-comes-clean-about-gpt-35)
++ [AskHN](https://github.com/patterns-app/patterns-components/tree/master/patterns_templates/Featured/AskHN) - The collective GPT-embodied wisdom of Hacker News
 
 ### OPEN SOURCE CHAT GPT alternatives
 +[Open Assistant](https://open-assistant.io/); [LAION-AI on github](https://github.com/LAION-AI/Open-Assistant)
