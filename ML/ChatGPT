@@ -2,6 +2,19 @@
 [BioGPT](https://github.com/microsoft/BioGPT) - the implementation of [2022 article](https://academic.oup.com/bib/article/23/6/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9&login=false)
 
 ###
+[Chatbot kit](https://chatbotkit.com/)
+
+
+The following models are considered GPT 3.5:
+
+- code-davinci-002
+
+- text-davinci-002
+
+- text-davinci-003
+
+
+###
 [jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 [social](https://github.com/riverscuomo/social) - A python package that uses OpenAI to generate a response to a social media mention
 
