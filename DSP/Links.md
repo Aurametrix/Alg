@@ -28,3 +28,7 @@ PyPI packages
 ### Audio
 + [HiFiScan](https://github.com/erdewit/HiFiScan) - to optimize loud speakers
 + [Soundseeker](https://www.soundseeker.app/); [code](https://github.com/jacobshandling/soundseeker/tree/main/backend)
+
+### Video
++ [Video Average Frame](https://github.com/wq2012/video-average-frame) - compute the average frame of a video
++ [Videohash](https://pypi.org/project/videohash/) - package for detecting near-duplicate videos
