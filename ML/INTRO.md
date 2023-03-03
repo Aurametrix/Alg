@@ -290,6 +290,8 @@ dEEP lEARNING FOR ocr https://nanonets.com/blog/receipt-ocr/
 + [AI training scales](https://blog.openai.com/science-of-ai/)
 + [Sketch]([Crosscut Saw](https://github.com/approximatelabs/sketch) - AI writing assistant for Pandas
 + [Edge AI](https://news.ycombinator.com/item?id=34632571) - plug-and-play solution with TensorFlow Lite and a web server with the UI on ESP32
++ [AI-code completion tools](https://github.com/sourcegraph/awesome-code-ai)
++ [Conversational semantic code search](https://www.buildt.ai/)
 
 ### HW platforms
 
