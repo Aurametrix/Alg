@@ -54,6 +54,8 @@ Python
 
 [Python Design Patterns](https://python-patterns.guide/)
 
+[30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - programming xhallenge
+
 [Introduction to Linear Programming in Python](https://mlabonne.github.io/blog/linearoptimization/)
 
 
