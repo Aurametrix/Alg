@@ -1,5 +1,7 @@
 + [Big datasets for machine learning](https://www.datasetlist.com/)
 + [BigBio Biomedical Dataset Library](https://github.com/bigscience-workshop/biomedical); A Framework for Data-Centric Biomedical Natural Language Processing [BigBIO paper](https://arxiv.org/abs/2206.15076)
++ [Hugging Face datasets](https://github.com/huggingface/datasets)
+    + [BigBio](https://huggingface.co/bigbio) - biomedical
 + [Python Client built against the Wolfram|Alpha v2.0 API](https://pypi.org/project/wolframalpha/); see [code samples](https://www.geeksforgeeks.org/python-create-a-simple-assistant-using-wolfram-alpha-api/)
 
 + [microbiome and ethnicity](https://github.com/awbrooks19/microbiota_and_ethnicity)
