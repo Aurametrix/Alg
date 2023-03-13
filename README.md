@@ -33,7 +33,8 @@ Python
     
 [Nuitka, a Python compiler](http://nuitka.net/pages/overview.html)
 
-[Codon](https://github.com/exaloop/codon) - Python-like compiler using LLVM
+[Codon](https://github.com/exaloop/codon) - Python-like compiler using LLVM: [MIT paper](https://regmedia.co.uk/2023/03/11/mit_codon_paper.pdf) 
+
 
 [Red Mail](https://github.com/Miksus/red-mail) - Advanced Email Sender
 
