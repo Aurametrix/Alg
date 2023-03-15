@@ -24,6 +24,9 @@ Python
 
 [Natto](https://python.natto.dev/) - spatial environment for Python
 
+[How virtual environments work](https://snarky.ca/how-virtual-environments-work/)
+[identify unused dependences to avoid bloated envs](https://github.com/fredrikaverpil/creosote)
+
 [Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/) - [v2.2](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
 
 [Reloadium](https://github.com/reloadware/reloadium) - adds hot reloading also called "edit and continue" functionality to any Python application
