@@ -652,7 +652,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [Diffoscope](https://diffoscope.org/) - In-depth comparison of files, archives, and directories
 
 + [Pytorch Search Engine](https://you.com/niche/pytorch?q=initialize+weights&fromSearchBar=true)
-+ [Pytorch 1.13](https://pytorch.org/blog/PyTorch-1.13-release/)  
++ [Pytorch 2.0](https://pytorch.org/blog/pytorch-2.0-release/)
 
 ##### Decentralized Communities
 + [Hummingbard](https://hummingbard.com/hummingbard/introducing-hummingbard) built on top of [Matrix](https://github.com/matrix-org)
