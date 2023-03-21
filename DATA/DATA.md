@@ -255,7 +255,9 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 
 [QuestDB](https://play.questdb.io/) - 	Time-series QuestDB with Python, Pandas and SQL in a Jupyter notebook – no install
 
+[Semantic Code Search](https://bloop.ai/) - with GPT-4
 
+[Python ChatGPT client](https://github.com/hansololz/rubberduck-ai)
 
 [Python and SQL](https://alex-monahan.github.io/2021/08/22/Python_and_SQL_Better_Together.html)
 
