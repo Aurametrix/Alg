@@ -5,7 +5,11 @@
 [ChatGPR & Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
-[FB LLAMA](https://github.com/facebookresearch/llama)
+### LLAMA
++ [FB LLAMA](https://github.com/facebookresearch/llama)
++ [Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
++ [Minimal LLAMA](https://github.com/zphang/minimal-llama/)) - code for running and fine-tuning LLaMA.
++ [Low-Rank LLaMA Instruct-Tuning](https://github.com/lxe/simple-llama-finetuner ); [py](https://github.com/tloen/alpaca-lora/blob/main/finetune.py)
 
 ### Programmable ChatGPT
 [ChatGPT wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
