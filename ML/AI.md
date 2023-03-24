@@ -1,9 +1,9 @@
 ###
-[BioGPT](https://github.com/microsoft/BioGPT) - the implementation of [2022 article](https://academic.oup.com/bib/article/23/6/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9&login=false)
-[ViperGPT](https://viper.cs.columbia.edu/) - Visual Inference via Python Execution for Reasoning
-[ChatGPT talks to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
-[ChatGPR & Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
-[List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+* [BioGPT](https://github.com/microsoft/BioGPT) - the implementation of [2022 article](https://academic.oup.com/bib/article/23/6/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9&login=false)
+* [ViperGPT](https://viper.cs.columbia.edu/) - Visual Inference via Python Execution for Reasoning
+* [ChatGPT talks to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
+* [ChatGPR & Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+* [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
 ### LLAMA
 + [FB LLAMA](https://github.com/facebookresearch/llama)
@@ -12,13 +12,15 @@
 + [Low-Rank LLaMA Instruct-Tuning](https://github.com/lxe/simple-llama-finetuner ); [py](https://github.com/tloen/alpaca-lora/blob/main/finetune.py)
 
 ### Programmable ChatGPT
-[ChatGPT wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
-[Prompt injection on Bing Chat](https://greshake.github.io/)
-[Jailbreak Chat](https://www.jailbreakchat.com/)
-[WordGPT](https://github.com/filippofinke/WordGPT)
++ [ChatGPT wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
++ [Prompt injection on Bing Chat](https://greshake.github.io/)
++ [Jailbreak Chat](https://www.jailbreakchat.com/)
++ [WordGPT](https://github.com/filippofinke/WordGPT)
 
-[Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
++ [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 
++ [Plugins](https://openai.com/blog/chatgpt-plugins)
+    + [wolfram](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 
 ###
 [Chatbot kit](https://chatbotkit.com/)
