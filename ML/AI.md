@@ -1,5 +1,6 @@
 ###
 * [BioGPT](https://github.com/microsoft/BioGPT) - the implementation of [2022 article](https://academic.oup.com/bib/article/23/6/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9&login=false)
+* [BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Generate Blender Python code from natural language commands
 * [ViperGPT](https://viper.cs.columbia.edu/) - Visual Inference via Python Execution for Reasoning
 * [ChatGPT talks to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
 * [ChatGPR & Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
