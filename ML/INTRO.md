@@ -141,6 +141,8 @@
 - [inception](https://github.com/stanfordmlgroup/tf-models/tree/master/inception) -- deep convolutional networks for computer vision
 - [namignizer](https://github.com/stanfordmlgroup/tf-models/tree/master/namignizer) -- recognize and generate names
 - [neural_gpu](https://github.com/stanfordmlgroup/tf-models/tree/master/neural_gpu) -- highly parallel neural computer
+- [Neural Amp Modeler](https://github.com/sdatkinson/neural-amp-modeler) - Neural network emulator for guitar amplifiers
+
 - [privacy](https://github.com/stanfordmlgroup/tf-models/tree/master/privacy) -- privacy-preserving student models from multiple teachers
 - [resnet](https://github.com/stanfordmlgroup/tf-models/tree/master/resnet) -- deep and wide residual networks
 - [slim](https://github.com/stanfordmlgroup/tf-models/tree/master/slim) -- image classification models in TF-Slim
