@@ -5,6 +5,7 @@
 * [ChatGPT talks to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
 * [ChatGPR & Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 * [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+* [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 
 ### LLAMA
 + [FB LLAMA](https://github.com/facebookresearch/llama)
