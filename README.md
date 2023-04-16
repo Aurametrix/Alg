@@ -130,6 +130,8 @@ Python
 
 [Features of Python3](https://github.com/arogozhnikov/python3_with_pleasure)
 
+[Python style hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/) /introduced in Python 3.5
+
 + [How Python Attributes work](https://tenthousandmeters.com/blog/python-behind-the-scenes-7-how-python-attributes-work/)
 
 + Python libraries for NLP:
@@ -244,6 +246,13 @@ Python
 [AI Texture Generator](https://github.com/carson-katri/dream-textures)
 
 [Get help from ChatGPT](https://github.com/fkhan0520/cgpt_exceptions)
+
+Jupyter ChatGPT interface projects:
+https://github.com/jflam/chat-gpt-jupyter-extension https://github.com/fperez/jupytee https://github.com/JovanVeljanoski/jupyter-
+
+https://github.com/jflam/chat-gpt-jupyter-extension 
+
+https://github.com/fperez/jupytee https://github.com/JovanVeljanoski/jupyter-voicepilot
 
 
 [Pyodide, Python in a web browser](https://alpha.iodide.io/notebooks/222/)
