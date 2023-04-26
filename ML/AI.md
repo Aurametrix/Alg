@@ -7,6 +7,7 @@
 * [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs
+* [WEB LLM](https://github.com/mlc-ai/web-llm) - [bringing chatbots to web browsers](https://mlc.ai/web-llm/)
 
 ### LLAMA
 + [FB LLAMA](https://github.com/facebookresearch/llama)
