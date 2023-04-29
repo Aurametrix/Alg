@@ -8,6 +8,16 @@
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs
 * [WEB LLM](https://github.com/mlc-ai/web-llm) - [bringing chatbots to web browsers](https://mlc.ai/web-llm/)
+* [IPython-GPT](https://github.com/santiagobasulto/ipython-gpt) - IPython ChatGPT extension
+* [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) 
+* [jupytee](https://github.com/fperez/jupytee) 
+* [jupyter-voicepilot](https://github.com/JovanVeljanoski/jupyter-voicepilot)
+* [Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
+
+
+
+
+
 
 ### LLAMA
 + [FB LLAMA](https://github.com/facebookresearch/llama)
