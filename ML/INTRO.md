@@ -149,6 +149,7 @@
 - [swivel](https://github.com/stanfordmlgroup/tf-models/tree/master/swivel) -- the Swivel algorithm for generating word embeddings
 - [syntaxnet](https://github.com/stanfordmlgroup/tf-models/tree/master/syntaxnet) -- neural models of natural language syntax
 - [textsum](https://github.com/stanfordmlgroup/tf-models/tree/master/textsum) -- sequence-to-sequence with attention model for text summarization.
+- [naked attention](https://github.com/jostmey/NakedAttention) - self-attention model, the building block of a transformer model
 - [transformer](https://github.com/stanfordmlgroup/tf-models/tree/master/transformer) -- spatial transformer network, which allows the spatial manipulation of data within the network
 - [The TRansformer Family](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
 - [TRansformer Sequence Classification](https://github.com/rstebbing/workshop/tree/main/experiments/transformer_sequence_classification)
