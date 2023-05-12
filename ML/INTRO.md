@@ -299,6 +299,7 @@ dEEP lEARNING FOR ocr https://nanonets.com/blog/receipt-ocr/
 ### HW platforms
 
 * [GPU providers](https://rare-technologies.com/machine-learning-benchmarks-hardware-providers-gpu-part-2/)
+* [Open Source Hardware](https://news.ycombinator.com/item?id=35907174)
 * [Comparison of graphics cards](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
 
 ### Applications
