@@ -78,6 +78,7 @@ Python
 #### Run python in your browser
 + [Pyscript](https://pyscript.net/) 
     + [Notes from PYcon 2022](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
+    + [Faster CPython at PyCon]([Faster CPython at PyCon](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/))
 + [Codebrew](https://github.com/plasticityai/coldbrew)
 + [Bryton](https://github.com/brython-dev/brython)
 + [Gradio]( https://gradio.app/) - creates a web demo that runs in the browser using only python
