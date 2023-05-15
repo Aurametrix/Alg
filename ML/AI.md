@@ -13,8 +13,7 @@
 * [jupytee](https://github.com/fperez/jupytee) 
 * [jupyter-voicepilot](https://github.com/JovanVeljanoski/jupyter-voicepilot)
 * [Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
-
-
+* [ChatHUB](https://github.com/chathub-dev/chathub/blob/main/README.md) - Use ChatGPT, Bing, Bard and Claude in One App 
 
 
 
