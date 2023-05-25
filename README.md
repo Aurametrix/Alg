@@ -250,7 +250,7 @@ Python
 
 [Get help from ChatGPT](https://github.com/fkhan0520/cgpt_exceptions)
 
-Jupyter ChatGPT interface projects:
+###Jupyter ChatGPT interface projects:
 https://github.com/jflam/chat-gpt-jupyter-extension https://github.com/fperez/jupytee https://github.com/JovanVeljanoski/jupyter-
 
 https://github.com/jflam/chat-gpt-jupyter-extension 
@@ -259,6 +259,8 @@ https://github.com/fperez/jupytee https://github.com/JovanVeljanoski/jupyter-voi
 
 
 [Pyodide, Python in a web browser](https://alpha.iodide.io/notebooks/222/)
+
+[Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
 
 [online translation server](https://github.com/translate/pootle)
 
