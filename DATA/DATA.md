@@ -5,6 +5,7 @@
 + [Python Client built against the Wolfram|Alpha v2.0 API](https://pypi.org/project/wolframalpha/); see [code samples](https://www.geeksforgeeks.org/python-create-a-simple-assistant-using-wolfram-alpha-api/)
 
 + [microbiome and ethnicity](https://github.com/awbrooks19/microbiota_and_ethnicity)
++ [datasets for music-based development](https://metabrainz.org/datasets)
 
 
 + [9K+ real estate properties](https://drive.google.com/file/d/0B5F9-_del_r1d1B6bXc2eHUzQkk/edit) from realtor.com
