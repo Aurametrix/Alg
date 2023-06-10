@@ -30,3 +30,7 @@ r = xmltodict.parse(requests.get(
 
 df = pd.DataFrame(r)
 df.to_csv("chatgpt.tsv", sep="\t")
+
+## MedrXiv and BiorXiv
+# https://api.medrxiv.org/details/[server]/[interval]/[cursor]/[format] or https://api.medrxiv.org/details/[server]/[DOI]/na/[format]
+## pip install paperscraper
