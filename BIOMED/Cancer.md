@@ -48,3 +48,7 @@ print(acc)
 + [Parsing GENIE files](https://github.com/dgmaghini/GENIE)
 + [Harmonized Cancer Databases](https://portal.gdc.cancer.gov/)
 + [GENIE BPC](https://github.com/GENIE-BPC/genieBPC) - Genomics Evidence Neoplasia Information Exchange Biopharma Collaborative 
+
+[Convolutional mammogram analysis](https://github.com/gregorybchris/convolutional-mammogram-analysis) - [intro](https://www.chrisgregory.me/code/convolutional-mammogram-analysis)
+
+[Chemical database](https://www.chrisgregory.me/code/park-tudor-chemical-database) - [intro](https://www.chrisgregory.me/code/park-tudor-chemical-database)
