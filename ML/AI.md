@@ -134,3 +134,8 @@ response = openai.Completion.create(
   prompt=generate_prompt(animal),
   temperature=0.6
 )
+
+
+### Projects
+
+[extracting meta-learned reinforcement learning algorithms from a large language model](https://github.com/keskival/king-algorithm-manifesto)
