@@ -140,6 +140,6 @@ response = openai.Completion.create(
 
 [Autolabel](https://github.com/refuel-ai/autolabel) - library to label, clean and enrich text datasets with any Large Language Models (LLM)
 
-### Projects
+[Neuroengine](https://www.neuroengine.ai/) - Share your AI models with the world
 
 [extracting meta-learned reinforcement learning algorithms from a large language model](https://github.com/keskival/king-algorithm-manifesto)
