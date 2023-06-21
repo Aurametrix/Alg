@@ -136,6 +136,9 @@ response = openai.Completion.create(
   temperature=0.6
 )
 
+### Projects
+
+[Autolabel](https://github.com/refuel-ai/autolabel) - library to label, clean and enrich text datasets with any Large Language Models (LLM)
 
 ### Projects
 
