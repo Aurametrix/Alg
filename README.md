@@ -112,6 +112,7 @@ Python
 
 
 [JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy): -  high-performance C extensions
+[C-style for loops](https://tushar.lol/post/cursed-for/)
 
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 
@@ -642,6 +643,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [Bundling binary tools in Python wheels](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/)
 
 + [API-less video downloader](https://github.com/althonos/InstaLooter)
++ [Video editor](https://github.com/ZoeDekraker/eddie-smart-video-editor)
 + [Python for Feature Film](https://www.gfx.dev/python-for-feature-film)
 + [AeroPython](https://github.com/barbagroup/AeroPython)
 + [Mario](https://github.com/python-mario/mario) - python pipelines for your shell
