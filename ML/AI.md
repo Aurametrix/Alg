@@ -6,6 +6,7 @@
 * [DocGPT](https://github.com/FeatureBaseDB/DocGPT/tree/main) - document organization
 * [ChatGPT talks to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
 * [ChatGPR & Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+* [OpenAI Python Library](https://github.com/openai/openai-python)
 * [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs
@@ -18,6 +19,7 @@
 * [Open AI Moonwalk proposal](https://github.com/OAI/moonwalk)
 * [ChatHUB](https://github.com/chathub-dev/chathub/blob/main/README.md) - Use ChatGPT, Bing, Bard and Claude in One App
 * [GPT engineer](https://github.com/AntonOsika/gpt-engineer) -  generates an entire codebase based on a prompt
+* [ChatGPT retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 
 
 
