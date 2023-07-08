@@ -618,6 +618,7 @@ pip install pygsr
 + [Pyright](https://github.com/microsoft/pyright) - static type checker
 + [MyPy](https://pypi.org/project/mypy/) - linter on steroids
 + [Keyboard](https://hackaday.io/project/188907-keyboard-as-a-python-code)- hardware designed for python only
++ [Zenodo](https://github.com/zenodo/zenodo) - AI-assisted systematic reviews - [docs](https://github.com/MrCordeiro/parse2docs)
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 + [Personal Data Management Dashboard](https://volmarg.github.io/) - [GH](https://github.com/Volmarg/personal-management-system)
