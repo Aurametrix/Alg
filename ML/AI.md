@@ -9,6 +9,7 @@
 * [OpenAI Python Library](https://github.com/openai/openai-python)
 * [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+* [ChatGPT for your data](https://github.com/raghavan/PdfGptIndexer)
 * [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs
 * [WEB LLM](https://github.com/mlc-ai/web-llm) - [bringing chatbots to web browsers](https://mlc.ai/web-llm/)
 * [IPython-GPT](https://github.com/santiagobasulto/ipython-gpt) - IPython ChatGPT extension
@@ -145,3 +146,29 @@ response = openai.Completion.create(
 [Neuroengine](https://www.neuroengine.ai/) - Share your AI models with the world
 
 [extracting meta-learned reinforcement learning algorithms from a large language model](https://github.com/keskival/king-algorithm-manifesto)
+
+
+### Commercial Platforms to build ChatGPT Apps
+
+https://www.quickchat.ai
+https://www.chatbase.co
+https://myaskai.com
+https://libraria.dev/
+
+https://slite.com/ask
+https://builtbyjesse.com
+https://meetcody.ai
+https://invictai.io/
+https://gpt-trainer.com
+
+https://www.chatnode.ai
+https://retune.so/ 
+
+https://www.eesel.app/slack - 
+[JiggyBase](https://jiggy.ai/#!) - now available in ChatGPT Plugin Store
+https://www.askcorpora.com/ 
+https://www.synna.ai/ 
+https://punya.ai/ 
+https://whismer.com 
+https://flower.dev/ 
+https://www.chatdox.com/
