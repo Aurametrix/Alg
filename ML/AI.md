@@ -10,6 +10,7 @@
 * [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [ChatGPT for your data](https://github.com/raghavan/PdfGptIndexer)
+* [Danswer](https://github.com/danswer-ai/danswer) - ask your docs
 * [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs
 * [WEB LLM](https://github.com/mlc-ai/web-llm) - [bringing chatbots to web browsers](https://mlc.ai/web-llm/)
 * [IPython-GPT](https://github.com/santiagobasulto/ipython-gpt) - IPython ChatGPT extension
@@ -39,9 +40,9 @@
 + [WordGPT](https://github.com/filippofinke/WordGPT)
 
 + [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
-+       [AI tokenizer](https://platform.openai.com/tokenizer)
-+       [Tiktoken](https://github.com/openai/tiktoken)
-+       [Tiktokenizer](https://tiktokenizer.vercel.app/)
+      + [AI tokenizer](https://platform.openai.com/tokenizer)
+      + [Tiktoken](https://github.com/openai/tiktoken)
+      + [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
 + [Plugins](https://openai.com/blog/chatgpt-plugins)
     + [wolfram](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
