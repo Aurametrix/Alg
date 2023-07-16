@@ -270,6 +270,7 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 
 [pdf processing](https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools)
    + [tika python](https://github.com/chrismattmann/tika-python)
+   + [PeepPDF](https://github.com/jesparza/peepdf) - to analyzed PDF docs
 
 
 [Reproducible analysis pipelines for large tabular datasets](https://github.com/KCL-BMEIS/ExeTera/)
