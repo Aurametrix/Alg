@@ -89,6 +89,8 @@
 [Core ML tools](https://github.com/apple/coremltools)
 [What's new in Core ML](https://quindarius.com/articles/whats-new-in-coreml/index.html)
 
+[From Python to Elixir](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
+
 
 + [Screenshot to Code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
 + [Pix2Code: Generating Code from a Graphical User Interface Screenshot](https://github.com/tonybeltramelli/pix2code)
