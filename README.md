@@ -62,6 +62,8 @@ Python
 
 [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - programming xhallenge
 
+[Overlooked core functionalities](https://levelup.gitconnected.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
+
 [Introduction to Linear Programming in Python](https://mlabonne.github.io/blog/linearoptimization/)
 
 
