@@ -367,6 +367,8 @@ https://www.confluent.io/resources/online-talk/coding-in-motion/building-a-react
 
 [what's new in 1.0.0](https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.0.0.html)
 
+[What's up - July 2023](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a)
+
 [Is Python the world's most popular language?](https://news.ycombinator.com/item?id=18182003)
 
 
