@@ -58,7 +58,7 @@ The following models are considered GPT 3.5:
 - text-davinci-002
 
 - text-davinci-003
-
+[prompttools](https://github.com/hegelai/prompttools) - fir evaluations LLMs and vector dbs
 
 ###
 [jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
@@ -66,6 +66,8 @@ The following models are considered GPT 3.5:
 
 [Freely Available GPT models](https://huggingface.co/EleutherAI/gpt-neo-2.7B)
 
+
+[]
 
 [reverse engineered chatGPT API](https://github.com/acheong08/ChatGPT)
 
