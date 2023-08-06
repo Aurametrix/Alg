@@ -46,6 +46,12 @@
 
 + [Plugins](https://openai.com/blog/chatgpt-plugins)
     + [wolfram](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
+ 
+
+
+###
+
+[Mass Editing Memory in a Transformer][https://memit.baulab.info/] - [code](https://github.com/kmeng01/memit) - [arXiv paper](https://arxiv.org/abs/2210.07229)
 
 ###
 [Chatbot kit](https://chatbotkit.com/)
