@@ -17,6 +17,7 @@
 * [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) 
 * [jupytee](https://github.com/fperez/jupytee) 
 * [jupyter-voicepilot](https://github.com/JovanVeljanoski/jupyter-voicepilot)
+* [Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
 * [Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
 * [Open AI Moonwalk proposal](https://github.com/OAI/moonwalk)
 * [ChatHUB](https://github.com/chathub-dev/chathub/blob/main/README.md) - Use ChatGPT, Bing, Bard and Claude in One App
@@ -51,7 +52,7 @@
 
 ###
 
-[Mass Editing Memory in a Transformer][https://memit.baulab.info/] - [code](https://github.com/kmeng01/memit) - [arXiv paper](https://arxiv.org/abs/2210.07229)
+[Mass Editing Memory in a Transformer](https://memit.baulab.info/) - [code](https://github.com/kmeng01/memit) - [arXiv paper](https://arxiv.org/abs/2210.07229)
 
 ###
 [Chatbot kit](https://chatbotkit.com/)
