@@ -10,6 +10,7 @@
 * [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [ChatGPT for your data](https://github.com/raghavan/PdfGptIndexer)
+* [Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain); [github](https://github.com/airbytehq/tutorial-connector-dev-bot)
 * [Danswer](https://github.com/danswer-ai/danswer) - ask your docs
 * [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs
 * [WEB LLM](https://github.com/mlc-ai/web-llm) - [bringing chatbots to web browsers](https://mlc.ai/web-llm/)
