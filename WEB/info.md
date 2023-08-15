@@ -22,6 +22,9 @@ https://github.com/rand-net/khan-dl
 The State of Web scraping 2022
 https://scrapeops.io/blog/the-state-of-web-scraping-2022/
 
+Trafilatura - A Python package & command-line tool to gather text on the Web
+https://github.com/adbar/trafilatura
+
 Fastest Python Web Framework?
 https://github.com/sansyrox/robyn/issues/256
 
