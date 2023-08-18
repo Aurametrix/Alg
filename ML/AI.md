@@ -183,3 +183,16 @@ https://punya.ai/
 https://whismer.com 
 https://flower.dev/ 
 https://www.chatdox.com/
+
+###
+
+- [vllm](https://github.com/vllm-project/vllm) - Inference and serving engine for LLMs
+- [ollama](https://github.com/jmorganca/ollama) - Go project to run, create and share LLMs
+- [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
+- [5] https://github.com/scaleapi/llm-engine
+- [6] https://www.lamini.ai/
+- [GPT4all](https://github.com/nomic-ai/gpt4all)
+- [skypilot](https://github.com/skypilot-org/skypilot)
+- [HuggingFace Transformers](https://github.com/huggingface/transformers/releases)
+- [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)
+
