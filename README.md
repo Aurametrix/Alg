@@ -121,6 +121,8 @@ Python
 [Machine Learning Tutorial](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
 [Data-centric introduction to computing](https://dcic-world.org/2022-08-28/index.html)
 
+[FVSL](https://github.com/Dicklesworthstone/fast_vector_similarity) - Fast vector similarity using Rust and Python
+
 [Interactive Python course](https://futurecoder.io/)
 [The Python tutorial](https://docs.python.org/3/tutorial/index.html)
 
