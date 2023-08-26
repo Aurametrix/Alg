@@ -75,7 +75,7 @@ The following models are considered GPT 3.5:
 [Freely Available GPT models](https://huggingface.co/EleutherAI/gpt-neo-2.7B)
 
 
-[]
+###
 
 [reverse engineered chatGPT API](https://github.com/acheong08/ChatGPT)
 
@@ -155,6 +155,8 @@ response = openai.Completion.create(
 [Autolabel](https://github.com/refuel-ai/autolabel) - library to label, clean and enrich text datasets with any Large Language Models (LLM)
 
 [Neuroengine](https://www.neuroengine.ai/) - Share your AI models with the world
+
+[PlotAI](https://github.com/mljar/plotai) - plot with LLMs
 
 [extracting meta-learned reinforcement learning algorithms from a large language model](https://github.com/keskival/king-algorithm-manifesto)
 
