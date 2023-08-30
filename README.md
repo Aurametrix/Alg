@@ -111,6 +111,7 @@ Python
 
 [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - by Nicolas P. Rougier 
      * [v1.24.0](https://github.com/numpy/numpy/releases/tag/v1.24.0)
+[How to share NumPy arrsy between processes](https://superfastpython.com/numpy-share-array-processes/)
 
 
 [JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy): -  high-performance C extensions
