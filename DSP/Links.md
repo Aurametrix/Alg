@@ -35,3 +35,4 @@ PyPI packages
 ### Video
 + [Video Average Frame](https://github.com/wq2012/video-average-frame) - compute the average frame of a video
 + [Videohash](https://pypi.org/project/videohash/) - package for detecting near-duplicate videos
++ [C-tracker](https://github.com/facebookresearch/co-tracker) - tracking points in video; [paper](https://co-tracker.github.io/)
