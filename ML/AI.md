@@ -34,6 +34,7 @@
 + [Minimal LLAMA](https://github.com/zphang/minimal-llama/)) - code for running and fine-tuning LLaMA.
 + [Low-Rank LLaMA Instruct-Tuning](https://github.com/lxe/simple-llama-finetuner ); [py](https://github.com/tloen/alpaca-lora/blob/main/finetune.py)
 + [Run LLAMA and ALPACA on your computer](https://github.com/cocktailpeanut/dalai)
++ [Nougat](https://github.com/facebookresearch/nougat) - Neural Optical Understanding for Academic Documents
 
 ### Programmable ChatGPT
 + [ChatGPT wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
@@ -195,8 +196,8 @@ https://www.chatdox.com/
 - [vllm](https://github.com/vllm-project/vllm) - Inference and serving engine for LLMs
 - [ollama](https://github.com/jmorganca/ollama) - Go project to run, create and share LLMs
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
-- [5] https://github.com/scaleapi/llm-engine
-- [6] https://www.lamini.ai/
+- [LLM engine](https://github.com/scaleapi/llm-engine)
+- [LAMINI](https://www.lamini.ai/) - LLM platform
 - [GPT4all](https://github.com/nomic-ai/gpt4all)
 - [skypilot](https://github.com/skypilot-org/skypilot)
 - [HuggingFace Transformers](https://github.com/huggingface/transformers/releases)
