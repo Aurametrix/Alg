@@ -74,6 +74,8 @@ Python
 
 [Koda](https://pypi.org/project/koda/) - a collection of practical type-safe tools for Python.
 
+[PyPi trends](https://py-code.org/stats)
+
 [The Algorithm Library](https://the-algorithms.com/)
 [A new PDF library](https://github.com/desgeeko/pdfsyntax)
 
