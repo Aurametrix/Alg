@@ -31,6 +31,7 @@
 ### LLAMA
 + [FB LLAMA](https://github.com/facebookresearch/llama)
 + [Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
++ [Guide to fine-tuning LLAMA](https://ragntune.com/blog/guide-fine-tuning-code-llama)
 + [Minimal LLAMA](https://github.com/zphang/minimal-llama/)) - code for running and fine-tuning LLaMA.
 + [Low-Rank LLaMA Instruct-Tuning](https://github.com/lxe/simple-llama-finetuner ); [py](https://github.com/tloen/alpaca-lora/blob/main/finetune.py)
 + [Run LLAMA and ALPACA on your computer](https://github.com/cocktailpeanut/dalai)
