@@ -40,6 +40,8 @@ Python
 
 [Codon](https://github.com/exaloop/codon) - Python-like compiler using LLVM: [MIT paper](https://regmedia.co.uk/2023/03/11/mit_codon_paper.pdf) 
 
+[C compiler](https://vgel.me/posts/c500/) in 500 lines of Python
+
 
 [Red Mail](https://github.com/Miksus/red-mail) - Advanced Email Sender
 
