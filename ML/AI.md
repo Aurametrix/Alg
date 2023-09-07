@@ -36,6 +36,7 @@
 + [Low-Rank LLaMA Instruct-Tuning](https://github.com/lxe/simple-llama-finetuner ); [py](https://github.com/tloen/alpaca-lora/blob/main/finetune.py)
 + [Run LLAMA and ALPACA on your computer](https://github.com/cocktailpeanut/dalai)
 + [Nougat](https://github.com/facebookresearch/nougat) - Neural Optical Understanding for Academic Documents
++ [get LLAMA running locally](https://github.com/ggerganov/llama.cpp )
 
 ### Programmable ChatGPT
 + [ChatGPT wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
@@ -203,4 +204,5 @@ https://www.chatdox.com/
 - [skypilot](https://github.com/skypilot-org/skypilot)
 - [HuggingFace Transformers](https://github.com/huggingface/transformers/releases)
 - [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)
+- [OnPrem.LLM](https://github.com/amaiya/onprem) - Run ChatGPT-like LLMs on your laptop in 3 lines of code
 
