@@ -167,6 +167,8 @@ response = openai.Completion.create(
 [Graph of Thought paper](https://arxiv.org/abs/2308.09687), natural extension of CoT  [LLMtaskgraph](https://github.com/knexer/llmtaskgraph)
 beyond paradigms such as Chain-of-Thought or Tree of Thoughts (ToT)
 
+[Why are most LLM libraries dead projects now?](https://news.ycombinator.com/item?id=37404949)
+
 
 ### Commercial Platforms to build ChatGPT Apps
 
