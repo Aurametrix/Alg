@@ -30,7 +30,8 @@ PyPI packages
 + [Soundseeker](https://www.soundseeker.app/); [code](https://github.com/jacobshandling/soundseeker/tree/main/backend)
 + [Audio Craft](https://github.com/facebookresearch/audiocraft) - PyTorch library for deep learning research on audio generation. At the moment, it contains the code for [MusicGen](https://ai.honu.io/papers/musicgen/), a state-of-the-art controllable text-to-music model.
 +  intonation keyboard: [code](https://ad8e.pages.dev/keyboard); [demo](https://ad8e.pages.dev/keyboard)
-+  [whisper.api](https://github.com/innovatorved/whisper.api) - self-hostable API for speech to text transcription using a finetuned Whisper ASR model. 
++  [whisper.api](https://github.com/innovatorved/whisper.api) - self-hostable API for speech to text transcription using a finetuned Whisper ASR model.
++  [music demixer](https://github.com/sevagh/free-music-demixer) - [AI-based web app](https://freemusicdemixer.com/)
 
 ### Video
 + [Video Average Frame](https://github.com/wq2012/video-average-frame) - compute the average frame of a video
