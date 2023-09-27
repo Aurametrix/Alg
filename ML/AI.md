@@ -70,7 +70,10 @@ The following models are considered GPT 3.5:
 - text-davinci-002
 
 - text-davinci-003
+- 
 [prompttools](https://github.com/hegelai/prompttools) - fir evaluations LLMs and vector dbs
+
+[MAgentic](https://github.com/jackmpcollins/magentic) - to integrate Large Language Models into code (as Python functions)
 
 ###
 [jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
