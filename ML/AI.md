@@ -171,6 +171,10 @@ response = openai.Completion.create(
 [Graph of Thought paper](https://arxiv.org/abs/2308.09687), natural extension of CoT  [LLMtaskgraph](https://github.com/knexer/llmtaskgraph)
 beyond paradigms such as Chain-of-Thought or Tree of Thoughts (ToT)
 
+
+[LLMs with Attention Sinks](https://github.com/mit-han-lab/streaming-llm)
+
+
 [Why are most LLM libraries dead projects now?](https://news.ycombinator.com/item?id=37404949)
 
 
