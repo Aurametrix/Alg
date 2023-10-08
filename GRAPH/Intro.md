@@ -6,3 +6,8 @@ https://statecharts.github.io/
 https://en.wikipedia.org/wiki/UML_state_machine#Hierarchically_nested_states
 
 https://applied-compositional-thinking.engineering/lectures/
+
+
+
+PAPERS
+[MAPTREE](https://arxiv.org/abs/2309.15312) -  Beating "Optimal" Decision Trees with Bayesian Decision Trees
