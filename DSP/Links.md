@@ -32,6 +32,8 @@ PyPI packages
 +  intonation keyboard: [code](https://ad8e.pages.dev/keyboard); [demo](https://ad8e.pages.dev/keyboard)
 +  [whisper.api](https://github.com/innovatorved/whisper.api) - self-hostable API for speech to text transcription using a finetuned Whisper ASR model.
 +  [music demixer](https://github.com/sevagh/free-music-demixer) - [AI-based web app](https://freemusicdemixer.com/)
++  [Silero Models: ](https://github.com/snakers4/silero-models) pre-trained speech-to-text, text-to-speech and text-enhancement
++  [Speech Meter](https://speechmeter.com/) - Practice English pronunciation 
 
 ### Video
 + [Video Average Frame](https://github.com/wq2012/video-average-frame) - compute the average frame of a video
