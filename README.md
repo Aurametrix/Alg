@@ -33,6 +33,8 @@ Python
 
 [Reloadium](https://github.com/reloadware/reloadium) - adds hot reloading also called "edit and continue" functionality to any Python application
 
+[Running on EC2 instance](https://medium.com/@hello_prism/running-a-python-script-on-an-ec2-instance-8691589b3080)
+
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
     
