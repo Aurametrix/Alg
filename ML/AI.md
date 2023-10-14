@@ -20,6 +20,7 @@
 * [jupyter-voicepilot](https://github.com/JovanVeljanoski/jupyter-voicepilot)
 * [Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
 * [Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
+* [ChatGPT System Prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
 * [Open AI Moonwalk proposal](https://github.com/OAI/moonwalk)
 * [ChatHUB](https://github.com/chathub-dev/chathub/blob/main/README.md) - Use ChatGPT, Bing, Bard and Claude in One App
 * [GPT engineer](https://github.com/AntonOsika/gpt-engineer) -  generates an entire codebase based on a prompt
