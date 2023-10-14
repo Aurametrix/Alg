@@ -158,10 +158,11 @@ Python
         + [Videos](https://spacy.io/universe/category/videos)
         + [Advanced NLP](https://course.spacy.io/en/)
     + [TextBlob](https://github.com/sloria/TextBlob/)
-    + [Gensim](https://github.com/rare-technologies/gensim) - for similarity analysis
+    + [Gensim](https://github.com/rare-technologies/gensim) - for similarity analysis; [topic modeling](https://github.com/RaRe-Technologies/gensim)
         + [similarity of sentences](https://www.tutorialexample.com/python-calculate-the-similarity-of-two-sentences-with-gensim-gensim-tutorial/)   
     + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
     + [Reddit bot](https://medium.com/@bbrenng1/create-your-first-reddit-bot-with-python-and-heroku-e75d7af3026f)
+    + [txtai](https://github.com/neuml/txtai) - All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
    
    + [Topic Modeling](https://hackernoon.com/advanced-topic-modeling-tutorial-how-to-use-svd-and-nmf-in-python-to-find-topics-in-text)
    
