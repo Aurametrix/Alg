@@ -688,6 +688,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 
 + [Pytorch Search Engine](https://you.com/niche/pytorch?q=initialize+weights&fromSearchBar=true)
 + [Pytorch 2.0](https://pytorch.org/blog/pytorch-2.0-release/)
++ [Executorch](https://pytorch.org/executorch/stable/index.html) - https://pytorch.org/executorch/stable/index.htmlPyTorch platform that provides infrastructure to run PyTorch programs everywhere from AR/VR wearables to standard on-device iOS and Android mobile deployment
 
 ##### Decentralized Communities
 + [Hummingbard](https://hummingbard.com/hummingbard/introducing-hummingbard) built on top of [Matrix](https://github.com/matrix-org)
