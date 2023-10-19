@@ -818,3 +818,4 @@ pip install matplotlib
     +[zero cost exception handling](https://bugs.python.org/issue40222)
     
 + [Python 3.11 in the Web Browser](https://2022.pycon.de/program/SBCNDY/)
++ [What's new in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
