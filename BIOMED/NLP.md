@@ -21,6 +21,8 @@ https://github.com/MedTAG/medtag-core/tree/main#installation
 
 [Biomed AI](https://www.nature.com/articles/s41591-022-01981-2)
 
+[PubMedBERT Embeddings](https://huggingface.co/NeuML/pubmedbert-base-embeddings) -  fine-tuned Sentence Transformers model trained using medical literature
+
 #### STonKGs: A Sophisticated Transformer Trained on Biomedical Text and Knowledge Graphs
 + [Github code](https://github.com/stonkgs/stonkgs)
 + [PyPI](https://pypi.org/project/stonkgs/)
