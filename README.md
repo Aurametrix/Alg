@@ -14,6 +14,8 @@ Python
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 
+[Self-assesment of Expertise level](https://safjan.com/python-expertise-level-self-assessment/)
+
 
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
 
