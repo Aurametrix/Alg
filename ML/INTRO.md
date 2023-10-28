@@ -1,4 +1,5 @@
 + [Machine Learning Recipes](https://github.com/rougier/ML-Recipes)
++ [ML algorithms](https://ataiva.com/a-deep-dive-into-machine-learning-algorithms/)
 
 ### Deep Learning
 + [Theories of deep learning](https://stats385.github.io/), [GH](https://github.com/stats385/stats385.github.io)
