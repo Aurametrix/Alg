@@ -14,6 +14,8 @@ Python
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 
+[nbxmpp](https://dev.gajim.org/gajim/python-nbxmpp/-/releases/4.5.0)
+
 [Self-assesment of Expertise level](https://safjan.com/python-expertise-level-self-assessment/)
 
 
