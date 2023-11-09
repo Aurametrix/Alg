@@ -26,6 +26,7 @@
 * [ChatHUB](https://github.com/chathub-dev/chathub/blob/main/README.md) - Use ChatGPT, Bing, Bard and Claude in One App
 * [GPT engineer](https://github.com/AntonOsika/gpt-engineer) -  generates an entire codebase based on a prompt
 * [ChatGPT retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+* [Wanderlust](https://github.com/widgetti/wanderlust) - Wanderlust app  rebuilt in Python using Solara
 
 
 
