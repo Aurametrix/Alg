@@ -28,7 +28,7 @@
 * [ChatGPT retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 * [Wanderlust](https://github.com/widgetti/wanderlust) - Wanderlust app  rebuilt in Python using Solara
 
-
+[GPT script to check Wikipedia](https://gwern.net/tla) - [python](https://gwern.net/static/build/latex2unicode.py)
 
 
 ### LLAMA
