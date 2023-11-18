@@ -20,6 +20,7 @@
 * [jupytee](https://github.com/fperez/jupytee) 
 * [jupyter-voicepilot](https://github.com/JovanVeljanoski/jupyter-voicepilot)
 * [Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
+* [Tensorli](https://github.com/joennlae/tensorli) - Minimalistic implementation of a GPT-like transformer using only numpy (<650 lines).
 * [Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
 * [ChatGPT System Prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
 * [Open AI Moonwalk proposal](https://github.com/OAI/moonwalk)
