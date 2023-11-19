@@ -28,8 +28,10 @@
 * [GPT engineer](https://github.com/AntonOsika/gpt-engineer) -  generates an entire codebase based on a prompt
 * [ChatGPT retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 * [Wanderlust](https://github.com/widgetti/wanderlust) - Wanderlust app  rebuilt in Python using Solara
+* [Typer assistant](https://github.com/eblume/TyperAssistant) - turn any Typer add into a function-calling assistant
+* [GPT script to check Wikipedia](https://gwern.net/tla) - [python](https://gwern.net/static/build/latex2unicode.py)
+* [](https://github.com/DerekCuevas/daily-dall-e) - Once a day (via a GitHub Action running in the repo), this project queries Google Trends and then uses OpenAI's ChatGPT and Dall-E to produce unique artwork relevant to today.
 
-[GPT script to check Wikipedia](https://gwern.net/tla) - [python](https://gwern.net/static/build/latex2unicode.py)
 
 
 ### LLAMA
