@@ -30,7 +30,10 @@
 * [Wanderlust](https://github.com/widgetti/wanderlust) - Wanderlust app  rebuilt in Python using Solara
 * [Typer assistant](https://github.com/eblume/TyperAssistant) - turn any Typer add into a function-calling assistant
 * [GPT script to check Wikipedia](https://gwern.net/tla) - [python](https://gwern.net/static/build/latex2unicode.py)
-* [](https://github.com/DerekCuevas/daily-dall-e) - Once a day (via a GitHub Action running in the repo), this project queries Google Trends and then uses OpenAI's ChatGPT and Dall-E to produce unique artwork relevant to today.
+* [Daily DALL-E](https://github.com/DerekCuevas/daily-dall-e) - Once a day (via a GitHub Action running in the repo), this project queries Google Trends and then uses OpenAI's ChatGPT and Dall-E to produce unique artwork relevant to today.
+* [NeumAI](https://github.com/NeumTry/NeumAI) -  framework focuses on RAG data pipelines 
+* [BARD Extensions](https://bard.google.com/extensions?hl=en)
+
 
 
 
