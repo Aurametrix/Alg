@@ -34,7 +34,13 @@
 * [NeumAI](https://github.com/NeumTry/NeumAI) -  framework focuses on RAG data pipelines 
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
 
+### Lists of GPTs
 
++ [Awesome GPTs](https://github.com/friuns2/Awesome-GPTs-Big-List/)
++ [GPTs for me](https://gptsfor.me/)
++ [Top GPTs](https://www.topgpts.ai/)
++ [Awesome GPTs](https://awesomegpts.pro/)
++ [GPTs list](https://gpts-list.com/)
 
 
 ### LLAMA
