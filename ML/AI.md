@@ -5,6 +5,7 @@
 * [PrivateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs
 * [DocGPT](https://github.com/FeatureBaseDB/DocGPT/tree/main) - document organization
 * [ChatGPT talks to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
+* [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) - by Andrej Karpathy
 * [ChatGPR & Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 * [OpenAI Python Library](https://github.com/openai/openai-python)
 * [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
