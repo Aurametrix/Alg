@@ -307,6 +307,8 @@ dEEP lEARNING FOR ocr https://nanonets.com/blog/receipt-ocr/
 * [GPU providers](https://rare-technologies.com/machine-learning-benchmarks-hardware-providers-gpu-part-2/)
 * [Open Source Hardware](https://news.ycombinator.com/item?id=35907174)
 * [Comparison of graphics cards](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
+* [The Rise, Fall, and Rise of Electronics Kits](https://spectrum.ieee.org/the-rise-fall-and-rise-of-electronics-kits)
+* [EdgeAI: Metropolis APIs and Microservices on Jetson](https://info.nvidia.com/rs/156-OFN-742/images/Metropolis_Webinar_Metropolis_on_Jetson.pdf)
 
 ### Applications
 
