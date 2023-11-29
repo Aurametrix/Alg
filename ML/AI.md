@@ -22,6 +22,7 @@
 * [jupyter-voicepilot](https://github.com/JovanVeljanoski/jupyter-voicepilot)
 * [Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
 * [Tensorli](https://github.com/joennlae/tensorli) - Minimalistic implementation of a GPT-like transformer using only numpy (<650 lines).
+* [CROSS-AXIS TRANSFORMER WITH 2D ROTARY EMBEDDINGS](https://github.com/ElleLeonne/Cross-Axis-Transformer) - [CAT arxiv paper](https://arxiv.org/pdf/2311.07184v1.pdf)
 * [Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
 * [ChatGPT System Prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
 * [Open AI Moonwalk proposal](https://github.com/OAI/moonwalk)
