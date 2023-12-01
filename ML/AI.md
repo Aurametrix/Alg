@@ -35,6 +35,7 @@
 * [Daily DALL-E](https://github.com/DerekCuevas/daily-dall-e) - Once a day (via a GitHub Action running in the repo), this project queries Google Trends and then uses OpenAI's ChatGPT and Dall-E to produce unique artwork relevant to today.
 * [NeumAI](https://github.com/NeumTry/NeumAI) -  framework focuses on RAG data pipelines 
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
+* [GPT fast](https://github.com/pytorch-labs/gpt-fast) - pytorch-native transformer text generation
 
 ### Lists of GPTs
 
