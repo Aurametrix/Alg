@@ -4,3 +4,7 @@
 + [Automatic Musical Composition](https://flujoo.github.io/en/my-approach-to-automatic-musical-composition/)
 + [Cloning a musical instrument](https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6) from 16 sec sample
 + [Toolkit for music generation experiment](https://github.com/chaosprint/RaveForce)
+
+
+
++ [META Voicebox](https://research.facebook.com/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/) - [apply for a grant](https://ai.meta.com/research/audiobox-responsible-generation-grant/)
