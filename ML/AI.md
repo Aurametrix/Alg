@@ -33,7 +33,8 @@
 * [Typer assistant](https://github.com/eblume/TyperAssistant) - turn any Typer add into a function-calling assistant
 * [GPT script to check Wikipedia](https://gwern.net/tla) - [python](https://gwern.net/static/build/latex2unicode.py)
 * [Daily DALL-E](https://github.com/DerekCuevas/daily-dall-e) - Once a day (via a GitHub Action running in the repo), this project queries Google Trends and then uses OpenAI's ChatGPT and Dall-E to produce unique artwork relevant to today.
-* [NeumAI](https://github.com/NeumTry/NeumAI) -  framework focuses on RAG data pipelines 
+* [NeumAI](https://github.com/NeumTry/NeumAI) -  framework focuses on RAG data pipelines
+* [KG-RAG](https://github.com/BaranziniLab/KG_RAG) -  Knowledge Graph-based Retrieval Augmented Generation 
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
 * [GPT fast](https://github.com/pytorch-labs/gpt-fast) - pytorch-native transformer text generation
 
