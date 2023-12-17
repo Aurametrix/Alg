@@ -10,6 +10,8 @@ Python
 [RAe](https://www.theregister.com/2023/05/04/a_python_tool_called_rye/) - for python packaging, distribution
 [No-GIL Python](https://lwn.net/Articles/947138/)
 
+
+
 [Top libraries of 2021](https://tryolabs.com/blog/2021/12/21/top-python-libraries-2021)
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
@@ -68,6 +70,8 @@ Python
 [Modern Python Performance Considerations](https://lwn.net/SubscriberLink/893686/8978976335696804/)
 
 [Python Design Patterns](https://python-patterns.guide/)
+
+[Python variables, references and mutability](https://www.bitecode.dev/p/python-variables-references-and-mutability)
 
 [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - programming xhallenge
 
