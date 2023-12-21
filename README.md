@@ -630,6 +630,7 @@ pip install pygsr
 + [Opytimizer](https://github.com/gugarosa/opytimizer) - a Nature-Inspired Python Optimizer
 + [DotDict](https://github.com/nick-at-dave/DotDict) - A simple Python library that builds upon argparse.Namespace to make chained attributes possible.
 + [Git Hit Map](https://github.com/jmforsythe/Git-Heat-Map)
++ [6 degrees of wikipedia](https://github.com/jwngr/sdow) - [site](https://www.sixdegreesofwikipedia.com/)
 + [Turn images into geometric primitives](https://github.com/Tw1ddle/geometrize) - [demo](https://www.geometrize.co.uk/)
 + [large Zip archives](https://github.com/BuzonIO/zipfly#zipfly)
 + [Microbial simulator](https://github.com/Emergent-Behaviors-in-Biology/community-simulator)
