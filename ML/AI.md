@@ -73,6 +73,9 @@
     + [wolfram](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
  
 
+[Coscientist](https://github.com/gomesgroup/coscientist) - 
+[Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0)
+
 
 ###
 
