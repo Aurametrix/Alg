@@ -103,6 +103,14 @@ The following models are considered GPT 3.5:
 
 [Freely Available GPT models](https://huggingface.co/EleutherAI/gpt-neo-2.7B)
 
+[Nendo colab](https://colab.research.google.com/drive/1uGQIejuCKKEQrFBgzaHtdCYHEIFbJD6l) - 
+
+• Model 1 generates finest vintage Dub music [musicgen-stereo-dub](https://huggingface.co/pharoAIsanders420/musicgen-stereo-dub)
+• Model 2 generates Boom Bap Hip Hop tunes [Hiphop](https://huggingface.co/pharoAIsanders420/musicgen-medium-hiphop )
+• Model 3 generates rolling Drum'n'Bass bangers [DNB](https://huggingface.co/pharoAIsanders420/musicgen-small-dnb)
+
+
+
 
 ###
 
