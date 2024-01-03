@@ -51,6 +51,8 @@ Python
 
 [C compiler](https://vgel.me/posts/c500/) in 500 lines of Python
 
+[Shed Skin](https://shed-skin.blogspot.com/2023/12/shed-skin-restricted-python-to-c.html) - restricted-Python-to-C++ compiler 0.9.6
+
 
 [Red Mail](https://github.com/Miksus/red-mail) - Advanced Email Sender
 
