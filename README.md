@@ -23,6 +23,8 @@ Python
 
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
 
+[Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+
 [Python packaging](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/)
 
 [Yapsl](https://github.com/kutoga/yapsl) - Python SMS library
