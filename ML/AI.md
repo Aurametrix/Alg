@@ -261,3 +261,8 @@ https://retool.com/products/ai
 + [Gen AI for beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 + [Kagi's VectorDB](https://vectordb.com/)
 
+
+### ACTIONS
+
++ [Repo for custom actions](https://github.com/bapo2/gpt-actions)
++ [GPT billing](https://github.com/Engine-Labs/gpt-billing-template)
