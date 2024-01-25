@@ -238,6 +238,7 @@ https://retool.com/products/ai
 
 - [vllm](https://github.com/vllm-project/vllm) - Inference and serving engine for LLMs
 - [ollama](https://github.com/jmorganca/ollama) - Go project to run, create and share LLMs
+- [The initial versions of the Ollama Python and JavaScript libraries are now available](https://ollama.ai/blog/python-javascript-libraries)
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
 - [LLM engine](https://github.com/scaleapi/llm-engine)
 - [LAMINI](https://www.lamini.ai/) - LLM platform
