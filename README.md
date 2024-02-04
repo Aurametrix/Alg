@@ -620,6 +620,7 @@ pip install pygsr
 + [Sherlock](https://github.com/sherlock-project/sherlock) - Find usernames across social networks
 + [Maigret](https://github.com/soxoj/maigret) - Find information by username from thousands of sites
 + [face-controlled interface](https://github.com/everythingishacked/CheekyKeys)
++ [Microdot](https://lwn.net//Articles/959067/) - a web framework for microcontrollers
 + [HN API](https://github.com/HackerNews/API) = [Algolia](https://hn.algolia.com/api)
 + [Rust bindings for Python](https://github.com/PyO3/pyo3)
 + [Pen Plotter](https://github.com/evildmp/BrachioGraph)
