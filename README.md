@@ -16,6 +16,8 @@ Python
 [Top libraries of 2020](https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/)
 [Top 10 libraries of 2019](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 
+[Dependency Management](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
+
 [nbxmpp](https://dev.gajim.org/gajim/python-nbxmpp/-/releases/4.5.0)
 
 [Self-assesment of Expertise level](https://safjan.com/python-expertise-level-self-assessment/)
