@@ -207,6 +207,9 @@ Python
 [FASTAPI](https://fastapi.tiangolo.com/) - modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints
 
 
+[web2pdf](https://github.com/dvcoolarun/web2pdf) - CLI to convert webpages to PDFs
+
+
 [Analyzing Hacker News with Six Language Understanding Methods](https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Analyzing_Hacker_News_with_Six_Language_Understanding_Methods.ipynb)      
 
 [Word2Vec online](https://github.com/turbomaze/word2vecjson)' [demo](Demo at http://turbomaze.github.io/word2vecjson/)
