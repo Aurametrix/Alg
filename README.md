@@ -20,6 +20,8 @@ Python
 
 [nbxmpp](https://dev.gajim.org/gajim/python-nbxmpp/-/releases/4.5.0)
 
+[]OneDrive SDK for Python(https://github.com/OneDrive/onedrive-sdk-python)
+
 [Self-assesment of Expertise level](https://safjan.com/python-expertise-level-self-assessment/)
 
 
