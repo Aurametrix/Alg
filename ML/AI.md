@@ -205,6 +205,8 @@ beyond paradigms such as Chain-of-Thought or Tree of Thoughts (ToT)
 
 [LLMs with Attention Sinks](https://github.com/mit-han-lab/streaming-llm)
 
+[RLHF](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html) -  a LLM in <50 lines of Python
+
 
 [Why are most LLM libraries dead projects now?](https://news.ycombinator.com/item?id=37404949)
 
