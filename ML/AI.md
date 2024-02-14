@@ -250,6 +250,7 @@ https://retool.com/products/ai
 - [HuggingFace Transformers](https://github.com/huggingface/transformers/releases)
 - [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)
 - [OnPrem.LLM](https://github.com/amaiya/onprem) - Run ChatGPT-like LLMs on your laptop in 3 lines of code
+- [BoCoEL](https://github.com/rentruewang/bocoel) - Bayesian Optimization as a Coverage Tool for Evaluating Large Language Models
 
 ### Animated AI
 
