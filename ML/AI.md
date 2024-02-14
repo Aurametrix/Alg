@@ -237,7 +237,8 @@ https://whismer.com
 https://flower.dev/ 
 https://www.chatdox.com/
 https://retool.com/products/ai
-###
+
+### working with LLMs
 
 - [vllm](https://github.com/vllm-project/vllm) - Inference and serving engine for LLMs
 - [ollama](https://github.com/jmorganca/ollama) - Go project to run, create and share LLMs
@@ -251,6 +252,8 @@ https://retool.com/products/ai
 - [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)
 - [OnPrem.LLM](https://github.com/amaiya/onprem) - Run ChatGPT-like LLMs on your laptop in 3 lines of code
 - [BoCoEL](https://github.com/rentruewang/bocoel) - Bayesian Optimization as a Coverage Tool for Evaluating Large Language Models
+- [TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM/) - optimises inference time for LLMs on Nvidia cards.
+- [thin wrapper around TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs.
 
 ### Animated AI
 
