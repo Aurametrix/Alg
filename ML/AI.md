@@ -38,6 +38,9 @@
 * [KG-RAG](https://github.com/BaranziniLab/KG_RAG) -  Knowledge Graph-based Retrieval Augmented Generation 
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
 * [GPT fast](https://github.com/pytorch-labs/gpt-fast) - pytorch-native transformer text generation
+* [MAMBA Chat](https://github.com/havenhq/mamba-chat) - language model based on a state-space model architecture, not a transformer
+        - [MAMBA by anakin.ai](https://anakin.ai/blog/mamba/)
+        - [Can we REach AGI with just LLMS](https://www.youtube.com/watch?v=jq0QeWIgvfw)  - Dr.Waku's Youtube
 
 ### Lists of GPTs
 
@@ -264,7 +267,6 @@ https://retool.com/products/ai
 + [Convolutions](https://github.com/3b1b/videos/tree/master/_2023/convolutions2)
 
 ### 
-
 + [GPU calc](https://rahulschand.github.io/gpu_poor/) - calculate GPU memory requirement and token/s for any LLM
 + [Gen AI for beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 + [Kagi's VectorDB](https://vectordb.com/)
