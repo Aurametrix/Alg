@@ -15,6 +15,11 @@
  
 + [Scraping Canadian weather data](https://github.com/alaudet/my_weather) 
 + [Scraping data from an app](https://substack.thewebscraping.club/p/the-lab-1-scraping-data-from-an-app)
++ [web scraping in Python](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide) - the complete guide
+    + [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+    + [Scrappy](https://scrapy.org/)
+    + [Selenium](https://www.selenium.dev/documentation/overview/)
+    + PyQuery](https://pythonhosted.org/pyquery/)
 + [196,640 books in plain .txt](https://github.com/soskek/bookcorpus/issues/27#issuecomment-716104208)  - https://the-eye.eu/public/AI/pile_preliminary_components/books1.tar.gz
 + [Real-time flight API](https://airlabs.co/); also Flight Radar API, Airline Schedules Database, Flight Data API, Aviation APIs, IATA Codes
 
