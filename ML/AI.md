@@ -5,6 +5,8 @@
 * [PrivateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs
 * [DocGPT](https://github.com/FeatureBaseDB/DocGPT/tree/main) - document organization
 * [GeneGPT](https://github.com/ncbi/GeneGPT) - tool-augmented LLM for improved access to biomedical information
+* [SpeechGPT](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt-gen) - Scaling Chain-of-Information Speech Generation - [paper](https://0nutation.github.io/SpeechGPT.github.io/)
+* [AnyGPT](https://junzhan2000.github.io/AnyGPT.github.io/)
 * [ChatGPT talks to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
 * [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) - by Andrej Karpathy
 * [ChatGPR & Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
