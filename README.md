@@ -532,6 +532,7 @@ pip install BeautifulSoup4
 * [Jetbrains academy](https://www.jetbrains.com/academy/)
 * [Web academy](https://academy.bigbinary.com/)
 * [Python in Pics](https://projects.raspberrypi.org/en/codeclub/python-module-1)
+* [MUD Pi](https://github.com/Frimkron/mud-pi) - A simple text-based Multi-User Dungeon (MUD) game, which could be run on a Raspberry Pi or other low-end server
 * [Intro for absolute beginners](https://github.com/webartifex/intro-to-python)
 * [Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
 * [Coconut](http://coconut-lang.org/), a functional programming language that compiles to Python
