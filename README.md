@@ -642,6 +642,7 @@ pip install pygsr
 + [Simulating Quantum mechanics](https://github.com/marl0ny/1D-Quantum-Mechanics-Applet)
 + [Evidence-Based Medicine](https://github.com/ebmdatalab/)
 + [Chatistics](https://github.com/MasterScrat/Chatistics) - convert chat logs into Panda DataFrames
++ [Daft](https://github.com/Eventual-Inc/Daft) - distributed dataframe
 + [Pylo](https://github.com/sebdumancic/pylo2) - python front end to Prolog 
 + [Array Programming with Numpy](https://www.nature.com/articles/s41586-020-2649-2)
 + [Opytimizer](https://github.com/gugarosa/opytimizer) - a Nature-Inspired Python Optimizer
