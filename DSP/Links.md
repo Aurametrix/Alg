@@ -35,7 +35,8 @@ PyPI packages
 +  [music demixer](https://github.com/sevagh/free-music-demixer) - [AI-based web app](https://freemusicdemixer.com/)
 +  [TuneNN](https://github.com/TuneNN/TuneNN) - a transformer-based network model, pitch tracking for musical instruments
 +  [Silero Models: ](https://github.com/snakers4/silero-models) pre-trained speech-to-text, text-to-speech and text-enhancement
-+  [Speech Meter](https://speechmeter.com/) - Practice English pronunciation 
++  [Speech Meter](https://speechmeter.com/) - Practice English pronunciation
++  [An Algorithmic Audio Landscape](https://ambient.garden/)
 
 ### Video
 + [Video Average Frame](https://github.com/wq2012/video-average-frame) - compute the average frame of a video
