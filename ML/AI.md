@@ -208,6 +208,7 @@ response = openai.Completion.create(
 
 [extracting meta-learned reinforcement learning algorithms from a large language model](https://github.com/keskival/king-algorithm-manifesto)
 
+[Browser Automation with LLMs and Computer Vision](https://github.com/Skyvern-AI/skyvern)
 
 [Graph of Thought paper](https://arxiv.org/abs/2308.09687), natural extension of CoT  [LLMtaskgraph](https://github.com/knexer/llmtaskgraph)
 beyond paradigms such as Chain-of-Thought or Tree of Thoughts (ToT)
