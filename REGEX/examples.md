@@ -36,6 +36,8 @@ Tutorial https://www.python.org/dev/peps/pep-0636/
 
 [word-to-vec algorithm](https://github.com/JosephSBoyle/skip_gram/blob/346f79ff948ef3d279558a9460c44e7f7598fb7d/skip_gram/main.py)
 
+[PArsing URLs](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
+
 Rejected:
 
 Unused variable syntax https://www.python.org/dev/peps/pep-0640/
