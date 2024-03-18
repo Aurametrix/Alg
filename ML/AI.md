@@ -67,6 +67,10 @@
 + [Nougat](https://github.com/facebookresearch/nougat) - Neural Optical Understanding for Academic Documents
 + [get LLAMA running locally](https://github.com/ggerganov/llama.cpp )
 + [TinyLlama](https://github.com/jzhang38/TinyLlama) -  1.1B Llama model on 3 trillion tokens -[arXiv paper](https://arxiv.org/abs/2401.02385)
++ 
+
+###
++ [GROK](https://github.com/xai-org/grok-1)
 
 ### Programmable ChatGPT
 + [ChatGPT wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
