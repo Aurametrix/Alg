@@ -287,3 +287,6 @@ https://retool.com/products/ai
 
 + [Repo for custom actions](https://github.com/bapo2/gpt-actions)
 + [GPT billing](https://github.com/Engine-Labs/gpt-billing-template)
+
+  ###
+ + [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion) 
