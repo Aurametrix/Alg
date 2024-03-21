@@ -289,4 +289,5 @@ https://retool.com/products/ai
 + [GPT billing](https://github.com/Engine-Labs/gpt-billing-template)
 
   ###
- + [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion) 
+ + [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
+ + [Micrograd CUDA](https://github.com/mlecauchois/micrograd-cuda)
