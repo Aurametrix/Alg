@@ -670,6 +670,7 @@ pip install pygsr
 + [n.py](https://git.bitmycode.com/sodimel/n) - simple note-raking tool
 
 + [Inline C in Python](https://github.com/georgek42/inlinec)
++ [Pytest debugger](https://github.com/leapingio/leaping)
 + [Pycel](https://github.com/pyccel/pyccel) - Python extension language using accelerators
 + [Prolog in Python](https://github.com/brunokim/prol)
 
