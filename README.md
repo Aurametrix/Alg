@@ -182,6 +182,7 @@ Python
     + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
     + [Reddit bot](https://medium.com/@bbrenng1/create-your-first-reddit-bot-with-python-and-heroku-e75d7af3026f)
     + [txtai](https://github.com/neuml/txtai) - All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+    + [Binary Vector Search](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
    
    + [Topic Modeling](https://hackernoon.com/advanced-topic-modeling-tutorial-how-to-use-svd-and-nmf-in-python-to-find-topics-in-text)
    
