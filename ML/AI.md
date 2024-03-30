@@ -278,10 +278,18 @@ https://retool.com/products/ai
 + [Tenzorflow playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.14660&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 + [Convolutions](https://github.com/3b1b/videos/tree/master/_2023/convolutions2)
 
-### 
+### MISC
+
 + [GPU calc](https://rahulschand.github.io/gpu_poor/) - calculate GPU memory requirement and token/s for any LLM
 + [Gen AI for beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 + [Kagi's VectorDB](https://vectordb.com/)
+
+### Autogen - a framework for the development of LLM applications using multiple agents that can converse with each other to solve tasks.
++ [Notebook](https://github.com/microsoft/autogen/tree/main/notebook)
++ [Group Chat](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_groupchat_research.ipynb)
++ [Matthew Berman's video](https://www.youtube.com/watch?v=10FCv-gCKug) - using any open-source model with AutoGen using LMStudio
++ [LM Stuio](https://news.ycombinator.com/item?id=38377072)
++ [Communicative Agents for Software Development]([Communicative Agents for Software Development](https://github.com/OpenBMB/ChatDev))
 
 
 ### ACTIONS
