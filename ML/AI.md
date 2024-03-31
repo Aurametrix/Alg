@@ -47,7 +47,8 @@
 * [GPT fast](https://github.com/pytorch-labs/gpt-fast) - pytorch-native transformer text generation
 * [MAMBA Chat](https://github.com/havenhq/mamba-chat) - language model based on a state-space model architecture, not a transformer
         - [MAMBA by anakin.ai](https://anakin.ai/blog/mamba/)
-        - [Can we REach AGI with just LLMS](https://www.youtube.com/watch?v=jq0QeWIgvfw)  - Dr.Waku's Youtube
+        - [Can we Reach AGI with just LLMS](https://www.youtube.com/watch?v=jq0QeWIgvfw)  - Dr.Waku's Youtube
+        - [MAMBA explained](https://thegradient.pub/mamba-explained/)
 
 ### Lists of GPTs
 
