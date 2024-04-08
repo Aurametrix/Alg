@@ -384,8 +384,10 @@ https://www.confluent.io/resources/online-talk/coding-in-motion/building-a-react
 
 ### Conferences
 
-+ [2019 Scipy](https://www.scipy2019.scipy.org/)
++ Scipy
     + [2017 Scipy Workshop](https://github.com/Andrewnetwork/WorkshopScipy)
+    + [2019 Scipy](https://www.scipy2019.scipy.org/)
+    + [2024: 1.13 release](https://scipy.github.io/devdocs/release/1.13.0-notes.html)
 
 + [2019 PyCon](https://us.pycon.org/2019/)
 + [Pycon 2022 highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
