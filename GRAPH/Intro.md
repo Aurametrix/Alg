@@ -1,3 +1,5 @@
+[Big O: ](https://www.pythonmorsels.com/time-complexities/) - the time complexities of different data structures in Python
+
 Graph theory, graph convolutional networks, knowledge graphs
 https://albertazout.substack.com/p/gradient-ascent-10
 
