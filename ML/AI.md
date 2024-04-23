@@ -114,7 +114,7 @@ The following models are considered GPT 3.5:
 - 
 [prompttools](https://github.com/hegelai/prompttools) - fir evaluations LLMs and vector dbs
 
-[MAgentic](https://github.com/jackmpcollins/magentic) - to integrate Large Language Models into code (as Python functions)
+[Magentic](https://github.com/jackmpcollins/magentic) - to integrate Large Language Models into code (as Python functions)
 
 ###
 [jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
@@ -223,6 +223,10 @@ beyond paradigms such as Chain-of-Thought or Tree of Thoughts (ToT)
 
 
 [LLMs with Attention Sinks](https://github.com/mit-han-lab/streaming-llm)
+
+[DIFY](https://github.com/langgenius/dify) - a visual workflow to build/test LLM applications 
+
+[Magick](https://github.com/Oneirocom/Magick) - visual AIDE (Artificial Intelligence Development Environment) for no-code data pipelines and multimodal agents. 
 
 [RLHF](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html) -  a LLM in <50 lines of Python
 
