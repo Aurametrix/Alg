@@ -701,6 +701,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [AeroPython](https://github.com/barbagroup/AeroPython)
 + [Mario](https://github.com/python-mario/mario) - python pipelines for your shell
 + [Pyp](https://github.com/hauntsaninja/pyp) - python from shell
+
 + [Semantle](https://gitlab.com/novalis_dt/semantle) - guess the secret word
 + [Mito](https://github.com/mito-ds/monorepo) - [try mito](https://www.trymito.io/) - Excel-like interface to Pandas
 + [simple code](https://gitlab.com/pyjam.as/tunnel/-/blob/main/tunnel.py) for [HTTP tunnels](https://tunnel.pyjam.as/)
@@ -859,3 +860,4 @@ pip install matplotlib
     
 + [Python 3.11 in the Web Browser](https://2022.pycon.de/program/SBCNDY/)
 + [What's new in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
++ [PyPy 7.3.16](https://www.pypy.org/posts/2024/04/pypy-v7316-release.html)
