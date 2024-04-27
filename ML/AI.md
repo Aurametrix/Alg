@@ -124,6 +124,9 @@ The following models are considered GPT 3.5:
 [jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 [social](https://github.com/riverscuomo/social) - A python package that uses OpenAI to generate a response to a social media mention
 
+
+[31c](https://pypi.org/project/3lc/)  - an AI tool that lets you see your dataset through your model’s eyes
+
 [Freely Available GPT models](https://huggingface.co/EleutherAI/gpt-neo-2.7B)
 
 [Nendo colab](https://colab.research.google.com/drive/1uGQIejuCKKEQrFBgzaHtdCYHEIFbJD6l) - 
