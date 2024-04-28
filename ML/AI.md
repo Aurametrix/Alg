@@ -42,6 +42,8 @@
 * [GPT script to check Wikipedia](https://gwern.net/tla) - [python](https://gwern.net/static/build/latex2unicode.py)
 * [Daily DALL-E](https://github.com/DerekCuevas/daily-dall-e) - Once a day (via a GitHub Action running in the repo), this project queries Google Trends and then uses OpenAI's ChatGPT and Dall-E to produce unique artwork relevant to today.
 * [Automating the creation of foundation models](https://github.com/SakanaAI/evolutionary-model-merge); [arxiv paper](https://arxiv.org/abs/2403.13187)
+* [AI tools to detect animal calls](https://www.seangoedecke.com/animal-call-audio-recognition/)
+         + [train owl models](https://github.com/sgoedecke/birdcall-classifier-model/blob/master/train-owl-model-sew-d.py)
 * [NeumAI](https://github.com/NeumTry/NeumAI) -  framework focuses on RAG data pipelines
 * [KG-RAG](https://github.com/BaranziniLab/KG_RAG) -  Knowledge Graph-based Retrieval Augmented Generation
 * [RAGflow](https://github.com/infiniflow/ragflow) - open-source RAG engine based on OCR and document parsing 
