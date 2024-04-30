@@ -65,6 +65,7 @@
 
 ### LLAMA
 + [FB LLAMA](https://github.com/facebookresearch/llama)
++ [llama3-gradient](https://ollama.com/library/llama3-gradient) - extends LLama-3 8B's context length from 8k to over 1m tokens
 + [Finetune LLaMA-7B on commodity GPUs using your own text](https://github.com/lxe/simple-llama-finetuner)
 + [Guide to fine-tuning LLAMA](https://ragntune.com/blog/guide-fine-tuning-code-llama)
 + [Minimal LLAMA](https://github.com/zphang/minimal-llama/)) - code for running and fine-tuning LLaMA.
