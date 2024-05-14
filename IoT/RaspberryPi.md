@@ -25,3 +25,6 @@ pyaranet4 - Interface with Aranet4 CO₂ meter - https://github.com/stijnstijn/p
 
 RaspberryPi Automated Feeder; CRON with Python script and monitoring
 https://www.profiq.com/raspberrypi-automated-feeder/
+
+PICARD - an AI powered voice assistant running locally on a Raspberry Pi
+https://github.com/nkasmanoff/pi-card
