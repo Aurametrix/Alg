@@ -48,11 +48,12 @@
 * [KG-RAG](https://github.com/BaranziniLab/KG_RAG) -  Knowledge Graph-based Retrieval Augmented Generation
 * [RAGflow](https://github.com/infiniflow/ragflow) - open-source RAG engine based on OCR and document parsing 
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
+* [Neural Magic](https://github.com/neuralmagic) - [Sparse LLAMA from Cerebras](https://www.cerebras.net/blog/introducing-sparse-llama-70-smaller-3x-faster-full-accuracy)
 * [GPT fast](https://github.com/pytorch-labs/gpt-fast) - pytorch-native transformer text generation
 * [MAMBA Chat](https://github.com/havenhq/mamba-chat) - language model based on a state-space model architecture, not a transformer
-        - [MAMBA by anakin.ai](https://anakin.ai/blog/mamba/)
-        - [Can we Reach AGI with just LLMS](https://www.youtube.com/watch?v=jq0QeWIgvfw)  - Dr.Waku's Youtube
-        - [MAMBA explained](https://thegradient.pub/mamba-explained/)
+  - [MAMBA by anakin.ai](https://anakin.ai/blog/mamba/)
+  - [Can we Reach AGI with just LLMS](https://www.youtube.com/watch?v=jq0QeWIgvfw)  - Dr.Waku's Youtube
+  - [MAMBA explained](https://thegradient.pub/mamba-explained/)
 
 ### Lists of GPTs
 
