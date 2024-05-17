@@ -49,6 +49,8 @@
 * [RAGflow](https://github.com/infiniflow/ragflow) - open-source RAG engine based on OCR and document parsing 
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
 * [Neural Magic](https://github.com/neuralmagic) - [Sparse LLAMA from Cerebras](https://www.cerebras.net/blog/introducing-sparse-llama-70-smaller-3x-faster-full-accuracy)
+* [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
+* [Original LLama implementation by META](https://github.com/meta-llama/llama3/blob/main/llama/model.py)
 * [GPT fast](https://github.com/pytorch-labs/gpt-fast) - pytorch-native transformer text generation
 * [MAMBA Chat](https://github.com/havenhq/mamba-chat) - language model based on a state-space model architecture, not a transformer
   - [MAMBA by anakin.ai](https://anakin.ai/blog/mamba/)
