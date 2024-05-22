@@ -38,6 +38,9 @@ PyPI packages
 +  [Speech Meter](https://speechmeter.com/) - Practice English pronunciation
 +  [An Algorithmic Audio Landscape](https://ambient.garden/)
 
+### Images + Audio
++  [Images that Sound](https://github.com/IFICL/images-that-sound)
+
 ### Video
 + [Video Average Frame](https://github.com/wq2012/video-average-frame) - compute the average frame of a video
 + [Videohash](https://pypi.org/project/videohash/) - package for detecting near-duplicate videos
