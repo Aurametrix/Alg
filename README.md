@@ -434,6 +434,7 @@ Create an Excel report and add some charts
 
 + [write better python](https://github.com/SigmaQuan/Better-Python-59-Ways)
 + [improve data science code](https://zerowithdot.com/improve-data-science-code/)
++ [Excel to Python Compiler](https://pyoneer.ai/?source=hn&utm_campaign=shn1)
 
 
 + [API tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
