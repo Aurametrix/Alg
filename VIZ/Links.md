@@ -23,6 +23,8 @@
 
 [Pygwalker](https://github.com/Kanaries/pygwalker) - Python binding of Graphic Walker, turns Your Pandas Dataframe into a Tableau-Style UI for Visual Analysis; [in Kaggle](https://www.kaggle.com/asmdef/pygwalker-test)
 
+[DeTikZify](https://github.com/potamides/DeTikZify) - multimodal language model that automatically synthesizes scientific figures as semantics-preserving TikZ graphics programs based on sketches and existing figures
+
 ### VosViewer
 + [tutorial](https://seinecle.github.io/vosviewer-tutorials/generated-html/importing-en.html), [pdf](https://seinecle.github.io/vosviewer-tutorials/generated-pdf/importing-en.pdf)
 + [from freely available citation data](https://www.cwts.nl/blog?article=n-r2r294)
