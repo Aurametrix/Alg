@@ -294,6 +294,7 @@ Intro w/datasets https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1
 dEEP lEARNING FOR ocr https://nanonets.com/blog/receipt-ocr/
 
 + A fuzzy receipt parser https://github.com/ReceiptManager/receipt-parser-legacy
++ [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 
 ### AI
