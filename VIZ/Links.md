@@ -21,6 +21,8 @@
 [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14)
 [Tree viz](https://treevis.net/); [paper](https://ieeexplore.ieee.org/document/6056510)
 
+[Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)
+
 [Pygwalker](https://github.com/Kanaries/pygwalker) - Python binding of Graphic Walker, turns Your Pandas Dataframe into a Tableau-Style UI for Visual Analysis; [in Kaggle](https://www.kaggle.com/asmdef/pygwalker-test)
 
 [DeTikZify](https://github.com/potamides/DeTikZify) - multimodal language model that automatically synthesizes scientific figures as semantics-preserving TikZ graphics programs based on sketches and existing figures
