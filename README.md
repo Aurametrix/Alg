@@ -700,6 +700,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [Compare floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 + [Python dependency resolution](https://developers.redhat.com/articles/2021/11/17/customize-python-dependency-resolution-machine-learning)
 + [Bundling binary tools in Python wheels](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/)
++ [Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 
 + [API-less video downloader](https://github.com/althonos/InstaLooter)
 + [Video editor](https://github.com/ZoeDekraker/eddie-smart-video-editor)
