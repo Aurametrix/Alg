@@ -240,6 +240,7 @@ Python
 [Free for Developers](https://free-for.dev/#/)
     + [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.
    + [Colaboratory](https://colab.research.google.com/)  — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
+   + [NVIDIA warp](https://github.com/NVIDIA/warp) - Python framework for writing high-performance simulation and graphics code
    + [Datapane](https://datapane.com/)
 
 [Google cloud](https://cloud.google.com/blog/products/open-source/supporting-the-python-ecosystem)
