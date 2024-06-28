@@ -322,3 +322,11 @@ https://retool.com/products/ai
   ###
  + [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
  + [Micrograd CUDA](https://github.com/mlecauchois/micrograd-cuda)
+ + 
+
+
+
+###
+
+
+ [R2R](https://github.com/SciPhi-AI/R2R) -  designed to bridge the gap between local LLM experimentation and scalable, production-ready Retrieval-Augmented Generation (RAG)
