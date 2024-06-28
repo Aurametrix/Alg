@@ -106,8 +106,6 @@ Python
 
 #### Run python in your browser
 + [Pyscript](https://pyscript.net/) 
-    + [Notes from PYcon 2022](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
-    + [Faster CPython at PyCon]([Faster CPython at PyCon](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/))
 + [Codebrew](https://github.com/plasticityai/coldbrew)
 + [Bryton](https://github.com/brython-dev/brython)
 + [Gradio]( https://gradio.app/) - creates a web demo that runs in the browser using only python
@@ -866,8 +864,16 @@ pip install matplotlib
 + [3.11: when to upgrade](https://pythonspeed.com/articles/upgrade-python-3.11/)
 + [What's new in Python 3.11 - from python](https://docs.python.org/3.11/whatsnew/3.11.html)
 + [What's new in Python 3.11 - from deep source](https://deepsource.io/blog/python-3-11-whats-new/)
-    +[zero cost exception handling](https://bugs.python.org/issue40222)
-    
-+ [Python 3.11 in the Web Browser](https://2022.pycon.de/program/SBCNDY/)
+    + [zero cost exception handling](https://bugs.python.org/issue40222)
+    + [Python 3.11 in the Web Browser](https://2022.pycon.de/program/SBCNDY/)
+
 + [What's new in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
 + [PyPy 7.3.16](https://www.pypy.org/posts/2024/04/pypy-v7316-release.html)
+
+### Conferences    
+
++ [Faster CPython at PyCon]([Faster CPython at PyCon](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/)
++ [Notes from PyCon 2022](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
++ [Videos from PyCcon 2024](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYhjub9bw4uDAmNtprgAvlJ)
+
+
