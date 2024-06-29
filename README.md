@@ -322,6 +322,8 @@ https://www.confluent.io/resources/online-talk/coding-in-motion/building-a-react
 
 [Library for quantitative finance](https://www.quantlib.org/)
 
+[Toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
+
 [make a self contained executable for windows](https://pypi.org/project/py2exe/)
 
 [spaCy](https://blog.dominodatalab.com/natural-language-in-python-using-spacy/?r=1) for Text Analytics
