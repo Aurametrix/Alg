@@ -45,6 +45,7 @@
 * [AI tools to detect animal calls](https://www.seangoedecke.com/animal-call-audio-recognition/)
          + [train owl models](https://github.com/sgoedecke/birdcall-classifier-model/blob/master/train-owl-model-sew-d.py)
 * [NeumAI](https://github.com/NeumTry/NeumAI) -  framework focuses on RAG data pipelines
+* [GraphRAG](https://github.com/microsoft/graphrag) - [MS announcement](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 * [KG-RAG](https://github.com/BaranziniLab/KG_RAG) -  Knowledge Graph-based Retrieval Augmented Generation
 * [RAGflow](https://github.com/infiniflow/ragflow) - open-source RAG engine based on OCR and document parsing 
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
