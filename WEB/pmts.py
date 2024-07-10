@@ -5,7 +5,7 @@ import pandas as pd
 import re
 from datetime import datetime, timedelta
 
-# Step 1: Generate list of URLs based on the pattern
+# Generate list of URLs based on the pattern
 base_url = "..."
 date_format = "%m-%d-%y"
 
@@ -41,7 +41,7 @@ def extract_text_from_pdf(pdf):
         text += page.extractText()
     return text
 
-# Step 3: Parse relevant information
+
 def parse_sf_paragraphs(text):
     pattern = r'SF# \d+:.*?(?=SF# \d+:|$)'
     matches = re.findall(pattern, text, re.DOTALL)
@@ -55,7 +55,60 @@ def parse_sf_paragraphs(text):
         data.append([ower, lot, footage, contractor])
     return data
 
-# Step 4: Export data to CSV
+def extract_permit_data(text):
+    permit_data = []
+    date = extract_date(text)
+    print(f"Extracted date: {date}")  # Add this line to verify the extracted date
+    
+    sf_paragraphs = re.findall(r'SF#.*?(?=SF#|\Z)', text, re.DOTALL)
+    
+    for i, paragraph in enumerate(sf_paragraphs, 1):
+        try:
+            permit_match = re.search(r'SF# (\d+):', paragraph)
+            owner_match = re.search(r'SF# \d+: (.+?)\s+Assign:', paragraph)
+            lot_match = re.search(r'Lot (\d+), Block \d+, (.+?);', paragraph)
+            address_match = re.search(r'; (\d+.+?)(?=\s+Total Footage:)', paragraph)
+            footage_match = re.search(r'Footage: (\d+);', paragraph)
+            contractor_match = re.search(r'Contractor: (.+?)(?:;|$)', paragraph)
+            
+            if all([permit_match, owner_match, lot_match, address_match, footage_match, contractor_match]):
+                permit_data.append({
+                    'Date': date,
+                    'Permit': permit_match.group(1),
+                    'Owner': owner_match.group(1).strip(),
+                    'Lot': lot_match.group(1),
+                    'Neighborhood': lot_match.group(2).strip(),
+                    'Address': address_match.group(1).strip(),
+                    'Footage': footage_match.group(1),
+                    'Contractor': contractor_match.group(1).strip()
+                })
+            else:
+                print(f"Warning: Not all fields found in paragraph {i}")
+        except Exception as e:
+            print(f"Error processing paragraph {i}: {str(e)}")
+            print(f"Paragraph content: {paragraph}")
+    
+    return permit_data
+
+              
+def write_to_csv(data, filename):
+    with open(filename, 'w', newline='') as csvfile:
+        fieldnames = ['Date', 'Permit', 'Owner', 'Lot', 'Neighborhood', 'Address', 'Footage', 'Contractor']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        
+        writer.writeheader()
+        for row in data:
+            writer.writerow(row)
+
+def read_pdf(file_path):
+    with open(file_path, 'rb') as file:
+        reader = PyPDF2.PdfReader(file)
+        text = ''
+        for page in reader.pages:
+            text += page.extract_text()
+    return text
+
+# Export data to CSV
 all_data = []
 for url in pdf_urls:
     try:
