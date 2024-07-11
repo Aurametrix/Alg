@@ -51,6 +51,8 @@ Python
 
 [Running on EC2 instance](https://medium.com/@hello_prism/running-a-python-script-on-an-ec2-instance-8691589b3080)
 
+[RYE](https://rye.astral.sh/) - project management for PYthon
+
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
     
