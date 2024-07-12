@@ -407,6 +407,8 @@ https://www.confluent.io/resources/online-talk/coding-in-motion/building-a-react
 
 [New Pandas](https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.0.0.html) - 1.00 - January 29, 2020
 
+[Making Python Less Random](https://healeycodes.com/making-python-less-random)
+
 [Visual guide to pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
 
 [what's new in 1.0.0](https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.0.0.html)
