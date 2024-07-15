@@ -866,6 +866,7 @@ pip install matplotlib
 + [Python 3.10](https://www.python.org/downloads/);  [version for testing](https://pythoninsider.blogspot.com/2020/11/python-3100a2-is-now-available-for.html)
 + [3.10 vs 3.9](https://docs.python.org/3/whatsnew/3.10.html)
 + [3.11 vs 3.10](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
++ [Free-threaded CPython](https://labs.quansight.org/blog/free-threaded-python-rollout): [github]( py-free-threading.github.io launched)
 + [3.11 is much faster than 3.8](https://jott.live/markdown/py3.11_vs_3.8)
 + [3.11: when to upgrade](https://pythonspeed.com/articles/upgrade-python-3.11/)
 + [What's new in Python 3.11 - from python](https://docs.python.org/3.11/whatsnew/3.11.html)
