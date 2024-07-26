@@ -25,6 +25,8 @@ Python
 
 [Self-assesment of Expertise level](https://safjan.com/python-expertise-level-self-assessment/)
 
+[WAT](https://github.com/igrek51/wat) - inspection tool of objects, a fancy version of [ice cream](https://github.com/gruns/icecream)
+
 
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
 
