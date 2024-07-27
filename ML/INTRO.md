@@ -1,4 +1,6 @@
 + [Machine Learning Recipes](https://github.com/rougier/ML-Recipes)
++ [ML Interviews](https://huyenchip.com/ml-interviews-book/) - [github](https://github.com/chiphuyen/ml-interviews-book)
++ [Deep Learning Interviews](https://arxiv.org/abs/2201.00650)
 + [ML algorithms](https://ataiva.com/a-deep-dive-into-machine-learning-algorithms/)
 + [ML Experiment Management with Git](https://github.com/iterative/dvc)
 
