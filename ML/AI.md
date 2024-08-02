@@ -58,6 +58,8 @@
   - [MAMBA by anakin.ai](https://anakin.ai/blog/mamba/)
   - [Can we Reach AGI with just LLMS](https://www.youtube.com/watch?v=jq0QeWIgvfw)  - Dr.Waku's Youtube
   - [MAMBA explained](https://thegradient.pub/mamba-explained/)
+  - [FAL](https://github.com/fal-ai/fal) - serverless Python runtime that lets you run and scale code in the cloud with no infra management: build pipelines, serve ML models and scale them up
+  - [TExt2Image model](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
 
 ### Lists of GPTs
 
