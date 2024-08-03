@@ -154,6 +154,8 @@ Python
 
 [FVSL](https://github.com/Dicklesworthstone/fast_vector_similarity) - Fast vector similarity using Rust and Python
 
+[RustPython](https://github.com/RustPython/RustPython) - Python Interpreter Written in Rust
+
 [Interactive Python course](https://futurecoder.io/)
 [The Python tutorial](https://docs.python.org/3/tutorial/index.html)
 
