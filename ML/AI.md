@@ -327,6 +327,7 @@ https://retool.com/products/ai
  + [Micrograd CUDA](https://github.com/mlecauchois/micrograd-cuda)
  + [Eureka Labs AI](https://github.com/EurekaLabsAI) - [intro](https://eurekalabs.ai/)
  + [Prelude](https://github.com/aerugo/prelude) - make context prompts for LLMs with long context windows
+ + [Kolmogorov-Arnold Networks](https://spectrum.ieee.org/empower-your-supply-chain)
 
 
 
