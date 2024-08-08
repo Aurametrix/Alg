@@ -249,6 +249,7 @@ beyond paradigms such as Chain-of-Thought or Tree of Thoughts (ToT)
 
 
 [Why are most LLM libraries dead projects now?](https://news.ycombinator.com/item?id=37404949)
+[Integrate AI into Python Projects](https://github.com/luochen1990/ai_powered)
 
 
 ### Commercial Platforms to build ChatGPT Apps
