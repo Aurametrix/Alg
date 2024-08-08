@@ -37,6 +37,7 @@ PyPI packages
 +  [Silero Models: ](https://github.com/snakers4/silero-models) pre-trained speech-to-text, text-to-speech and text-enhancement
 +  [Speech Meter](https://speechmeter.com/) - Practice English pronunciation
 +  [An Algorithmic Audio Landscape](https://ambient.garden/)
++  [Auidiosample](https://deepdub.ai/post/introducing-audiosample-an-efficient-solution-for-audio-processing) for audio processing
 
 ### Images + Audio
 +  [Images that Sound](https://github.com/IFICL/images-that-sound)
