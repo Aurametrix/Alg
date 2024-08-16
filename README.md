@@ -114,6 +114,7 @@ Python
 + [Bryton](https://github.com/brython-dev/brython)
 + [Gradio]( https://gradio.app/) - creates a web demo that runs in the browser using only python
 + [Gradio App](https://github.com/gradio-app/gradio) - create beautiful user interfaces around your machine learning models
++ [PyPy.js](https://pypyjs.org/) - [code](https://github.com/pypyjs/pypyjs) - JIT compiler for Python that runs in the browser
 
 
 
