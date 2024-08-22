@@ -83,6 +83,8 @@ Python
 
 [mypy](https://mypy-lang.blogspot.com/2023/02/mypy-10-released.html) - optional static type checker for Python
 
+[Py5](https://py5coding.org/index.html) - py5 is a new version of Processing for Python 3.9+
+
 [Modern Python Performance Considerations](https://lwn.net/SubscriberLink/893686/8978976335696804/)
 
 [Python Design Patterns](https://python-patterns.guide/)
