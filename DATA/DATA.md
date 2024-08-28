@@ -5,6 +5,7 @@
     + [BigBio](https://huggingface.co/bigbio) - biomedical
 + [Python Client built against the Wolfram|Alpha v2.0 API](https://pypi.org/project/wolframalpha/); see [code samples](https://www.geeksforgeeks.org/python-create-a-simple-assistant-using-wolfram-alpha-api/)
 + [NPS API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
++ [Free Public APIs](https://www.freepublicapis.com/) tested daily
 
 + [microbiome and ethnicity](https://github.com/awbrooks19/microbiota_and_ethnicity)
 + [datasets for music-based development](https://metabrainz.org/datasets)
