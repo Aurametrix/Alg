@@ -134,6 +134,7 @@ The following models are considered GPT 3.5:
 
 ###
 [jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
+[Mem0](https://github.com/mem0ai/mem0) - The Memory layer for  AI apps
 [social](https://github.com/riverscuomo/social) - A python package that uses OpenAI to generate a response to a social media mention
 
 
