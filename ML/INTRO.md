@@ -119,7 +119,7 @@
 + [YouTube Machine Learning](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 + [CS231n Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 + [CS109A](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html) - Introduction to Data Science
-    + [2021 version] - data scraping, data management, data visualization, regression and classification methods, and deep neural networks     
+    + data scraping, data management, data visualization, regression and classification methods, and deep neural networks     
 + [TensorFlow and deep learning](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 + [Tutorials in DL](https://github.com/open-source-for-science/TensorFlow-Course)
 + [Deep Learning for self-driving cars](https://selfdrivingcars.mit.edu/)
@@ -228,6 +228,8 @@ TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run",
 [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 [Orchest](https://github.com/orchest/orchest) - visual pipeline tool for data scientists
+
+[Data Science for Crime Analysis](https://crimede-coder.com/blogposts/2023/EarlyReleasePython) - Book using shrink wrapped software
 
 [ML notebooks](https://github.com/ageron/handson-ml)
 
