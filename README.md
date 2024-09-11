@@ -724,7 +724,9 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [Mario](https://github.com/python-mario/mario) - python pipelines for your shell
 + [Pyp](https://github.com/hauntsaninja/pyp) - python from shell
 
+
 + [Semantle](https://gitlab.com/novalis_dt/semantle) - guess the secret word
++ [Semantic Bookmark Manager](https://github.com/dh1011/semantic-bookmark-manager) - A web application for managing bookmarks with semantic search capabilities. . Flask app with minimum JS
 + [Mito](https://github.com/mito-ds/monorepo) - [try mito](https://www.trymito.io/) - Excel-like interface to Pandas
 + [simple code](https://gitlab.com/pyjam.as/tunnel/-/blob/main/tunnel.py) for [HTTP tunnels](https://tunnel.pyjam.as/)
 + [ActivePapers](https://github.com/activepapers/activepapers-python)
