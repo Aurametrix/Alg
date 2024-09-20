@@ -53,7 +53,10 @@
   
  
  + [PyTorch and TensorFlow: rise in popularity](https://d3ansictanv2wj.cloudfront.net/image1-e18a246da831903928949a96696ffb38.png)
+
+ + ### GPU accelerated computing
  + [PyTorch on on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
+ + [CUPY](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 
  
  + [Mimicry](https://github.com/kwotsin/mimicry) - a PyTorch library for the reproducibility of Generative Adversarial Networks (GANs)
