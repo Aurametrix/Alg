@@ -50,10 +50,7 @@
 * [RAGflow](https://github.com/infiniflow/ragflow) - open-source RAG engine based on OCR and document parsing
 * [RAGFoundry](https://github.com/IntelLabs/RAGFoundry) - library designed to improve LLMs ability to use external information by fine-tuning models on specially created RAG-augmented datasets - [Intel ArXiv paper](https://arxiv.org/abs/2408.02545)
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
-* [Neural Magic](https://github.com/neuralmagic) - [Sparse LLAMA from Cerebras](https://www.cerebras.net/blog/introducing-sparse-llama-70-smaller-3x-faster-full-accuracy)
-* [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
-* [Original LLama implementation by META](https://github.com/meta-llama/llama3/blob/main/llama/model.py)
-* [LLAMA Omni](https://github.com/ictnlp/LLaMA-Omni) - Seamless Speech Interaction with Large Language Models
+
 * [Mistral Fine Tuning](https://github.com/mistralai/mistral-finetune)
 * [GPT fast](https://github.com/pytorch-labs/gpt-fast) - pytorch-native transformer text generation
 * [MAMBA Chat](https://github.com/havenhq/mamba-chat) - language model based on a state-space model architecture, not a transformer
@@ -64,13 +61,16 @@
   - [TExt2Image model](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
   - [TimeGPT](https://docs.nixtla.io/docs/getting-started-timegpt_quickstart)
 
-### Lists of GPTs
+### GPTs & LLMs
 
 + [Awesome GPTs](https://github.com/friuns2/Awesome-GPTs-Big-List/)
 + [GPTs for me](https://gptsfor.me/)
 + [Top GPTs](https://www.topgpts.ai/)
 + [Awesome GPTs](https://awesomegpts.pro/)
 + [GPTs list](https://gpts-list.com/)
++ [14LLMs that are not ChatGPT](https://www.infoworld.com/article/2338696/14-llms-that-arent-chatgpt.html)
++ [GPT4all](https://www.nomic.ai/gpt4all) - desktop client for download
++ [LLM by Simon Williso](https://llm.datasette.io/en/stable/) - one of the easier ways to download and use open source LLMs locally; need Python installed to run it
 
 
 ### LLAMA
@@ -84,7 +84,12 @@
 + [Nougat](https://github.com/facebookresearch/nougat) - Neural Optical Understanding for Academic Documents
 + [get LLAMA running locally](https://github.com/ggerganov/llama.cpp )
 + [TinyLlama](https://github.com/jzhang38/TinyLlama) -  1.1B Llama model on 3 trillion tokens -[arXiv paper](https://arxiv.org/abs/2401.02385)
-+ 
++  [Neural Magic](https://github.com/neuralmagic) - [Sparse LLAMA from Cerebras](https://www.cerebras.net/blog/introducing-sparse-llama-70-smaller-3x-faster-full-accuracy)
++  [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
++  [Original LLama implementation by META](https://github.com/meta-llama/llama3/blob/main/llama/model.py)
++  [LLAMA Omni](https://github.com/ictnlp/LLaMA-Omni) - Seamless Speech Interaction with Large Language Models
++  [Models at OLLAMA](https://ollama.ai/library,)
+  
 
 ###
 + [GROK](https://github.com/xai-org/grok-1)
@@ -319,7 +324,7 @@ https://retool.com/products/ai
 + [Group Chat](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_groupchat_research.ipynb)
 + [Matthew Berman's video](https://www.youtube.com/watch?v=10FCv-gCKug) - using any open-source model with AutoGen using LMStudio
 + [LM Stuio](https://news.ycombinator.com/item?id=38377072)
-+ [Communicative Agents for Software Development]([Communicative Agents for Software Development](https://github.com/OpenBMB/ChatDev))
++ [Communicative Agents for Software Development](https://github.com/OpenBMB/ChatDev)
 
 
 ### ACTIONS
