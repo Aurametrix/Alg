@@ -665,6 +665,7 @@ pip install pygsr
 + [web-based spreadsheet application](https://github.com/ricklamers/gridstudio)
 + [Wonderland of math](https://github.com/neozhaoliang/pywonderland)
 + [Quantitative Finance](https://github.com/cantaro86/Financial-Models-Numerical-Methods)
++ [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - open source time tracker
 + [Bitcoin transactions](https://karpathy.github.io/2021/06/21/blockchain/)
 + [Simulating Quantum mechanics](https://github.com/marl0ny/1D-Quantum-Mechanics-Applet)
 + [PyInfra](https://pyinfra.com/) - automate infrastructure
