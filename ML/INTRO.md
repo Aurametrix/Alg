@@ -5,6 +5,7 @@
 + [ML algorithms](https://ataiva.com/a-deep-dive-into-machine-learning-algorithms/)
 + [Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
 + [ML Experiment Management with Git](https://github.com/iterative/dvc)
++ [Financial ML](https://github.com/firmai/financial-machine-learning)
 
 ### Deep Learning
 + [Theories of deep learning](https://stats385.github.io/), [GH](https://github.com/stats385/stats385.github.io)
