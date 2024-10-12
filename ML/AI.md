@@ -91,7 +91,9 @@
 +  [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
 +  [Original LLama implementation by META](https://github.com/meta-llama/llama3/blob/main/llama/model.py)
 +  [LLAMA Omni](https://github.com/ictnlp/LLaMA-Omni) - Seamless Speech Interaction with Large Language Models
-+  [Models at OLLAMA](https://ollama.ai/library,)
++  [Models at OLLAMA](https://ollama.ai/library)
++  [Run LLAMA locally with PyTorch](https://github.com/anordin95/run-llama-locally)
++  [Run and explore Llama models locally with minimal dependencies on CPU](https://github.com/Mozilla-Ocho/llamafile)
   
 
 ###
