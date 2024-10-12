@@ -330,6 +330,7 @@ https://retool.com/products/ai
 + [Matthew Berman's video](https://www.youtube.com/watch?v=10FCv-gCKug) - using any open-source model with AutoGen using LMStudio
 + [LM Stuio](https://news.ycombinator.com/item?id=38377072)
 + [Communicative Agents for Software Development](https://github.com/OpenBMB/ChatDev)
++ [Swarm](https://github.com/openai/swarm) - An educational framework exploring ergonomic, lightweight multi-agent orchestration
 
 
 ### ACTIONS
