@@ -179,3 +179,121 @@ with open("output-%s-%s.md" % (time(), a), "w", encoding='utf-8') as file:
         # Extract and write the summary
         summary = entry.find('atom:summary', namespaces).text
         file.write(f"## Summary\n{summary}\n\n")
+
+
+#### for Dermatology paper
+import requests
+import pandas as pd
+import xmltodict
+import urllib.parse
+
+# Define the dermatology-related keywords
+dermatology_terms = [
+    "Dermatology",
+    "skin",
+    "hair",
+    "nails",
+    "dermatitis",
+    "acne",
+    "vitiligo",
+    "alopecia",
+    "lichen planus",
+    "cosmetics",
+    "eczema",
+    "malodor",
+    "hyperhidrosis",
+    "bromhidrosis",
+    "olfactory reference syndrome",
+    "rosacea",
+    "sunburn"
+]
+
+
+# Define the ChatGPT-related keywords
+chatgpt_terms = [
+    "ChatGPT",
+    "chat GPT"
+]
+
+# Construct the query string
+# arXiv uses a specific query syntax: (term1 OR term2 OR ...) AND (termA OR termB)
+dermatology_query = " OR ".join([f'"{term}"' if " " in term else term for term in dermatology_terms])
+chatgpt_query = " OR ".join([f'"{term}"' if " " in term else term for term in chatgpt_terms])
+
+# Combine both parts using AND
+full_query = f'({dermatology_query}) AND ({chatgpt_query})'
+
+# URL encode the query
+encoded_query = urllib.parse.quote(full_query)
+
+# Define the maximum number of results you wish to retrieve
+max_results = 100  # Adjust as needed
+
+# Construct the complete API URL
+api_url = f'http://export.arxiv.org/api/query?search_query={encoded_query}&start=0&max_results={max_results}'
+
+# Make the API request
+response = requests.get(api_url)
+
+# Check if the request was successful
+if response.status_code != 200:
+    raise Exception(f"Error fetching data from arXiv API: {response.status_code}")
+
+# Parse the XML response
+try:
+    parsed = xmltodict.parse(response.content)
+    entries = parsed["feed"]["entry"]
+except KeyError:
+    # No entries found
+    entries = []
+except Exception as e:
+    raise Exception(f"Error parsing XML: {e}")
+
+# Handle cases where there is only one entry (dict) or multiple entries (list)
+if isinstance(entries, dict):
+    entries = [entries]
+
+# If no entries are found, notify the user
+if not entries:
+    print("No results found for the given query.")
+else:
+    # Extract relevant information from each entry
+    data = []
+    for entry in entries:
+        # Handle the 'category' field which could be a list or a single dictionary
+        categories = ""
+        if isinstance(entry.get("category", []), list):
+            # If it's a list, join all the terms
+            categories = ", ".join([cat.get("@term", "") for cat in entry["category"]])
+        else:
+            # If it's a single dictionary, get the term directly
+            categories = entry.get("category", {}).get("@term", "")
+        
+        # Handle the 'link' field which might also be a list or single dictionary
+        links = ""
+        if isinstance(entry.get("link", []), list):
+            # If it's a list, extract the first relevant link (usually to the PDF or abstract)
+            links = next((lnk.get("@href", "") for lnk in entry["link"] if lnk.get("@href", "")), "")
+        else:
+            links = entry.get("link", {}).get("@href", "")
+        
+        # Create the entry_data dictionary inside the loop
+        entry_data = {
+            "Title": entry.get("title", "").replace("\n", " ").strip(),
+            "Authors": ", ".join([author["name"] for author in entry.get("author", [])]) if isinstance(entry.get("author", []), list) else entry.get("author", {}).get("name", ""),
+            "Summary": entry.get("summary", "").replace("\n", " ").strip(),
+            "Published": entry.get("published", ""),
+            "Updated": entry.get("updated", ""),
+            "Primary Category": entry.get("arxiv:primary_category", {}).get("@term", ""),
+            "Categories": categories,  # Use the corrected categories value
+            "Link": links  # Use the corrected link value
+        }
+        data.append(entry_data)
+
+    # Create a DataFrame from the data
+    df = pd.DataFrame(data)
+
+    # Save the DataFrame to a TSV file
+    output_filename = "dermatology_chatgpt_arxiv.tsv"
+    df.to_csv(output_filename, sep="\t", index=False)
+    print(f"Successfully saved {len(df)} records to '{output_filename}'.")
