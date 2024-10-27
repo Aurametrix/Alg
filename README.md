@@ -661,6 +661,7 @@ pip install pygsr
 + [HN API](https://github.com/HackerNews/API) = [Algolia](https://hn.algolia.com/api)
 + [Rust bindings for Python](https://github.com/PyO3/pyo3)
 + [Pen Plotter](https://github.com/evildmp/BrachioGraph)
++ [Harmony Blocks](https://github.com/tg12/harmonyblocks)
 + [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 + [Time tracker](https://github.com/tech-branch/tsr)
 + [symforce](https://github.com/symforce-org/symforce) - fast symbolic computations
