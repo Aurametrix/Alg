@@ -547,7 +547,8 @@ pip install BeautifulSoup4
     + The Restaurant: Selenium
     + The Chef: [Scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html)
     + [Scyscraper](https://github.com/nathell/skyscraper)
-
+      
++ [You-Get](https://github.com/soimort/you-get?tab=readme-ov-file) - dumb downloader that scapes the web
 
 ### Learning resources
 * [Pytudes](https://github.com/norvig/pytudes) - Norvig's practice programs
