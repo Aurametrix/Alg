@@ -8,3 +8,12 @@
 
 
 + [META Voicebox](https://research.facebook.com/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/) - [apply for a grant](https://ai.meta.com/research/audiobox-responsible-generation-grant/)
+
+
+### Real-time speech-to-speech translation
+* https://github.com/ictnlp/StreamSpeech
+* https://github.com/k2-fsa/sherpa-onnx
+* https://github.com/openai/whisper
+* https://github.com/huggingface/speech-to-speech
+* https://github.com/neuml/txtai
+* https://github.com/neuml/txtai/issues/804
