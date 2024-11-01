@@ -395,6 +395,7 @@ https://www.confluent.io/resources/online-talk/coding-in-motion/building-a-react
 + [TkInter](https://wiki.python.org/moin/TkInter)
 + [Wxpython](https://www.wxpython.org/)
 + [SMS with providers.py](https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/)
++ [Commit to github via e-mail](https://github.com/ulrischa/mail2github)
 
 
 
