@@ -345,6 +345,7 @@ https://retool.com/products/ai
  + [Eureka Labs AI](https://github.com/EurekaLabsAI) - [intro](https://eurekalabs.ai/)
  + [Prelude](https://github.com/aerugo/prelude) - make context prompts for LLMs with long context windows
  + [Kolmogorov-Arnold Networks](https://spectrum.ieee.org/empower-your-supply-chain)
+ + [Browser Use](https://github.com/gregpr07/browser-use) - build agents that interact with web elements
 
 
 
