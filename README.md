@@ -762,6 +762,8 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [SQL engine](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 + [Diffoscope](https://diffoscope.org/) - In-depth comparison of files, archives, and directories
 
++ [Whoogle](https://github.com/benbusby/whoogle-search) - google search without ads
+
 + [Pytorch Search Engine](https://you.com/niche/pytorch?q=initialize+weights&fromSearchBar=true)
 + [Pytorch 2.0](https://pytorch.org/blog/pytorch-2.0-release/)
 + [Executorch](https://pytorch.org/executorch/stable/index.html) - https://pytorch.org/executorch/stable/index.htmlPyTorch platform that provides infrastructure to run PyTorch programs everywhere from AR/VR wearables to standard on-device iOS and Android mobile deployment
