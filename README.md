@@ -752,7 +752,8 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [Novel writer](https://github.com/vkbo/novelWriter)
 + [DataProfiler](https://github.com/capitalone/DataProfiler) - library designed to make data analysis, monitoring and sensitive data detection easy.
 + [cryptographic primitives](https://www.nayuki.io/page/cryptographic-primitives-in-plain-python)
-+ [K-Anonymity](https://github.com/Nuclearstar/K-Anonymity) - anonymization methods for network security 
++ [K-Anonymity](https://github.com/Nuclearstar/K-Anonymity) - anonymization methods for network security
++ [Malicious PyPI packages](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-with-37-000-downloads-steals-aws-keys/) - security
 + [Built in key-value store](https://remusao.github.io/posts/python-dbm-module.html)
 
 + [3D engine ever implemented in DNA code](https://github.com/pallada-92/dna-3d-engine)
