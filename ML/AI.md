@@ -178,6 +178,9 @@ The following models are considered GPT 3.5:
 
 [github support bot with GPT3](https://dagster.io/blog/chatgpt-langchain)
 
+[TinyTroupe 🤠🤓🥸🧐](https://github.com/microsoft/TinyTroupe) - 
+LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+
 ###
 https://github.com/mmabrouk/chatgpt-wrapper
 pip install git+https://github.com/mmabrouk/chatgpt-wrapper
