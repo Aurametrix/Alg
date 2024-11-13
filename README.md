@@ -510,6 +510,7 @@ graph = {'A': ['B', 'C'],
 
 + [Open source deep learning models](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List)
 + [the future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
++ [SURD](https://github.com/Computational-Turbulence-Group/SURD) - Synergistic-Unique-Redundant Decomposition of causality
 
 + [in-browser deep learning](https://tenso.rs/#readmore)
 
