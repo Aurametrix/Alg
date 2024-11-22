@@ -79,3 +79,27 @@ plt.ylabel('Precision', fontsize=14)
 plt.grid(True)
 plt.show()
 
+# -----------------------------------------------
+# extract all LLM/transformers analyzed in each paper
+import pandas as pd
+
+# Read the CSV file into a pandas DataFrame
+#df = pd.read_csv('data.csv')
+#df = pd.read_csv('data.csv', encoding='latin-1')
+df = pd.read_csv('data.csv', encoding='iso-8859-1')
+#df = pd.read_csv('data.csv', engine='python')
+
+# Group by 'Reference' and aggregate LLM columns as a list (without duplicates)
+def combine_llms(group):
+    llms = []
+    for col in ['LLM1', 'LLM2', 'LLM3']:
+        for llm in group[col].dropna().tolist():
+            if llm not in llms:  # Add only if not already in the list
+                llms.append(llm)
+    return llms
+
+refs_df = df.groupby('Reference').apply(combine_llms).reset_index(name='LLMs')
+
+# Export the results to a new CSV file
+refs_df.to_csv('refs.csv', index=False)
+print("File 'refs.csv' has been created successfully.")
