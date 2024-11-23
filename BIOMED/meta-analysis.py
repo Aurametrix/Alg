@@ -103,3 +103,217 @@ refs_df = df.groupby('Reference').apply(combine_llms).reset_index(name='LLMs')
 # Export the results to a new CSV file
 refs_df.to_csv('refs.csv', index=False)
 print("File 'refs.csv' has been created successfully.")
+
+### ==================
+import pandas as pd
+from collections import Counter
+import re
+from nltk.corpus import stopwords
+from datetime import datetime
+import matplotlib.pyplot as plt
+
+try:
+    import nltk
+    nltk.data.find('corpora/stopwords')
+except LookupError:
+    import nltk
+    nltk.download('stopwords')
+
+# Load the CSV file
+try:
+    #df = pd.read_csv("data.csv", parse_dates=['date'])
+    df = pd.read_csv('data.csv', encoding='iso-8859-1', parse_dates=['date'])
+except FileNotFoundError:
+    print("Error: data.csv not found. Please make sure the file is in the correct directory.")
+    exit()
+except ValueError:
+      print("Error: could not parse date, check the 'date' column format (e.g., 'YYYY-MM-DD').")
+      exit()
+except pd.errors.ParserError:
+    print("Error: Parsing error in CSV file.  Please check if the file is correctly formatted.")
+    exit()
+
+if df.empty:
+    print("Error: data.csv is empty.")
+    exit()
+
+# Preprocessing function
+stop_words = set(stopwords.words('english'))
+
+def preprocess_text(text):
+    if not isinstance(text, str): # Handle missing values or unexpected data types
+        return ""
+    text = text.lower()
+    text = re.sub(r"[^\w\s]", "", text) # Remove punctuation
+    text = re.sub(r"\d+", "", text) #remove digits
+    words = text.split()
+    words = [word for word in words if word not in stop_words]
+    return words
+
+# Apply preprocessing
+df['processed_text'] = df['text'].apply(preprocess_text)
+
+# Function to calculate word frequencies over time
+def analyze_word_trends(df, time_period='year'):
+
+    if time_period not in ['year', 'month']:
+         raise ValueError("time_period must be 'year' or 'month'")
+
+    if time_period == 'year':
+       df['time_index'] = df['date'].dt.year
+       group_key = 'time_index'
+    else:
+        df['time_index'] = df['date'].dt.to_period('M')
+        group_key = 'time_index'
+
+
+    word_counts_by_period = {}
+    for time_index, group in df.groupby(group_key):
+        all_words = []
+        for text_list in group['processed_text']:
+            all_words.extend(text_list)
+        word_counts_by_period[time_index] = Counter(all_words)
+
+    # Calculate word frequency trends
+    word_trends = {}
+    all_words_set = set()
+
+    for counts in word_counts_by_period.values():
+      all_words_set.update(counts.keys())
+
+    all_words_list = list(all_words_set)
+
+    for word in all_words_list:
+      word_trends[word] = []
+      for time_index in sorted(word_counts_by_period.keys()):
+         count = word_counts_by_period[time_index].get(word, 0)
+         word_trends[word].append((time_index, count))
+
+    return word_trends
+#Analyze word trends
+try:
+    word_trends = analyze_word_trends(df, time_period='year')
+
+    # Identify words with increasing frequency (example)
+    threshold = 1 #minimum count to be considered
+    increasing_words = {}
+
+    for word, counts_over_time in word_trends.items():
+       if len(counts_over_time) < 2: #Need at least 2 time points to check the change
+          continue
+
+       increasing = True
+       previous_count = counts_over_time[0][1]
+
+       if previous_count < threshold:
+           increasing = False
+
+       for time_index, current_count in counts_over_time[1:]:
+            if current_count < previous_count and previous_count >= threshold:
+
+               increasing = False
+               break
+
+            if previous_count < threshold and current_count < threshold:
+                increasing = False
+                break
+
+            previous_count = current_count
+
+       if increasing and previous_count >= threshold:
+          increasing_words[word] = counts_over_time
+
+
+    # Print or visualize results
+    if increasing_words:
+        print("Words with increasing frequency over time:")
+
+        for word, counts_over_time in increasing_words.items():
+           print(f"\nWord: {word}")
+           for time_index, count in counts_over_time:
+              print(f"  {time_index}: {count}")
+
+           time_points = [str(x[0]) for x in counts_over_time]
+           counts = [x[1] for x in counts_over_time]
+
+           plt.figure(figsize=(10, 5))
+           plt.plot(time_points, counts, marker='o')
+           plt.xlabel("Time Period (Year)")
+           plt.ylabel("Frequency")
+           plt.title(f"Frequency of '{word}' Over Time")
+           plt.grid(True)
+           plt.tight_layout()
+           plt.show()
+
+
+    else:
+        print("No words found with consistently increasing frequency over time (with the current settings). Try decreasing the threshold.")
+except ValueError as e:
+     print(f"ValueError: {e}")
+except Exception as e:
+     print(f"An unexpected error occurred: {e}")
+
+
+#example for month level analysis
+
+try:
+    word_trends_monthly = analyze_word_trends(df, time_period='month')
+
+    # Identify words with increasing frequency (example)
+    threshold = 1 #minimum count to be considered
+    increasing_words_monthly = {}
+
+    for word, counts_over_time in word_trends_monthly.items():
+       if len(counts_over_time) < 2: #Need at least 2 time points to check the change
+          continue
+
+       increasing = True
+       previous_count = counts_over_time[0][1]
+
+       if previous_count < threshold:
+           increasing = False
+
+       for time_index, current_count in counts_over_time[1:]:
+            if current_count < previous_count and previous_count >= threshold:
+
+               increasing = False
+               break
+
+            if previous_count < threshold and current_count < threshold:
+                increasing = False
+                break
+
+            previous_count = current_count
+
+       if increasing and previous_count >= threshold:
+          increasing_words_monthly[word] = counts_over_time
+
+
+    # Print or visualize results
+    if increasing_words_monthly:
+        print("\n\nWords with increasing frequency over time (monthly):")
+
+        for word, counts_over_time in increasing_words_monthly.items():
+           print(f"\nWord: {word}")
+           for time_index, count in counts_over_time:
+              print(f"  {time_index}: {count}")
+
+           time_points = [str(x[0]) for x in counts_over_time]
+           counts = [x[1] for x in counts_over_time]
+
+           plt.figure(figsize=(10, 5))
+           plt.plot(time_points, counts, marker='o')
+           plt.xlabel("Time Period (Month)")
+           plt.ylabel("Frequency")
+           plt.title(f"Frequency of '{word}' Over Time (monthly)")
+           plt.grid(True)
+           plt.tight_layout()
+           plt.show()
+
+
+    else:
+        print("No words found with consistently increasing frequency over time (monthly analysis, with the current settings). Try decreasing the threshold or choosing a longer period for analysis.")
+except ValueError as e:
+     print(f"ValueError: {e}")
+except Exception as e:
+     print(f"An unexpected error occurred: {e}")
