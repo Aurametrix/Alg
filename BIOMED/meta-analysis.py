@@ -317,3 +317,39 @@ except ValueError as e:
      print(f"ValueError: {e}")
 except Exception as e:
      print(f"An unexpected error occurred: {e}")
+
+### === Mapping to dermatology keywords
+keywords_list = [
+    "Viral infection", "Infestation", "Benign tumors", "Eczema", "Fungal infections", "Alopecia", "Acne", 
+    "Psoriasis", "Bacterial infection", "Pigmentary disorders", "Alopecia areata", "Androgenetic alopecia", 
+    "Central centrifugal cicatricial alopecia", "Traction alopecia", "Actinic Keratosis", "Acne vulgaris", 
+    "Atopic dermatitis", "Bullous pemphigoid", "Epidermolysis bullosa", "Herpes zoster", "Lamellar ichthyosis", 
+    "Lichen planus", "Poroma", "Ganglionic cyst", "Ecchymosis", "Ecthyma", 
+    "Infantile Hemangioma", "Nutritional dermatoses", "injury", "ulcers", "Nonmelanoma skin cancer", 
+    "Inflammatory skin conditions", "Autoimmune diseases", "Pigmented lesions", 
+    "Cutaneous lymphoma", "Skin infections", "Rosacea", "Hidradenitis suppurativa", 
+    "Desmoplastic Trichoepithelioma", "DPTE", "Extramammary Paget Disease", "EMPD", "Leiomyosarcoma", "Melanoma", "CTCL", 
+    "cutaneous T-cell lymphoma", "Merkel Cell Carcinoma", "MCC", "Squamous Cell Carcinoma", "SCC", "Angiosarcoma", "Basal Cell Carcinoma", "BCC", 
+    "Lentigo Maligna", "LM", "Lentigo Maligna Melanoma", "LMM", "Atypical Fibroxanthoma", "AFX", "Bowenoid Papules", 
+    "Dermatofibrosarcoma Protuberans", "DFSP", "Sebaceous Carcinoma", "Cutaneous tumors", "Dermatitis", 
+    "Dyspigmentation", "Shingles", "Fungal nail infections", "Pityriasis versicolor", "Tinea corporis", 
+    "Impetigo", "Erythrasma", "Dermatomyositis", "Scleroderma", "Morphea", "Discoid lupus erythematosus", 
+    "Clavus", "corn", "Warts", "Pyoderma gangrenosum", "Abscess", "Atopic eczema", "Chronic urticaria", 
+    "Skin cancer", "Non-melanoma", "Papulosquamous", "Papule", "Hair Shedding", "Benign Lesion", "skin disease"
+]
+
+# Function to map the text to the keywords
+def map_keywords(text, keywords_list):
+    matches = [kw for kw in keywords_list if kw.lower() in text.lower()]
+    top_keyword = matches[0] if matches else "N/A"
+    other_keywords = "; ".join(matches[1:]) if len(matches) > 1 else "N/A"
+    return top_keyword, other_keywords
+
+# Apply the function to map the data with updated keywords
+data[['Top Keyword', 'Other Keywords']] = data['Text'].apply(
+    lambda x: pd.Series(map_keywords(str(x), keywords_updated))
+)
+
+# Export the final mapped data
+output_path = 'mapped.csv'
+data.to_csv(output_path, index=False)
