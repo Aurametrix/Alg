@@ -318,6 +318,117 @@ except ValueError as e:
 except Exception as e:
      print(f"An unexpected error occurred: {e}")
 
+### === Visualizing ranges of scores
+# Convert the Score column to numeric (if needed)
+data['Score'] = pd.to_numeric(data['Score'], errors='coerce')
+
+# Group by 'Keyword' and calculate min and max scores for each keyword
+score_ranges = data.groupby('Keyword')['Score'].agg(['min', 'max']).reset_index()
+
+# Create a bar plot to visualize the ranges
+plt.figure(figsize=(10, 6))
+for idx, row in score_ranges.iterrows():
+    plt.plot([row['min'], row['max']], [idx, idx], marker='o', label=row['Keyword'] if idx == 0 else "")
+
+plt.yticks(range(len(score_ranges)), score_ranges['Keyword'])
+plt.xlabel('Score')
+plt.title('Score Ranges for Each Keyword')
+plt.grid(axis='x', linestyle='--', alpha=0.6)
+plt.tight_layout()
+plt.show()
+
+### == visualizing conditions as circles colored by scores and sized by occurences
+import matplotlib.pyplot as plt
+import numpy as np
+import csv
+
+def visualize_circles(csv_file):
+    """
+    Visualizes data from a CSV file as circles with sizes proportional to scores
+    and colors assigned based on a gradient between predefined colors,
+    interpolated according to the 'Color' column value (0-100).
+
+    Args:
+        csv_file (str): Path to the CSV file.
+    """
+
+    conditions = []
+    scores = []
+    color_values = []  # Store raw color values from the CSV (0-100)
+
+    with open(csv_file, 'r') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            conditions.append(row['Conditions'])
+            try:
+                scores.append(int(row['Score']))
+            except ValueError:
+                print(f"Warning: Invalid score '{row['Score']}' found for condition '{row['Conditions']}'. Skipping this entry.")
+                continue
+            try:
+                color_values.append(float(row['Color']))  # Store the raw color value (0-100)
+            except ValueError:
+                print(f"Warning: Invalid color value '{row['Color']}' found for condition '{row['Conditions']}'. Skipping this entry.")
+                continue
+
+    # Define 20 colors from blue to yellow to match VOSViewer
+    color_list = [    
+    (0.00, 0.00, 0.55),  # Dark Blue (Viridis 0.0)
+    (0.06, 0.11, 0.55),  # Dark Blue (Viridis 0.05)
+    (0.13, 0.23, 0.55),  # Dark Blue-Green (Viridis 0.1)
+    (0.19, 0.33, 0.53),  # Dark Blue-Green (Viridis 0.15)
+    (0.26, 0.42, 0.46),  # Dark Green-Blue (Viridis 0.2)
+    (0.16, 0.49, 0.56),  # Teal Blue 25%
+    (0.25, 0.09, 0.51),  # Deep Blue
+    (0.20, 0.15, 0.60),  # Dark Blueish
+    (0.15, 0.28, 0.63),  # Blue
+    (0.35, 0.71, 0.65),  # Soft Green
+    (0.42, 0.81, 0.36),  # Mantis 75%
+    (0.58, 0.67, 0.84),  # AK  
+    (0.64, 0.83, 0.11),  # Dark Yellow-Green (Viridis 0.5)
+    (0.85, 0.95, 0.00),  # Dark Golden (Viridis 0.7)
+    (0.93, 0.98, 0.00),  # Dark Amber (Viridis 0.8)
+    (0.96, 0.99, 0.00),  # Dark Amber (Viridis 0.85)
+    (0.98, 0.99, 0.00),  # Dark Orange-Yellow (Viridis 0.9)
+    (1.00, 1.00, 0.00),  # Strong Yellow (Viridis 1.0)
+]
+
+
+    # Create the plot
+    plt.figure(figsize=(10, 10))
+    plt.title("Conditions Visualized by Circle Size and Color")
+
+    # Calculate positions for diagonal arrangement
+    num_circles = len(scores)
+    x = np.linspace(0.1, 0.9, num_circles)  # From left to right
+    y = 1 - x  # Diagonal from top-left to bottom-right
+
+    for i, (score, color_value, condition) in enumerate(zip(scores, color_values, conditions)):
+        # Scale the score for circle size
+        circle_size = score * 10  # Adjust this multiplier to fit your data range
+
+        # Determine color based on color_value
+        color_index = int(color_value / (100 / (len(color_list) - 1)))
+        color_index = min(color_index, len(color_list) - 1)
+        color = color_list[color_index]
+
+        # Plot the circle at the calculated position with the assigned color
+        plt.scatter(x[i], y[i], s=circle_size, c=[color], edgecolor='black', label=condition)
+
+        # Add label for the condition
+        plt.annotate(condition, (x[i], y[i]), xytext=(0, 10), textcoords='offset points', ha='center', va='bottom')
+
+    # Ensure circles are not distorted
+    plt.axis('equal')
+    plt.xticks([])
+    plt.yticks([])
+    plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+    plt.tight_layout()
+    plt.show()
+
+if __name__ == "__main__":
+    visualize_circles('conditions.csv')
+
 ### === Mapping to dermatology keywords
 keywords_list = [
     "Viral infection", "Infestation", "Benign tumors", "Eczema", "Fungal infections", "Alopecia", "Acne", 
