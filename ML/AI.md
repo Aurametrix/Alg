@@ -358,3 +358,9 @@ https://retool.com/products/ai
 
 
  [R2R](https://github.com/SciPhi-AI/R2R) -  designed to bridge the gap between local LLM experimentation and scalable, production-ready Retrieval-Augmented Generation (RAG)
+
+### Notes
+ - Claude Sonnet 3.5: everyday coding tasks with excellent flexibility and speed.
+ - GPT-o1-preview: planning, difficult debugging, and deep reasoning about code; math tasks
+ - GPT-4o: everyday, iterative coding tasks requiring up-to-date knowledge.
+ - Gemini 1.5 Pro: Best for tasks that need the whole project in context, such as large-scale refactoring or generating project-wide documentation.
