@@ -141,6 +141,8 @@ The following models are considered GPT 3.5:
 
 [Magentic](https://github.com/jackmpcollins/magentic) - to integrate Large Language Models into code (as Python functions)
 
+[HumanLayer](https://humanlayer.dev) - an API and SDK that enables AI Agents to contact humans for feedback, input, and approvals
+
 [MaxText](https://github.com/google/maxtext) - JAX LLM
 
 
