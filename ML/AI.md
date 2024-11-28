@@ -353,6 +353,7 @@ https://retool.com/products/ai
  + [Kolmogorov-Arnold Networks](https://spectrum.ieee.org/empower-your-supply-chain)
  + [Browser Use](https://github.com/gregpr07/browser-use) - build agents that interact with web elements
  + [WeaverBird](https://github.com/ant-research/fin_domain_llm) Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine
+ + [Voice-Pro](https://github.com/abus-aikorea/voice-pro) - AI Voice Cloning
 
 
 
