@@ -1,0 +1,82 @@
+color_list = [
+    (0.00, 0.00, 1.00),  # Strong Blue
+    (0.15, 0.30, 0.95),  # Bright Navy Blue
+    (0.30, 0.50, 0.90),  # Bright Blue
+    (0.40, 0.60, 0.85),  # Vibrant Blue
+    (0.50, 0.70, 0.80),  # Bright Cerulean
+    (0.55, 0.75, 0.75),  # Bright Azure
+    (0.60, 0.80, 0.70),  # Bright Cyan
+    (0.60, 0.85, 0.60),  # Bright Green-Blue
+    (0.50, 0.90, 0.50),  # Bright Green
+    (0.60, 0.95, 0.40),  # Vibrant Green
+    (0.70, 0.95, 0.30),  # Bright Yellow-Green
+    (0.80, 0.95, 0.20),  # Bright Chartreuse
+    (0.90, 0.95, 0.10),  # Bright Yellow
+    (1.00, 0.95, 0.00),  # Strong Yellow
+    (1.00, 0.90, 0.00),  # Vibrant Yellow
+    (1.00, 0.85, 0.00),  # Bright Golden
+    (1.00, 0.80, 0.00),  # Bright Amber
+    (1.00, 0.75, 0.00),  # Bright Orange-Yellow
+    (1.00, 0.70, 0.00),  # Bright Orange
+    (1.00, 0.65, 0.00)   # Strong Orange
+]
+
+colors = [
+    (0.27, 0.00, 0.33),  # Dark Purple (start, deep blue-purple)
+    (0.25, 0.09, 0.51),  # Deep Blue
+    (0.20, 0.15, 0.60),  # Dark Blueish
+    (0.15, 0.28, 0.63),  # Blue
+    (0.11, 0.37, 0.65),  # Moderate Blue
+    (0.08, 0.47, 0.66),  # Bluish Cyan
+    (0.10, 0.55, 0.64),  # Cyan-Blue
+    (0.15, 0.63, 0.56),  # Cyan-Green
+    (0.18, 0.67, 0.47),  # Dark Aquamarine
+    (0.20, 0.70, 0.40),  # Deep Teal
+    (0.22, 0.72, 0.30),  # Forest Greenish
+    (0.24, 0.75, 0.24),  # Strong Green
+    (0.30, 0.78, 0.20),  # Lime Green
+    (0.40, 0.82, 0.15),  # Yellowish Green
+    (0.50, 0.85, 0.10),  # Bright Yellow-Green
+    (0.63, 0.87, 0.05),  # Bright Lime-Yellow
+    (0.75, 0.90, 0.02),  # Yellow-Lime
+    (0.85, 0.93, 0.00),  # Bright Yellow
+    (0.95, 0.95, 0.00),  # Strong Yellow
+    (1.00, 1.00, 0.00)   # Bright Yellow (end)
+]
+
+color_list = [
+    (0.00, 0.40, 0.74),  # Deep Sky Blue
+    (0.27, 0.51, 0.71),  # Steel Blue
+    (0.69, 0.77, 0.87),  # Light Steel Blue
+    (0.69, 0.88, 0.90),  # Powder Blue
+    (0.68, 0.85, 0.90),  # Light Blue
+    (0.53, 0.81, 0.92),  # Sky Blue
+    (0.53, 0.81, 0.98),  # Light Sky Blue
+    (0.69, 0.88, 0.90),  # Pale Turquoise
+    (0.50, 0.93, 0.83),  # Aquamarine
+    (0.60, 0.98, 0.60),  # Pale Green
+    (0.18, 0.55, 0.34),  # Sea Green
+    (0.24, 0.70, 0.44),  # Medium Sea Green
+    (0.00, 1.00, 0.50),  # Spring Green
+    (0.60, 0.80, 0.20),  # Yellow Green
+    (0.50, 1.00, 0.00),  # Chartreuse
+    (0.68, 1.00, 0.18),  # Green Yellow
+    (1.00, 1.00, 0.88),  # Light Yellow
+    (1.00, 0.98, 0.80),  # Lemon Chiffon
+    (0.93, 0.91, 0.71),  # Pale Goldenrod
+    (1.00, 1.00, 0.60)   # Canary Yellow
+]
+
+# Define the brightness enhancement constant
+k = 0.3
+
+# Apply the transformation to each color
+brightened_colors = []
+for color in color_list:
+    r, g, b = color
+    r_prime = r * (1 + k)
+    g_prime = g * (1 + k)
+    b_prime = b * (1 + k)
+    brightened_colors.append((r_prime, g_prime, b_prime))
+
+print(brightened_colors)
