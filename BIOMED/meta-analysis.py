@@ -430,15 +430,16 @@ if __name__ == "__main__":
     visualize_circles('conditions.csv')
 
 ### === Mapping to dermatology keywords
+import pandas as pd
 keywords_list = [
     "Viral infection", "Infestation", "Benign tumors", "Eczema", "Fungal infections", "Alopecia", "Acne", 
     "Psoriasis", "Bacterial infection", "Pigmentary disorders", "Alopecia areata", "Androgenetic alopecia", 
     "Central centrifugal cicatricial alopecia", "Traction alopecia", "Actinic Keratosis", "Acne vulgaris", 
     "Atopic dermatitis", "Bullous pemphigoid", "Epidermolysis bullosa", "Herpes zoster", "Lamellar ichthyosis", 
-    "Lichen planus", "Poroma", "Ganglionic cyst", "Ecchymosis", "Ecthyma", 
+    "Lichen planus", "Poroma", "Ganglionic cyst", "Ecchymosis", "Ecthyma", "Tanning", "Essential oils", 
     "Infantile Hemangioma", "Nutritional dermatoses", "injury", "ulcers", "Nonmelanoma skin cancer", 
-    "Inflammatory skin conditions", "Autoimmune diseases", "Pigmented lesions", 
-    "Cutaneous lymphoma", "Skin infections", "Rosacea", "Hidradenitis suppurativa", 
+    "Inflammatory skin conditions", "Autoimmune diseases", "Pigmented lesions", "Erythema", "exanthem", 
+    "Cutaneous lymphoma", "Skin infections", "Rosacea", "Hidradenitis suppurativa", "Mohs surgery", 
     "Desmoplastic Trichoepithelioma", "DPTE", "Extramammary Paget Disease", "EMPD", "Leiomyosarcoma", "Melanoma", "CTCL", 
     "cutaneous T-cell lymphoma", "Merkel Cell Carcinoma", "MCC", "Squamous Cell Carcinoma", "SCC", "Angiosarcoma", "Basal Cell Carcinoma", "BCC", 
     "Lentigo Maligna", "LM", "Lentigo Maligna Melanoma", "LMM", "Atypical Fibroxanthoma", "AFX", "Bowenoid Papules", 
@@ -452,15 +453,27 @@ keywords_list = [
 # Function to map the text to the keywords
 def map_keywords(text, keywords_list):
     matches = [kw for kw in keywords_list if kw.lower() in text.lower()]
-    top_keyword = matches[0] if matches else "N/A"
-    other_keywords = "; ".join(matches[1:]) if len(matches) > 1 else "N/A"
+    if matches:
+        # Sort matches by length in descending order to get the longest keyword first
+        matches.sort(key=len, reverse=True)
+        top_keyword = matches[0]
+        other_keywords = "; ".join(matches[1:]) if len(matches) > 1 else "N/A"
+    else:
+        top_keyword = "N/A"
+        other_keywords = "N/A"
     return top_keyword, other_keywords
 
+# Read the data from CSV
+data = pd.read_csv('data.csv', encoding='iso-8859-1')
+
 # Apply the function to map the data with updated keywords
-data[['Top Keyword', 'Other Keywords']] = data['Text'].apply(
-    lambda x: pd.Series(map_keywords(str(x), keywords_updated))
+data[['Top Keyword', 'Other Keywords']] = data['text'].apply(
+    lambda x: pd.Series(map_keywords(str(x), keywords_list))
 )
 
-# Export the final mapped data
-output_path = 'mapped.csv'
+# Export the final mapped data to a new CSV file
+output_path = 'mapped1.csv'
 data.to_csv(output_path, index=False)
+print("File has been mapped successfully.")
+
+### 
