@@ -147,7 +147,8 @@ Python
 
 [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - by Nicolas P. Rougier 
      * [v1.24.0](https://github.com/numpy/numpy/releases/tag/v1.24.0)
-[How to share NumPy arrsy between processes](https://superfastpython.com/numpy-share-array-processes/)
+[How to share NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
+[KlongPy](https://github.com/briangu/klongpy) - high performance array programming
 [Xarray](https://xarray.dev/) - N-D labeled arrays and datasets
 
 
@@ -545,6 +546,8 @@ pip install BeautifulSoup4
 + [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 + [Mastering Web-scraping](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch)
 + [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
++ [ Web Scraping Digest](https://scrapfly.io/blog/everything-to-know-about-web-scraping-python/)
+
 
 + [5 web scraping libraries](https://elitedatascience.com/python-web-scraping-libraries)
     + The Farm: Requests
@@ -697,6 +700,7 @@ pip install pygsr
 + [Python-based blog engine](http://pyblosxom.github.io/)
 + [Pretty Maps](https://tech.marksblogg.com/pretty-maps-in-python.html)
 + [MAP machine](https://github.com/enzet/map-machine)
++ [Mapsy](https://pypi.org/project/mapsy/) - library designed easily render static maps
 + [Datasette Lite](https://simonwillison.net/2022/May/4/datasette-lite/) - server-side Python web application running in a browser - [try it out here](https://simonw.github.io/datasette-lite/)
 + [Flatland]( https://github.com/mayahq/flatland) - environment for program synthesis experiments
 + [Pyright](https://github.com/microsoft/pyright) - static type checker
