@@ -586,6 +586,7 @@ pip install BeautifulSoup4
 * [CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 
 * [Harvard Data Science](https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328)
+* [Structured outputs with Ollama](https://ollama.com/blog/structured-outputs)
 
 * [PYML - Machine Learning in Python](http://pyml.sourceforge.net/)
 
