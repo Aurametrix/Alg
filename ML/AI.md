@@ -96,6 +96,7 @@
 +  [Models at OLLAMA](https://ollama.ai/library)
 +  [Run LLAMA locally with PyTorch](https://github.com/anordin95/run-llama-locally)
 +  [Run and explore Llama models locally with minimal dependencies on CPU](https://github.com/Mozilla-Ocho/llamafile)
++  [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
   
 
 ###
