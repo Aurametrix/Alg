@@ -368,3 +368,4 @@ https://retool.com/products/ai
  - GPT-o1-preview: planning, difficult debugging, and deep reasoning about code; math tasks
  - GPT-4o: everyday, iterative coding tasks requiring up-to-date knowledge.
  - Gemini 1.5 Pro: Best for tasks that need the whole project in context, such as large-scale refactoring or generating project-wide documentation.
+ - [Gemini 2.0](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/); LLM Gemini [plugin](https://llm.datasette.io/en/stable/setup.html)
