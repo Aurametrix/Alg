@@ -109,7 +109,8 @@
 + [Prompt injection on Bing Chat](https://greshake.github.io/)
 + [Jailbreak Chat](https://www.jailbreakchat.com/)
 + [WordGPT](https://github.com/filippofinke/WordGPT)
-+ [REddit Profile Analyzer](https://github.com/grays42/reddit-profile-analyzer) - with an API key for ChatGPT.
++ [Modern Bert](https://huggingface.co/blog/modernbert)
++ [Reddit Profile Analyzer](https://github.com/grays42/reddit-profile-analyzer) - with an API key for ChatGPT.
 
 + [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
       + [AI tokenizer](https://platform.openai.com/tokenizer)
