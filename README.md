@@ -703,6 +703,7 @@ pip install pygsr
 + [Python-based blog engine](http://pyblosxom.github.io/)
 + [Pretty Maps](https://tech.marksblogg.com/pretty-maps-in-python.html)
 + [MAP machine](https://github.com/enzet/map-machine)
++ [github assistant](https://github.com/reltadev/github-assistant)
 + [Mapsy](https://pypi.org/project/mapsy/) - library designed easily render static maps
 + [Datasette Lite](https://simonwillison.net/2022/May/4/datasette-lite/) - server-side Python web application running in a browser - [try it out here](https://simonw.github.io/datasette-lite/)
 + [Flatland]( https://github.com/mayahq/flatland) - environment for program synthesis experiments
