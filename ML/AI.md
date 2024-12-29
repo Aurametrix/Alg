@@ -99,6 +99,7 @@
 +  [Run LLAMA locally with PyTorch](https://github.com/anordin95/run-llama-locally)
 +  [Run and explore Llama models locally with minimal dependencies on CPU](https://github.com/Mozilla-Ocho/llamafile)
 +  [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
++  [Microsoft’s Phi-3-Mini integration with tools like Ollama and Pieces](https://pieces.app/blog/phi-3-mini-integrations)
   
 
 ###
