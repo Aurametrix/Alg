@@ -78,6 +78,7 @@
 + [CLUE](https://github.com/TIO-IKIM/CLUE?tab=readme-ov-file): A Clinical Language Understanding Evaluation for LLMs
 + [InternLM](https://github.com/InternLM)
 + [Taming LLMs](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
++ [Running LLMs locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 
 
 ### LLAMA
