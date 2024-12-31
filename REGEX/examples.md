@@ -26,6 +26,10 @@ Pattern: "aabb", input: "xyzabcxzyabc" should return 0.
 
 Regular expressions (abbreviated as regex or regexp, with plural forms regexes, regexps, or regexen) are written in a formal language that can be interpreted by a regular expression processor, a program that either serves as a parser generator or examines text and identifies parts that match the provided specification.
 
+Remove all spaces from article titles (for duplicate search)
+    import re
+    processed_titles = [''.join(re.findall(r'[a-zA-Z]+', title)) for title in titles]
+
 Accepted:
 
 Specification https://www.python.org/dev/peps/pep-0634/
@@ -36,7 +40,7 @@ Tutorial https://www.python.org/dev/peps/pep-0636/
 
 [word-to-vec algorithm](https://github.com/JosephSBoyle/skip_gram/blob/346f79ff948ef3d279558a9460c44e7f7598fb7d/skip_gram/main.py)
 
-[PArsing URLs](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
+[Parsing URLs](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
 
 Rejected:
 
