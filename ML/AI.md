@@ -149,6 +149,12 @@ The following models are considered GPT 3.5:
 
 [HumanLayer](https://humanlayer.dev) - an API and SDK that enables AI Agents to contact humans for feedback, input, and approvals
 
+[LLM agents](https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view) - This combination of reasoning,
+logic, and access to external
+information that are all connected
+to a Generative AI model invokes
+the concept of an agent.
+
 [MaxText](https://github.com/google/maxtext) - JAX LLM
 
 
