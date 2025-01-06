@@ -642,6 +642,8 @@ pip install pygsr
 
 [WhisperSpeech](https://github.com/collabora/WhisperSpeech) - an Open Source text-to-speech system built by inverting Whisper. Previously known as spear-tts-pytorch.
 
+[Pytorch from scratch](https://github.com/MarioSieg/magnetron)
+
 [A grammar of graphics for python](https://github.com/has2k1/plotnine)
 
 [Knowledge extraction from unstructured texts](https://blog.heuritech.com/2016/04/15/knowledge-extraction-from-unstructured-texts/)
