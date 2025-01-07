@@ -359,6 +359,7 @@ https://retool.com/products/ai
 
   ### INTERESTING
  + [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
+ + [ model weights as a database](https://copyrightblog.kluweriplaw.com/2024/01/18/are-ai-models-weights-protected-databases/)
  + [Micrograd CUDA](https://github.com/mlecauchois/micrograd-cuda)
  + [Eureka Labs AI](https://github.com/EurekaLabsAI) - [intro](https://eurekalabs.ai/)
  + [Prelude](https://github.com/aerugo/prelude) - make context prompts for LLMs with long context windows
