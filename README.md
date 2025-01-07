@@ -113,6 +113,7 @@ Python
 
 [The Algorithm Library](https://the-algorithms.com/)
 [A new PDF library](https://github.com/desgeeko/pdfsyntax)
+[pdf to csv](https://news.ycombinator.com/item?id=42614330)
 
 #### Run python in your browser
 + [Pyscript](https://pyscript.net/) 
@@ -457,6 +458,7 @@ Use gzip with when saving to csv
 Create an Excel report and add some charts 
 
 + [write better python](https://github.com/SigmaQuan/Better-Python-59-Ways)
++ [Composing Python built-ins to make text](https://alexanderbass.com/posts/python-amongus-sus/)
 + [improve data science code](https://zerowithdot.com/improve-data-science-code/)
 + [Excel to Python Compiler](https://pyoneer.ai/?source=hn&utm_campaign=shn1)
 
