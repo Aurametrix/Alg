@@ -704,6 +704,7 @@ pip install pygsr
 + [Microbial simulator](https://github.com/Emergent-Behaviors-in-Biology/community-simulator)
 + [ML for microbiome classification](https://www.biorxiv.org/content/10.1101/816090v1.full), [github repo](https://github.com/SchlossLab/Topcuoglu_ML_XXX_2019/)
 + [Educational Food Game project](https://github.com/begalv/Educational-Food-Game)
++ [tetris in a pdf](https://github.com/ThomasRinsma/pdftris/blob/main/gengrid.py)
 + [Python-based blog engine](http://pyblosxom.github.io/)
 + [Pretty Maps](https://tech.marksblogg.com/pretty-maps-in-python.html)
 + [MAP machine](https://github.com/enzet/map-machine)
