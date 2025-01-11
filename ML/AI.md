@@ -80,50 +80,57 @@
 + [Taming LLMs](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
 + [Running LLMs locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 
-### A16z Apps
+### A16z Apps & categorization
 
-"General assistance","Perplexity","AI-powered search engine and research assistant"
-"General assistance","Claude (Anthropic)","General chatbot, great for projects and sharing work"
-"General assistance","ChatGPT","You know this one, but check out Advanced Voice Mode to talk to AI"
+##### General assistance
++ Perplexity	AI-powered search engine and research assistant
++ Claude (Anthropic)	General chatbot, great for projects and sharing work
++ ChatGPT	You know this one, but check out Advanced Voice Mode to talk to AI
 
-"Get work done","Granola","AI notetaker that listens to your meetings and formats the transcript into notes"
-"Get work done","Voice Flow","AI voice dictation that turns your speech into text in any app"
-"Get work done","Gamma","Make decks, docs, and websites to present your ideas with AI"
-"Get work done","Adobe","Summarize and chat with PDFs"
-"Get work done","Cubby","AI workspace built for collaborative research"
-"Get work done","Cora","AI email assistant that organizes your inbox and automates responses"
-"Get work done","Lindy","Build AI agents to automate your workflows"
+##### Get Work Done
++ Granola	AI notetaker that listens to your meetings and formats the transcript into notes
++ Voice Flow	AI voice dictation that turns your speech into text in any app
++ Gamma	Make decks, docs, and websites to present your ideas with AI
++ Adobe	Summarize and chat with PDFs
++ Cubby	AI workspace built for collaborative research
++ Cora	AI email assistant that organizes your inbox and automates responses
++ Lindy	Build AI agents to automate your workflows
 
-"Build an audience","Delphi","AI text, voice, and video clones to chat with your audience"
-"Build an audience","HeyGen","AI avatars to scale your content production or translate your videos"
-"Build an audience","Argi","AI avatars for social media videos"
-"Build an audience","Overlap.Opus","Turn your long-form videos into short viral clips with AI"
-"Build an audience","Persona","AI agent builder for creators"
-"Build an audience","Captions","AI avatars and video editing (e.g. auto-captions, correct eye contact)"
+######  Build an audience
++ Delphi	AI text, voice, and video clones to chat with your audience
++ HeyGen	AI avatars to scale your content production or translate your videos
++ Argi	AI avatars for social media videos
++ Overlap.Opus	Turn your long-form videos into short viral clips with AI
++ Persona	AI agent builder for creators
++ Captions	AI avatars and video editing (e.g. auto-captions, correct eye contact)
 
-"Build a product","Cursor","AI code editor that knows your codebase"
-"Build a product","Replit","AI agents to make apps and sites from natural language"
-"Build a product","Anychat","Use any AI model in one place"
-"Build a product","Codeium","AI-powered autocomplete for your code"
+###### Build a product
++ Cursor	AI code editor that knows your codebase
++ Replit	AI agents to make apps and sites from natural language
++ Anychat	Use any AI model in one place
++ Codeium	AI-powered autocomplete for your code
 
-"Get creative","ElevenLabs","Realistic AI voices"
-"Get creative","Suno, Udio","Create songs / music from text prompts"
-"Get creative","Midjourney, Ideogram, Playground","AI image generation"
-"Get creative","Runway, Kling, Viegie","AI video generation"
-"Get creative","Krea","AI creative canvas to make and enhance images and video"
-"Get creative","Photoroom","AI image editor, great for product photos and visuals"
+### Get creative
++ ElevenLabs	Realistic AI voices
++ Suno, Udio	Create songs / music from text prompts
++ Midjourney, Ideogram, Playground	AI image generation
++ Runway, Kling, Viegie	AI video generation
++ Krea	AI creative canvas to make and enhance images and video
++ Photoroom	AI image editor, great for product photos and visuals
 
-"Learn or grow","Eosebud","Interactive journal that uses AI to surface insights"
-"Learn or grow","Good Inside","Parenting co-pilot with personalized support"
-"Learn or grow","Ada Health","Get an AI-powered assessment of medical symptoms"
-"Learn or grow","Ash","Personalized AI counselor / coach"
-"Learn or grow","NotebookLM","Turn any document into an AI podcast"
-"Learn or grow","Particle","AI news app that combines multiple articles into summarized stories"
+###### Learn or grow
++ Eosebud	Interactive journal that uses AI to surface insights
++ Good Inside	Parenting co-pilot with personalized support
++ Ada Health	Get an AI-powered assessment of medical symptoms
++ Ash	Personalized AI counselor / coach
++ NotebookLM	Turn any document into an AI podcast
++ Particle	AI news app that combines multiple articles into summarized stories
 
-"Have fun","Remix","Social app for creating and sharing AI images and video"
-"Have fun","Meta Imagine","Make AI images of yourself, family, and friends in Meta apps"
-"Have fun","Grok","Chatbot from xAI (use it here!)"
-"Have fun","Curio","Toys for kids to talk to, powered by AI voices"
+###### Have fun
++ Remix	Social app for creating and sharing AI images and video
++ Meta Imagine	Make AI images of yourself, family, and friends in Meta apps
++ Grok	Chatbot from xAI (use it here!)
++ Curio	Toys for kids to talk to, powered by AI voices
 
 
 ### LLAMA
