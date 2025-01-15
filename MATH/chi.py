@@ -62,3 +62,31 @@ ct
 obs = np.array([ct.iloc[0][0:5].values,
                   ct.iloc[1][0:5].values])
 stats.chi2_contingency(obs)[0:3]
+
+# ==========================
+import pandas as pd
+from scipy.stats import chi2_contingency
+
+# Input data
+neighborhood_data = {
+    "Neighborhood": ["Toqua", "Kahite", "Tanasi", "Mialaquo", "Coyatee", "Chatuga", "Chota", "Tommotley"],
+    "Households": [1551, 606, 984, 620, 508, 512, 543, 318],
+    "TookSurvey": [697, 525, 461, 245, 239, 215, 202, 141]
+}
+
+# Create DataFrame
+df = pd.DataFrame(neighborhood_data)
+
+# Calculate total households and total survey participation
+total_households = df["Households"].sum()
+total_participants = df["TookSurvey"].sum()
+
+# Calculate expected participants for each neighborhood
+df["Expected"] = df["Households"] / total_households * total_participants
+
+# Perform chi-square test
+chi2, p_value, _, _ = chi2_contingency([df["TookSurvey"], df["Expected"]])
+
+# Results
+chi2, p_value, df
+
