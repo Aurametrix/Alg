@@ -580,6 +580,7 @@ pip install BeautifulSoup4
 * [Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
 * [Coconut](http://coconut-lang.org/), a functional programming language that compiles to Python
 * [Taichi](https://github.com/taichi-dev/taichi) - Python-based parallel programming
+* [Pyper](https://github.com/pyper-dev/pyper) -  concurrent and parallel data-processing
 * [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [Functional Programming HOWTO](https://docs.python.org/3/howto/functional.html)
 * [Codecrafters](https://codecrafters.io/) - Practice Writing Complex Software
