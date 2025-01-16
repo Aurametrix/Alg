@@ -75,6 +75,7 @@
 + [GPT4all](https://www.nomic.ai/gpt4all) - desktop client for download
 + [LLM by Simon Williso](https://llm.datasette.io/en/stable/) - one of the easier ways to download and use open source LLMs locally; need Python installed to run it
 + [Felafax](https://github.com/felafax/felafax) - Tune Llama3 405B on AMD MI300x
++ [MiniMax-AI](https://github.com/MiniMax-AI)
 + [CLUE](https://github.com/TIO-IKIM/CLUE?tab=readme-ov-file): A Clinical Language Understanding Evaluation for LLMs
 + [InternLM](https://github.com/InternLM)
 + [Taming LLMs](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
