@@ -155,6 +155,8 @@
 +  [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
 +  [Microsoft’s Phi-3-Mini integration with tools like Ollama and Pieces](https://pieces.app/blog/phi-3-mini-integrations)
   
+###
++ [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 
 ###
 + [GROK](https://github.com/xai-org/grok-1)
