@@ -80,6 +80,8 @@
 + [InternLM](https://github.com/InternLM)
 + [Taming LLMs](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
 + [Running LLMs locally](https://abishekmuthian.com/how-i-run-llms-locally/)
++ [ErisForge](https://github.com/Tsadoq/ErisForge) - a Python library designed to modify Large Language Models (LLMs) by applying transformations to their internal layers
++ [](https://github.com/Sumandora/remove-refusals-with-transformers/) - remove refusals with transformers
 
 ### A16z Apps & categorization
 
