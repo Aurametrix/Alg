@@ -99,6 +99,7 @@
 + Cora	AI email assistant that organizes your inbox and automates responses
 + Lindy	Build AI agents to automate your workflows
 
+
 ######  Build an audience
 + Delphi	AI text, voice, and video clones to chat with your audience
 + HeyGen	AI avatars to scale your content production or translate your videos
@@ -112,6 +113,7 @@
 + Replit	AI agents to make apps and sites from natural language
 + Anychat	Use any AI model in one place
 + Codeium	AI-powered autocomplete for your code
++ [OASIS](https://github.com/camel-ai/oasis) - Open Agent Social Interaction Simulations with One Million Agents
 
 ### Get creative
 + ElevenLabs	Realistic AI voices
