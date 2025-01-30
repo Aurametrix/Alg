@@ -89,6 +89,10 @@ Python
 
 [mypy](https://mypy-lang.blogspot.com/2023/02/mypy-10-released.html) - optional static type checker for Python
 
+[MyPy vs Pyright](https://github.com/microsoft/pyright/blob/main/docs/mypy-comparison.md)
+
+[Ruff](https://github.com/astral-sh/ruff) - new static type checker
+
 [Py5](https://py5coding.org/index.html) - py5 is a new version of Processing for Python 3.9+
 
 [Modern Python Performance Considerations](https://lwn.net/SubscriberLink/893686/8978976335696804/)
