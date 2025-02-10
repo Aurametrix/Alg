@@ -84,7 +84,8 @@
 + [Taming LLMs](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
 + [Running LLMs locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 + [ErisForge](https://github.com/Tsadoq/ErisForge) - a Python library designed to modify Large Language Models (LLMs) by applying transformations to their internal layers
-+ [](https://github.com/Sumandora/remove-refusals-with-transformers/) - remove refusals with transformers
++ [Remove refusals with transformers](https://github.com/Sumandora/remove-refusals-with-transformers/) - with HF Transformers
++ [FlashLearn](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples) - Classic Data science pipelines built with LLMs
 
 ### A16z Apps & categorization
 
