@@ -67,6 +67,7 @@
   - [TExt2Image model](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
   - [TimeGPT](https://docs.nixtla.io/docs/getting-started-timegpt_quickstart)
   - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
+  - [DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepSeek's communication library tailored for Mixture-of-Experts (MoE) and expert parallelism (EP)
 
 ### GPTs & LLMs
 
