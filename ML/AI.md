@@ -68,6 +68,7 @@
   - [TimeGPT](https://docs.nixtla.io/docs/getting-started-timegpt_quickstart)
   - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
   - [DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepSeek's communication library tailored for Mixture-of-Experts (MoE) and expert parallelism (EP)
+  - [Using DeepSeek R1 for RAG](https://blog.skypilot.co/deepseek-rag/)
 
 ### GPTs & LLMs
 
