@@ -6,6 +6,7 @@
 + [Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
 + [ML Experiment Management with Git](https://github.com/iterative/dvc)
 + [Financial ML](https://github.com/firmai/financial-machine-learning)
++ [Merlion](https://github.com/salesforce/Merlion) -  time series intelligence
 
 ### Deep Learning
 + [Theories of deep learning](https://stats385.github.io/), [GH](https://github.com/stats385/stats385.github.io)
