@@ -579,6 +579,7 @@ pip install BeautifulSoup4
 * [Web academy](https://academy.bigbinary.com/)
 * [Python in Pics](https://projects.raspberrypi.org/en/codeclub/python-module-1)
 * [MUD Pi](https://github.com/Frimkron/mud-pi) - A simple text-based Multi-User Dungeon (MUD) game, which could be run on a Raspberry Pi or other low-end server
+* [DOOM-style-Game](https://github.com/StanislavPetrovV/DOOM-style-Game) - open-source tool to visualize Git commands directly in your own repo
 * [Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [Intro for absolute beginners](https://github.com/webartifex/intro-to-python)
 * [Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
