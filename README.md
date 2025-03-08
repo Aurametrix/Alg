@@ -111,6 +111,8 @@ Python
 
 [On Python's type hints](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html) - [type hints](https://peps.python.org/pep-0484/)
 
+[Help function](https://www.pythonmorsels.com/help-features/)
+
 [Solution for concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
 
 [Koda](https://pypi.org/project/koda/) - a collection of practical type-safe tools for Python.
