@@ -417,6 +417,10 @@ https://retool.com/products/ai
 + [LM Stuio](https://news.ycombinator.com/item?id=38377072)
 + [Communicative Agents for Software Development](https://github.com/OpenBMB/ChatDev)
 + [Swarm](https://github.com/openai/swarm) - An educational framework exploring ergonomic, lightweight multi-agent orchestration
++ [Agent and RAG tutorials](https://github.com/Shubhamsaboo/awesome-llm-apps)
++ ['Peak' Ji](https://github.com/peakji)    - [MCP/CodeAct](https://x.com/peakji/status/1899005201778086166) of Manus[](https://x.com/ManusAI_HQ)
+
+
 
 
 ### ACTIONS
