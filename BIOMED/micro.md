@@ -24,3 +24,6 @@ https://sites.google.com/g.ucla.edu/pumaa/home
 • VAMPS: https://vamps2.mbl.edu/
 • AMON: https://github.com/lozuponelab/AMON - A command line tool for predicting the compounds produced by microbes and the host.
 • Microbe Annotator: https://github.com/cruizperez/MicrobeAnnotator
+• KneadData: https://github.com/biobakery/kneaddata - quality control on metagenomic and metatranscriptomic sequencing data
+• Curated Metagenomic Data: https://waldronlab.io/curatedMetagenomicData/
+• MetaPhlAn: https://github.com/biobakery/MetaPhlAn - Metagenomic Phylogenetic Analysis
