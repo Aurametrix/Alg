@@ -689,6 +689,7 @@ pip install pygsr
 + [Microdot](https://lwn.net//Articles/959067/) - a web framework for microcontrollers
 + [HN API](https://github.com/HackerNews/API) = [Algolia](https://hn.algolia.com/api)
 + [Rust bindings for Python](https://github.com/PyO3/pyo3)
++ [Localscope](https://localscope.readthedocs.io/en/latest/) - limit scope of functions
 + [Pen Plotter](https://github.com/evildmp/BrachioGraph)
 + [Harmony Blocks](https://github.com/tg12/harmonyblocks)
 + [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
