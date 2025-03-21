@@ -28,7 +28,9 @@ Python
 
 [WAT](https://github.com/igrek51/wat) - inspection tool of objects, a fancy version of [ice cream](https://github.com/gruns/icecream)
 
-[tmwuc](https://tmwuc.gushogg-blake.com/) - tell me whatyou see
+[tmwuc](https://tmwuc.gushogg-blake.com/) - tell me what you see
+
+[Python with E-graphs](https://vectorfold.studio/blog/egglog)
 
 
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
