@@ -687,6 +687,7 @@ pip install pygsr
 + [70+ Python projects with source code](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 + [Python tools for malware analysis](https://www.pythonstacks.com/blog/post/top-python-tools-malware-analysis/)
 + [Sherlock](https://github.com/sherlock-project/sherlock) - Find usernames across social networks
++ [Prospero challenge](https://pypy.org/posts/2025/04/prospero-in-rpython.html)
 + [Maigret](https://github.com/soxoj/maigret) - Find information by username from thousands of sites
 + [face-controlled interface](https://github.com/everythingishacked/CheekyKeys)
 + [Microdot](https://lwn.net//Articles/959067/) - a web framework for microcontrollers
