@@ -24,6 +24,8 @@ Python
 
 [OneDrive SDK for Python](https://github.com/OneDrive/onedrive-sdk-python)
 
+[Eliptical Python Programming](https://susam.net/elliptical-python-programming.html)
+
 [Self-assesment of Expertise level](https://safjan.com/python-expertise-level-self-assessment/)
 
 [WAT](https://github.com/igrek51/wat) - inspection tool of objects, a fancy version of [ice cream](https://github.com/gruns/icecream)
