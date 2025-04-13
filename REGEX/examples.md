@@ -2,6 +2,8 @@
 
 [Interactive Regex exercises](https://github.com/learnbyexample/py_regular_expressions/tree/master/interactive_exercises)
 
+Chonky[](https://github.com/mirth/chonky) - library that intelligently segments text into meaningful semantic chunks using a fine-tuned transformer model. This library can be used in the RAG systems
+
 
 # Python Enhancement Protocol (PEP) 
 
