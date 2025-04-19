@@ -21,6 +21,8 @@ pyaranet4 - Interface with Aranet4 CO₂ meter - https://github.com/stijnstijn/p
 
 
 [Building digital circuits with Python](https://github.com/LovetheFrogs/PyCircTools)
+
+[LiDAR scanner](https://github.com/PiLiDAR/PiLiDAR)
 [Python toolbox for digital circuits](https://github.com/m-labs/migen)
 [MyHDL](https://github.com/myhdl/myhdl)
 
