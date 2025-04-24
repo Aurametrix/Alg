@@ -92,6 +92,7 @@
 + [ErisForge](https://github.com/Tsadoq/ErisForge) - a Python library designed to modify Large Language Models (LLMs) by applying transformations to their internal layers
 + [Remove refusals with transformers](https://github.com/Sumandora/remove-refusals-with-transformers/) - with HF Transformers
 + [FlashLearn](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples) - Classic Data science pipelines built with LLMs
++ [index](https://github.com/lmnr-ai/index) - SOTA open-source browser agent for autonomously executing complex tasks on the web
 
 ### A16z Apps & categorization
 
