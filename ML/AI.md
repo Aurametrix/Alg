@@ -201,6 +201,8 @@
 
 [Mass Editing Memory in a Transformer](https://memit.baulab.info/) - [code](https://github.com/kmeng01/memit) - [arXiv paper](https://arxiv.org/abs/2210.07229)
 
+[LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
+
 ###
 [Chatbot kit](https://chatbotkit.com/)
 
