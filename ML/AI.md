@@ -93,6 +93,7 @@
 + [Remove refusals with transformers](https://github.com/Sumandora/remove-refusals-with-transformers/) - with HF Transformers
 + [FlashLearn](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples) - Classic Data science pipelines built with LLMs
 + [index](https://github.com/lmnr-ai/index) - SOTA open-source browser agent for autonomously executing complex tasks on the web
++ [Bamba](https://research.ibm.com/blog/bamba-ssm-transformer-model) - IBM's open source LLM
 
 ### A16z Apps & categorization
 
