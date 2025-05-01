@@ -56,6 +56,7 @@
 * [KG-RAG](https://github.com/BaranziniLab/KG_RAG) -  Knowledge Graph-based Retrieval Augmented Generation
 * [RAGflow](https://github.com/infiniflow/ragflow) - open-source RAG engine based on OCR and document parsing
 * [RAGFoundry](https://github.com/IntelLabs/RAGFoundry) - library designed to improve LLMs ability to use external information by fine-tuning models on specially created RAG-augmented datasets - [Intel ArXiv paper](https://arxiv.org/abs/2408.02545)
+* [Fine tuning with google sheets](https://promptrepo.com/finetune/)
 * [Azure AI Foundry](https://ai.azure.com/explore/models?selectedCollection=phi) --- [Phi4](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090) - Small Language Model that beats Gemini Pro
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
 * [AI by hand in excel](https://github.com/ImagineAILab/ai-by-hand-excel)
