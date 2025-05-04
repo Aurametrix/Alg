@@ -205,6 +205,8 @@
 
 [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
 
+[AI code assistants](https://medium.com/@wjleon/battle-of-the-ai-code-assistants-who-writes-the-best-python-integration-code-f78e09a5554c)
+
 ###
 [Chatbot kit](https://chatbotkit.com/)
 
