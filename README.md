@@ -239,6 +239,8 @@ Python
 
 [Robyn](https://github.com/sansyrox/robyn) - fast, extensible async Python web server with a Rust runtime 
 
+[Kate and Python language server](https://akselmo.dev/posts/kate-python-lsp/)
+
 [FLASK](https://flask.palletsprojects.com/en/2.2.x/) - for web development
 
 
