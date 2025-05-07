@@ -38,6 +38,7 @@ PyPI packages
 +  [Speech Meter](https://speechmeter.com/) - Practice English pronunciation
 +  [An Algorithmic Audio Landscape](https://ambient.garden/)
 +  [Auidiosample](https://deepdub.ai/post/introducing-audiosample-an-efficient-solution-for-audio-processing) for audio processing
++  [music gvneration foundation model](https://github.com/ace-step/ACE-Step)
 
 ### Images + Audio
 +  [Images that Sound](https://github.com/IFICL/images-that-sound)
