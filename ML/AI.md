@@ -430,7 +430,10 @@ https://retool.com/products/ai
 + [Agent and RAG tutorials](https://github.com/Shubhamsaboo/awesome-llm-apps)
 + ['Peak' Ji](https://github.com/peakji)    - [MCP/CodeAct](https://x.com/peakji/status/1899005201778086166) of Manus[](https://x.com/ManusAI_HQ)
 
+### Evals
 
+[simple-evals](https://github.com/openai/simple-evals) - lightweight library for evaluating language models
+[HealthBench](https://openai.com/index/healthbench/) - An evaluation for AI systems and human health; [arxiv paper](https://arxiv.org/abs/2505.08775)
 
 
 ### ACTIONS
