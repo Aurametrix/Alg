@@ -459,6 +459,10 @@ https://retool.com/products/ai
 
  [R2R](https://github.com/SciPhi-AI/R2R) -  designed to bridge the gap between local LLM experimentation and scalable, production-ready Retrieval-Augmented Generation (RAG)
 
+ [Aplha_Evolve blog](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/); [paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf); [application](https://docs.google.com/forms/d/e/1FAIpQLSfaLUgKtUOJWdQtyLNAYb3KAkABAlKDmZoIqPbHtwmy3YXlCg/viewform)
+
+ [OpenAplha_Evolve](https://github.com/shyamsaktawat/OpenAlpha_Evolve) - Regenerating Autonomous Algorithmic Discovery [notebooklm](https://notebooklm.google.com/notebook/21c03820-e14a-424f-8cac-ed7f0f9aed4f/audio)
+
 ### Notes
  - Claude Sonnet 3.5: everyday coding tasks with excellent flexibility and speed.
  - GPT-o1-preview: planning, difficult debugging, and deep reasoning about code; math tasks
