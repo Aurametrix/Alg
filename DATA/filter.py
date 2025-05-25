@@ -1,51 +1,47 @@
-import argparse
 import json
+import pandas as pd
+from pathlib import Path
 
-def filter_conversations(input_path, output_path, keywords):
-    """
-    Reads a JSONL file of conversations, filters for those containing any of the specified keywords,
-    and writes the matching records to a new JSONL file.
-    """
-    # Normalize keywords for case-insensitive matching
-    keywords_lower = [kw.lower() for kw in keywords]
-    
-    with open(input_path, 'r', encoding='utf-8') as infile, \
-         open(output_path, 'w', encoding='utf-8') as outfile:
-        for line in infile:
-            record = json.loads(line)
-            
-            # Extract all message contents from the conversation
-            msgs = record.get('conversation', [])
-            text_content = " ".join(msg.get('content', '') for msg in msgs).lower()
-            
-            # Check if any keyword is present
-            if any(kw in text_content for kw in keywords_lower):
-                outfile.write(json.dumps(record) + '\n')
+# Correct path to the JSONL file
+jsonl_path = Path(r"C:\Users\...\2025-05-07-06-14-12_oss_eval.jsonl")
 
-def main():
-    parser = argparse.ArgumentParser(
-        description="Filter HealthBench OSS JSONL for dermatology-related conversations"
-    )
-    parser.add_argument(
-        "--input", "-i", required=True,
-        help="Path to the input OSS JSONL file"
-    )
-    parser.add_argument(
-        "--output", "-o", required=True,
-        help="Path to write the filtered JSONL output"
-    )
-    args = parser.parse_args()
+# Dermatology-related keywords
+keywords = [
+    "Dermatology", "skin conditions", "hair disorders", "nail disorders",
+    "dermatitis", "acne", "vitiligo", "alopecia", "lichen planus",
+    "cosmetics", "eczema", "malodor", "hyperhidrosis", "bromhidrosis",
+    "olfactory reference syndrome", "rosacea", "sunburn"
+]
+keywords_lower = [k.lower() for k in keywords]
 
-    keywords = [
-        "Dermatology", "skin conditions", "hair disorders", "nail disorders",
-        "dermatitis", "acne", "vitiligo", "alopecia", "lichen planus",
-        "cosmetics", "eczema", "malodor", "hyperhidrosis", "bromhidrosis",
-        "olfactory reference syndrome", "rosacea", "sunburn"
-    ]
+matches = []
+with jsonl_path.open("r", encoding="utf-8") as f:
+    for line in f:
+        rec = json.loads(line)
+        prompt_field = rec.get("prompt", [])
 
-    filter_conversations(args.input, args.output, keywords)
-    print(f"Filtered conversations written to {args.output}")
+        # Make sure it's a list of messages with 'content'
+        if isinstance(prompt_field, list):
+            full_text = " ".join(m.get("content", "") for m in prompt_field)
+        else:
+            continue  # skip if it's not a list
 
-if __name__ == "__main__":
-    main()
+        if any(kw in full_text.lower() for kw in keywords_lower):
+            matches.append({
+                "prompt_id": rec.get("prompt_id", ""),
+                "prompt_text": full_text.replace("\n", " "),
+                "rubrics": json.dumps(rec.get("rubrics", {}))
+            })
+
+# Convert to DataFrame
+df = pd.DataFrame(matches)
+
+# Preview
+print(f"✅ Found {len(df)} matching conversations.")
+display(df.head())
+
+# Save as CSV
+output_csv = jsonl_path.parent / "dermatology_subset.csv"
+df.to_csv(output_csv, index=False, encoding="utf-8")
+print(f"📁 Exported to: {output_csv}")
 
