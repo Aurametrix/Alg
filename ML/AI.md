@@ -26,6 +26,7 @@
 * [VOcode](https://github.com/vocodedev/vocode-python) - build voice-based LLM apps in minutes
 * [ReTellAI](https://news.ycombinator.com/item?id=39453402) - conversational speech API for your LLM
 * [WEB LLM](https://github.com/mlc-ai/web-llm) - [bringing chatbots to web browsers](https://mlc.ai/web-llm/)
+* [programming with LLMs](https://pmbanugo.me/blog/peer-programming-with-llms)
 * [IPython-GPT](https://github.com/santiagobasulto/ipython-gpt) - IPython ChatGPT extension
 * [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) 
 * [jupytee](https://github.com/fperez/jupytee) 
