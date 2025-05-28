@@ -20,6 +20,7 @@
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [ChatGPT for your data](https://github.com/raghavan/PdfGptIndexer)
 * [Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain); [github](https://github.com/airbytehq/tutorial-connector-dev-bot)
+* [LLM 0.26 ](https://simonwillison.net/2025/May/27/llm-tools/) - Large Language Models can run tools in your terminal with LLM 0.26
 * [Custom versions of ChatGPT](https://openai.com/blog/introducing-gpts)
 * [Danswer](https://github.com/danswer-ai/danswer) - ask your docs
 * [QuiLLMan](https://github.com/modal-labs/quillman) - Voice Chat with LLMs
