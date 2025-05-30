@@ -78,6 +78,8 @@ Python
 
 [Shed Skin](https://shed-skin.blogspot.com/2023/12/shed-skin-restricted-python-to-c.html) - restricted-Python-to-C++ compiler 0.9.6
 
+[Making C and Python Talk to Each Other](https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each)
+
 [Common errors](https://betterstack.com/community/guides/scaling-python/python-errors/)
 
 [Red Mail](https://github.com/Miksus/red-mail) - Advanced Email Sender
