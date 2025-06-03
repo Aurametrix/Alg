@@ -776,6 +776,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [AeroPython](https://github.com/barbagroup/AeroPython)
 + [Mario](https://github.com/python-mario/mario) - python pipelines for your shell
 + [Pyp](https://github.com/hauntsaninja/pyp) - python from shell
++ [Robotics essentials](https://github.com/henki-robotics/robotics_essentials_ros2)
 
 
 + [Semantle](https://gitlab.com/novalis_dt/semantle) - guess the secret word
