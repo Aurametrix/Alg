@@ -748,6 +748,7 @@ pip install pygsr
 + [Personal Data Management Dashboard](https://volmarg.github.io/) - [GH](https://github.com/Volmarg/personal-management-system)
 + [Tracking personal finances](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)
 + [n.py](https://git.bitmycode.com/sodimel/n) - simple note-raking tool
++ [3D Model Playground](https://github.com/collidingScopes/3d-model-playground) - Control 3D models using hand gestures and voice commands in real-time.
 
 + [Inline C in Python](https://github.com/georgek42/inlinec)
 + [Pytest debugger](https://github.com/leapingio/leaping)
