@@ -49,6 +49,8 @@ Python
 
 [Fixing Identations](https://github.com/navxio/dopy)
 
+[py-pglite](https://github.com/wey-gu/py-pglite) - A Python testing library that provides seamless integration between PGlite and Python test suites. Get the full power of PostgreSQL in your tests without the overhead of a full PostgreSQL installation.
+
 [100x speedup](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 
 [Ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
