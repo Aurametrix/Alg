@@ -84,6 +84,8 @@ Python
 
 [Common errors](https://betterstack.com/community/guides/scaling-python/python-errors/)
 
+[Why pandas feels clunky when coming from R](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
+
 [Red Mail](https://github.com/Miksus/red-mail) - Advanced Email Sender
 
 [WakaQ](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python) - Distributed task queue
