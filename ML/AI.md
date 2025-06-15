@@ -40,6 +40,7 @@
 * [Open AI Moonwalk proposal](https://github.com/OAI/moonwalk)
 * [Open AI transformer-debugger](https://github.com/openai/transformer-debugger)
 * [VIT](https://github.com/lucidrains/vit-pytorch/blob/main/vit_pytorch/vit.py) - Vision Transformers; [Visual Guide](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
+* [miniDiffusion](https://github.com/yousef-rafat/miniDiffusion) - eimplementation of the Stable Diffusion 3.5 model in pure PyTorch with minimal dependencies
 * [TRAP](https://github.com/BobMcDear/trap) - autoregressive transformers - namely, GPT2 - in APL
 * [ChatHUB](https://github.com/chathub-dev/chathub/blob/main/README.md) - Use ChatGPT, Bing, Bard and Claude in One App
 * [GPT engineer](https://github.com/AntonOsika/gpt-engineer) -  generates an entire codebase based on a prompt
