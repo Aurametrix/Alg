@@ -43,6 +43,7 @@
 * [miniDiffusion](https://github.com/yousef-rafat/miniDiffusion) - eimplementation of the Stable Diffusion 3.5 model in pure PyTorch with minimal dependencies
 * [TRAP](https://github.com/BobMcDear/trap) - autoregressive transformers - namely, GPT2 - in APL
 * [ChatHUB](https://github.com/chathub-dev/chathub/blob/main/README.md) - Use ChatGPT, Bing, Bard and Claude in One App
+* [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
 * [GPT engineer](https://github.com/AntonOsika/gpt-engineer) -  generates an entire codebase based on a prompt
 * [ChatGPT retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 * [Story Crowdsource Preference System](https://github.com/clchinkc/story_crowdsource_preference) -  Uses multiple AI models (GPT-4, Gemini, etc.) to generate story variations from prompts; [story variant collector(https://storycrowdsourcepreference.streamlit.app/)
