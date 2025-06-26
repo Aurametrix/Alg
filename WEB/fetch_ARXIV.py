@@ -297,3 +297,99 @@ else:
     output_filename = "dermatology_chatgpt_arxiv.tsv"
     df.to_csv(output_filename, sep="\t", index=False)
     print(f"Successfully saved {len(df)} records to '{output_filename}'.")
+
+################################################################
+######## latest LLMs
+import requests
+import pandas as pd
+import xmltodict
+import urllib.parse
+from datetime import datetime
+
+# List of LLMs to search for
+llm_terms = [
+    "deepseek R1",
+    "ChatGPT O3",
+    "Gemini 2.5",
+    "ChatGPT O4",
+    "ChatGPT 4.1",
+    "Claude 4",
+    "Grok 3"
+]
+
+# Build the OR query
+llm_query = " OR ".join([f'"{term}"' for term in llm_terms])
+
+# URL encode
+encoded_query = urllib.parse.quote(llm_query)
+
+# How many results to try to retrieve (arXiv max is 30000, but keep reasonable)
+max_results = 1500
+
+# Build API URL
+api_url = f"http://export.arxiv.org/api/query?search_query=all:{encoded_query}&start=0&max_results={max_results}"
+
+# Fetch results
+response = requests.get(api_url)
+if response.status_code != 200:
+    raise Exception(f"Error fetching data from arXiv API: {response.status_code}")
+
+# Parse XML
+try:
+    parsed = xmltodict.parse(response.content)
+    entries = parsed["feed"].get("entry", [])
+except Exception as e:
+    raise Exception(f"Error parsing XML: {e}")
+
+# Single entry case
+if isinstance(entries, dict):
+    entries = [entries]
+
+# Filter for 2025 publications
+filtered = []
+for entry in entries:
+    published = entry.get("published", "")
+    year = ""
+    if published:
+        try:
+            year = datetime.strptime(published[:10], "%Y-%m-%d").year
+        except Exception:
+            continue
+    if year == 2025:
+        # Authors
+        authors = ""
+        if isinstance(entry.get("author", []), list):
+            authors = ", ".join([a["name"] for a in entry["author"]])
+        else:
+            authors = entry.get("author", {}).get("name", "")
+
+        # Category
+        categories = ""
+        if isinstance(entry.get("category", []), list):
+            categories = ", ".join([cat.get("@term", "") for cat in entry["category"]])
+        else:
+            categories = entry.get("category", {}).get("@term", "")
+
+        # Link
+        links = ""
+        if isinstance(entry.get("link", []), list):
+            links = next((lnk.get("@href", "") for lnk in entry["link"] if lnk.get("@href", "")), "")
+        else:
+            links = entry.get("link", {}).get("@href", "")
+
+        filtered.append({
+            "Title": entry.get("title", "").replace("\n", " ").strip(),
+            "Authors": authors,
+            "Summary": entry.get("summary", "").replace("\n", " ").strip(),
+            "Published": published,
+            "Updated": entry.get("updated", ""),
+            "Primary Category": entry.get("arxiv:primary_category", {}).get("@term", ""),
+            "Categories": categories,
+            "Link": links
+        })
+
+# Create dataframe and save
+df = pd.DataFrame(filtered)
+output_filename = "arxiv_llm_2025.tsv"
+df.to_csv(output_filename, sep="\t", index=False)
+print(f"Saved {len(df)} 2025 LLM records to '{output_filename}'.")
