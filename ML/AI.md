@@ -88,7 +88,8 @@
 + [14LLMs that are not ChatGPT](https://www.infoworld.com/article/2338696/14-llms-that-arent-chatgpt.html)
 + [GPT4all](https://www.nomic.ai/gpt4all) - desktop client for download
 + [LLM by Simon Williso](https://llm.datasette.io/en/stable/) - one of the easier ways to download and use open source LLMs locally; need Python installed to run it
-+ [Felafax](https://github.com/felafax/felafax) - Tune Llama3 405B on AMD MI300x
+
+
 + [MiniMax-AI](https://github.com/MiniMax-AI)
 + [CLUE](https://github.com/TIO-IKIM/CLUE?tab=readme-ov-file): A Clinical Language Understanding Evaluation for LLMs
 + [InternLM](https://github.com/InternLM)
@@ -166,6 +167,7 @@
 + [Nougat](https://github.com/facebookresearch/nougat) - Neural Optical Understanding for Academic Documents
 + [get LLAMA running locally](https://github.com/ggerganov/llama.cpp )
 + [TinyLlama](https://github.com/jzhang38/TinyLlama) -  1.1B Llama model on 3 trillion tokens -[arXiv paper](https://arxiv.org/abs/2401.02385)
++ [Felafax](https://github.com/felafax/felafax) - Tune Llama3 405B on AMD MI300x
 +  [Neural Magic](https://github.com/neuralmagic) - [Sparse LLAMA from Cerebras](https://www.cerebras.net/blog/introducing-sparse-llama-70-smaller-3x-faster-full-accuracy)
 +  [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
 +  [Original LLama implementation by META](https://github.com/meta-llama/llama3/blob/main/llama/model.py)
@@ -175,6 +177,7 @@
 +  [Run and explore Llama models locally with minimal dependencies on CPU](https://github.com/Mozilla-Ocho/llamafile)
 +  [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
 +  [Microsoft’s Phi-3-Mini integration with tools like Ollama and Pieces](https://pieces.app/blog/phi-3-mini-integrations)
++  [Fault-tolerant LLAMA training](https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/)
   
 ###
 + [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
