@@ -33,4 +33,6 @@ Paper : https://proceedings.mlr.press/v174/pal22a/pal22a.pdf
 
 https://github.com/pubmedqa/pubmedqa
 
-### 
+### misc
+
+[PhenoDP](https://github.com/TianLab-Bioinfo/PhenoDP): Leveraging Deep Learning for Phenotype-Based Case Reporting, Disease Ranking, and Symptom Recommendation
