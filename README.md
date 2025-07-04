@@ -190,6 +190,7 @@ Python
 
 [Interactive Python course](https://futurecoder.io/)
 [The Python tutorial](https://docs.python.org/3/tutorial/index.html)
+[Resource for Python Developers](https://pythonlink.xyz/en)
 
 [A Simple Guide to creating Predictive Models](https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-2b-7be3afb5c557)
 
