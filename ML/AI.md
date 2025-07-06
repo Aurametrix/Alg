@@ -12,6 +12,7 @@
 * [ChatGPT talks to your AWS infrastructure footprint](https://www.akitasoftware.com/blog-posts/we-built-an-exceedingly-polite-ai-dog-that-answers-questions-about-your-apis)
 * [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) - by Andrej Karpathy
 * [ChatGPR & Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+* [GremLLM](https://github.com/awwaiid/gremllm)
 * [OpenAI Python Library](https://github.com/openai/openai-python)
 * [Streaming in the Assistant's API](https://platform.openai.com/docs/assistants/overview?context=with-streaming)
 * [OpenAI: function calling](https://platform.openai.com/docs/guides/function-calling?api-mode=responses)
