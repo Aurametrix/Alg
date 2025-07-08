@@ -36,3 +36,9 @@ https://github.com/pubmedqa/pubmedqa
 ### misc
 
 [PhenoDP](https://github.com/TianLab-Bioinfo/PhenoDP): Leveraging Deep Learning for Phenotype-Based Case Reporting, Disease Ranking, and Symptom Recommendation
+
+[Shigt Identification](https://github.com/biomedia-mira/shift_identification) - Automatic dataset shift identification to support safe deployment of medical imaging AI
+
+[RWE-LLM](https://www.medrxiv.org/content/10.1101/2025.03.17.25324157v1.full.pdf) - Real-World Evaluation of Large Language Models in Healthcare (ArXiv paper)
+
+[MedHelm](https://crfm.stanford.edu/helm/medhelm/latest/) - foundation for testing and evaluation of the real-world applicability of language models in healthcare
