@@ -224,6 +224,7 @@ Python
     + [txtai](https://github.com/neuml/txtai) - All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
     + [simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
     + [Binary Vector Search](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
+    + [Semanrtic Search](https://github.com/onenodehq/onenode)
     + [Ctrol-F for Video](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - useful for videos YouTube doesn't have captions for
    
    + [Topic Modeling](https://hackernoon.com/advanced-topic-modeling-tutorial-how-to-use-svd-and-nmf-in-python-to-find-topics-in-text)
