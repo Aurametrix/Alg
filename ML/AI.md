@@ -65,6 +65,7 @@
 * [Azure AI Foundry](https://ai.azure.com/explore/models?selectedCollection=phi) --- [Phi4](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090) - Small Language Model that beats Gemini Pro
 * [BARD Extensions](https://bard.google.com/extensions?hl=en)
 * [AI by hand in excel](https://github.com/ImagineAILab/ai-by-hand-excel)
+* [Second-Me](https://github.com/mindverse/Second-Me) -  an open-source prototype where you craft your own AI self—a new AI species that preserves you, delivers your context, and defends your interests.
 
 * [Mistral Fine Tuning](https://github.com/mistralai/mistral-finetune)
 * [GPT fast](https://github.com/pytorch-labs/gpt-fast) - pytorch-native transformer text generation
