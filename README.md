@@ -43,6 +43,8 @@ Python
 
 [Python Packaging](https://lwn.net/Articles/1028299/)
 
+[metaP](https://sbaziotis.com/compilers/metap.html) - meta-programming layer for Python
+
 [Yapsl](https://github.com/kutoga/yapsl) - Python SMS library
 
 [Poetry 1.2.0](https://python-poetry.org/blog/announcing-poetry-1.2.0/) - PACKAGING AND DEPENDENCY MANAGEMENT
