@@ -47,6 +47,8 @@ Python
 
 [Yapsl](https://github.com/kutoga/yapsl) - Python SMS library
 
+[A browserless HTML testing library for Python](https://news.ycombinator.com/item?id=44627403)
+
 [Poetry 1.2.0](https://python-poetry.org/blog/announcing-poetry-1.2.0/) - PACKAGING AND DEPENDENCY MANAGEMENT
 
 [Python built-ins](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
