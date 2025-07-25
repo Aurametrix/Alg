@@ -96,6 +96,8 @@ Python
 
 [WakaQ](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python) - Distributed task queue
 
+[Python Time Helper](https://github.com/felixnext/python-time-helper) - A lightweight library for effortless datetime handling with timezone support.
+
 [Negatypes](https://www.hillelwayne.com/negatypes/)
  
 [REPL, online compiler](https://repl.it/repls/FrugalOrderlyLearning)
