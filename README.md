@@ -188,6 +188,8 @@ Python
 
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
 
+[Benchmarking microPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython)
+
 [Machine Learning Tutorial](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
 [Data-centric introduction to computing](https://dcic-world.org/2022-08-28/index.html)
 [Logica](https://logica.dev/) - language for data manipulation
