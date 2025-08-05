@@ -75,6 +75,7 @@
   - [MAMBA explained](https://thegradient.pub/mamba-explained/)
   - [FAL](https://github.com/fal-ai/fal) - serverless Python runtime that lets you run and scale code in the cloud with no infra management: build pipelines, serve ML models and scale them up
   - [TExt2Image model](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
+  - [Qwen image](https://qwenlm.github.io/blog/qwen-image/) -- [on hagging face](https://huggingface.co/Qwen/Qwen-Image)
   - [TimeGPT](https://docs.nixtla.io/docs/getting-started-timegpt_quickstart)
   - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
   - [DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepSeek's communication library tailored for Mixture-of-Experts (MoE) and expert parallelism (EP)
