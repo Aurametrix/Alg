@@ -5,14 +5,14 @@ from matplotlib.colors import LinearSegmentedColormap
 import matplotlib.patheffects as path_effects
 import matplotlib.ticker as mtick
 
-# Create the dataframe
+# Sentiment visualization for papers - two plots
 data = {
     'Year': [2022, 2023, 2024, 2025],
-    'Cautionary': [2, 8, 1, 0],
-    'Contrasting': [0, 2, 1, 2],
+    'Cautionary': [3, 7, 4, 1],
+    'Contrasting': [0, 3, 0, 1],
     'Negative': [7, 4, 0, 0],
-    'Positive': [4, 21, 7, 2],
-    'Satisfactory': [10, 9, 0, 0]
+    'Positive': [4, 19, 8, 2],
+    'Satisfactory': [11, 8, 0, 0]
 }
 df = pd.DataFrame(data)
 
@@ -166,4 +166,80 @@ frame.set_edgecolor('white')
 
 plt.tight_layout()
 plt.subplots_adjust(hspace=0.3)
+plt.show()
+
+##########################################################################
+# Combine 2024 and 2025 into a single "2024-2025" category
+combined_row = {
+    'Year': '2024-2025',
+    'Cautionary': df.loc[df['Year'].isin([2024, 2025]), 'Cautionary'].sum(),
+    'Contrasting': df.loc[df['Year'].isin([2024, 2025]), 'Contrasting'].sum(),
+    'Negative': df.loc[df['Year'].isin([2024, 2025]), 'Negative'].sum(),
+    'Positive': df.loc[df['Year'].isin([2024, 2025]), 'Positive'].sum(),
+    'Satisfactory': df.loc[df['Year'].isin([2024, 2025]), 'Satisfactory'].sum()
+}
+
+# Build combined dataframe
+# df_combined = df[~df['Year'].isin([2024, 2025])].copy()  deprecated
+#df_combined = df_combined.append(combined_row, ignore_index=True)   deprecated
+
+# build the combined summary row
+combined_row = {
+    'Year': '2024-2025',
+    'Cautionary': df.loc[df['Year'].isin([2024, 2025]), 'Cautionary'].sum(),
+    'Contrasting': df.loc[df['Year'].isin([2024, 2025]), 'Contrasting'].sum(),
+    'Negative': df.loc[df['Year'].isin([2024, 2025]), 'Negative'].sum(),
+    'Positive': df.loc[df['Year'].isin([2024, 2025]), 'Positive'].sum(),
+    'Satisfactory': df.loc[df['Year'].isin([2024, 2025]), 'Satisfactory'].sum()
+}
+
+# filter out 2024 & 2025, then concat the new row
+base = df.loc[~df['Year'].isin([2024, 2025])].copy()
+df_combined = pd.concat(
+    [base, pd.DataFrame([combined_row])],
+    ignore_index=True
+)
+
+#print(df_combined)
+
+
+
+# Prepare normalized percentages
+categories = ['Cautionary', 'Contrasting', 'Negative', 'Positive', 'Satisfactory']
+totals = df_combined[categories].sum(axis=1)
+df_percent = df_combined[categories].div(totals, axis=0) * 100
+
+# Define colors
+colors = {
+    'Cautionary': '#FF9500',
+    'Contrasting': '#9B59B6',
+    'Negative': '#E74C3C',
+    'Positive': '#2ECC71',
+    'Satisfactory': '#3498DB'
+}
+
+# Plot combined stacked area chart
+plt.style.use('dark_background')
+plt.figure(figsize=(10, 6), dpi=300)
+x = np.arange(len(df_combined))
+y_stack = np.vstack([df_percent[cat] for cat in categories])
+
+plt.stackplot(x, y_stack, labels=categories, colors=[colors[cat] for cat in categories], alpha=0.8)
+
+# Glow effect
+for i, cat in enumerate(categories):
+    y_vals = np.sum(y_stack[:i+1], axis=0)
+    line = plt.plot(x, y_vals, color=colors[cat], linewidth=2.5)
+    line[0].set_path_effects([path_effects.Stroke(linewidth=4, foreground='white', alpha=0.2),
+                              path_effects.Normal()])
+
+plt.xticks(x, df_combined['Year'])
+plt.yticks(fontsize=12)
+plt.gca().yaxis.set_major_formatter(mtick.PercentFormatter())
+plt.xlabel('Model Release Year', fontsize=14, fontweight='bold')
+plt.ylabel('Percentage Distribution', fontsize=14, fontweight='bold')
+plt.title('Sentiment of LLM Evaluation Papers (2022, 2023, 2024–2025)', fontsize=16, fontweight='bold', pad=15)
+plt.grid(color='#333333', linestyle='--', alpha=0.3)
+plt.legend(loc='upper center', ncol=5, frameon=True, fontsize=10)
+plt.tight_layout()
 plt.show()
