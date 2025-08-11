@@ -51,6 +51,7 @@
  
  ### This person doesn't exist: https://thispersondoesnotexist.com/
 +  [StyleGAN2 — Official TensorFlow Implementation](https://github.com/NVlabs/stylegan2)
++  [CycleGAN](https://github.com/advafaeian/cyclegan-fitzpatrick) - A CycleGAN model trained on Diverse Dermatology Images 
 +  [Lightweight GAN](https://github.com/lucidrains/lightweight-gan)
   
  
