@@ -42,3 +42,5 @@ https://github.com/pubmedqa/pubmedqa
 [RWE-LLM](https://www.medrxiv.org/content/10.1101/2025.03.17.25324157v1.full.pdf) - Real-World Evaluation of Large Language Models in Healthcare (ArXiv paper)
 
 [MedHelm](https://crfm.stanford.edu/helm/medhelm/latest/) - foundation for testing and evaluation of the real-world applicability of language models in healthcare
+
+[LLM RR evals](https://github.com/cathyshyr/repeatability_and_reproducibility_of_LLMs) - A statistical framework for evaluating repeatability and reproducibility of large language models in diagnostic reasoning [medrXiv paper](https://www.medrxiv.org/content/10.1101/2025.08.06.25333170v1.full)
