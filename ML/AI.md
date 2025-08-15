@@ -48,6 +48,7 @@
 * [GPT engineer](https://github.com/AntonOsika/gpt-engineer) -  generates an entire codebase based on a prompt
 * [ChatGPT retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 * [Story Crowdsource Preference System](https://github.com/clchinkc/story_crowdsource_preference) -  Uses multiple AI models (GPT-4, Gemini, etc.) to generate story variations from prompts; [story variant collector(https://storycrowdsourcepreference.streamlit.app/)
+* [Gemma 3 270M](https://developers.googleblog.com/en/introducing-gemma-3-270m/) - compact model for hyper-efficient AI
 * [Wanderlust](https://github.com/widgetti/wanderlust) - Wanderlust app  rebuilt in Python using Solara
 * [Typer assistant](https://github.com/eblume/TyperAssistant) - turn any Typer add into a function-calling assistant
 * [GPT script to check Wikipedia](https://gwern.net/tla) - [python](https://gwern.net/static/build/latex2unicode.py)
