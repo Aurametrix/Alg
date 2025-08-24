@@ -6,3 +6,5 @@ Quickly build web UIs in Python: Used at Google for rapid internal app developme
 https://google.github.io/mesop/
 
 Mesop is a Python-based UI framework that allows you to rapidly build web apps like demos and internal apps
+
+[Static Sites with Python, uv, Caddy, and Docker](https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/)
