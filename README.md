@@ -581,7 +581,7 @@ pip install BeautifulSoup4
 
 + [Pelican for Web building](https://shahayush.com/2020/03/web-pelican-intro/)
 + [Tools for Semantic Web](https://github.com/pysemtec/semantic-python-overview)
-+ Semantic eBook search](https://github.com/derwiki/ebook-search) - with openAI
++ [Semantic eBook search](https://github.com/derwiki/ebook-search) - with openAI
 
 + [Data Science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 + [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
@@ -707,6 +707,8 @@ pip install pygsr
 [A Hitchhikers Guide to Asynchronous Programming](https://github.com/crazyguitar/pysheeet/blob/master/docs/appendix/python-concurrent.rst)
 
 [Programming Puzzles](https://github.com/microsoft/PythonProgrammingPuzzles)
+
+[how Python's list comprehensions work under the hood](https://pythonkoans.substack.com/p/koan-11-the-flowing-river-part-2)
 
 ### Interesting projects
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
