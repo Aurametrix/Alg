@@ -731,6 +731,7 @@ pip install pygsr
 + [symforce](https://github.com/symforce-org/symforce) - fast symbolic computations
 + [web-based spreadsheet application](https://github.com/ricklamers/gridstudio)
 + [Wonderland of math](https://github.com/neozhaoliang/pywonderland)
++ [Timesketch]{[Timesketch](https://github.com/google/timesketch)} -forensic timeline analysis
 + [Quantitative Finance](https://github.com/cantaro86/Financial-Models-Numerical-Methods)
 + [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - open source time tracker
 + [Bitcoin transactions](https://karpathy.github.io/2021/06/21/blockchain/)
