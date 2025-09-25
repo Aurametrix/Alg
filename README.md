@@ -43,6 +43,8 @@ Python
 
 [Python Packaging](https://lwn.net/Articles/1028299/)
 
+[Python on the Edge](https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly): Fast, sandboxed, and powered by WebAssembly
+
 [metaP](https://sbaziotis.com/compilers/metap.html) - meta-programming layer for Python
 
 [Yapsl](https://github.com/kutoga/yapsl) - Python SMS library
