@@ -10,6 +10,7 @@
 + [microbiome and ethnicity](https://github.com/awbrooks19/microbiota_and_ethnicity)
 + [datasets for music-based development](https://metabrainz.org/datasets)
 + [Theoria](https://theoria-dataset.github.io/theoria-dataset/) - curated physics dataset
++ [Generate Synthetic Datasets](https://lukehinds.github.io/deepfabric/)
 
 
 
