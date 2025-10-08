@@ -39,6 +39,8 @@ Python
 
 [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 
+[What's new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html)
+
 [Python packaging](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/)
 
 [Python Packaging](https://lwn.net/Articles/1028299/)
