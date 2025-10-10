@@ -204,6 +204,7 @@
 
 * [DyNet – Dynamic neural network library](https://github.com/clab/dynet)
 * [Neural Networks: zero to hero](https://karpathy.ai/zero-to-hero.html)
+* [Neural Networks from scratch](https://www.hamza.se/blog/neural-networks)
 
 TensorFlow is "Define-and-Run". Chainer, PyTorch, and DyNet are "Define-by-Run", as the graph structure is defined on-the-fly via the actual forward computation.
 
