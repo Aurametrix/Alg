@@ -40,6 +40,7 @@ Python
 [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 
 [What's new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html)
+[How fast is 3.14?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
 
 [Python packaging](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/)
 
