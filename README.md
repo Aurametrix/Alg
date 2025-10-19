@@ -760,6 +760,7 @@ pip install pygsr
 + [tetris in a pdf](https://github.com/ThomasRinsma/pdftris/blob/main/gengrid.py)
 + [Python-based blog engine](http://pyblosxom.github.io/)
 + [Pretty Maps](https://tech.marksblogg.com/pretty-maps-in-python.html)
++ [https://blog.google/technology/developers/grounding-google-maps-gemini-api/](Google Maps: Now available in the Gemini API)
 + [MAP machine](https://github.com/enzet/map-machine)
 + [github assistant](https://github.com/reltadev/github-assistant)
 + [Mapsy](https://pypi.org/project/mapsy/) - library designed easily render static maps
