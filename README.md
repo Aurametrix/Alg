@@ -68,6 +68,8 @@ Python
 
 [Natto](https://python.natto.dev/) - spatial environment for Python
 
+[symbolic python interpreter](https://chalk.ai/blog/symbolic-python-interpreter)
+
 [How virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 [identify unused dependences to avoid bloated envs](https://github.com/fredrikaverpil/creosote)
 [container types](https://www.b-list.org/weblog/2023/dec/24/python-container-types/)
