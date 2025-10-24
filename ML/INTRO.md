@@ -39,6 +39,7 @@
 + [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - powered by 100% RNN language model
 
 + [Tinygrad](https://github.com/geohot/tinygrad) - between a pytorch and a karpathy/micrograd
++ [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/) - distributed programming framework that brings the simplicity of single-machine PyTorch to entire clusters
 + [Neograd](https://github.com/pranftw/neograd) - DL framework created with Python and NumPy
 
     + [make circles](https://colab.research.google.com/drive/184916aB5alIyM_xCa0qWnZAL35fDa43L?usp=sharing)
