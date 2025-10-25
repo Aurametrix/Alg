@@ -694,6 +694,8 @@ pip install pygsr
 
 [Pytorch from scratch](https://github.com/MarioSieg/magnetron)
 
+[TorchComms](https://pytorch.org/blog/torchcomms/) - a modern PyTorch communications AP
+
 [control flow in PT2](https://blog.ezyang.com/2025/09/so-you-want-to-control-flow-in-pt2/) - [bugs](https://github.com/pytorch/pytorch/issues/151328)
 
 [A grammar of graphics for python](https://github.com/has2k1/plotnine)
