@@ -775,7 +775,8 @@ pip install pygsr
 + [Keyboard](https://hackaday.io/project/188907-keyboard-as-a-python-code)- hardware designed for python only
 + [Zenodo](https://github.com/zenodo/zenodo) - AI-assisted systematic reviews - [docs](https://github.com/MrCordeiro/parse2docs)
 + [FindMy,Py](https://github.com/malmeloo/FindMy.py) - The all-in-one library that provides everything you need to query Apple's FindMy network
-+ [THe ABC programming language](https://homepages.cwi.nl/~steven/abc/) - influenced python syntax
++ [The ABC programming language](https://homepages.cwi.nl/~steven/abc/) - influenced python syntax
++ [KeyLeak Detector](https://github.com/Amal-David/keyleak-detector) - scans website for potential sensitive info leaks
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 + [Personal Data Management Dashboard](https://volmarg.github.io/) - [GH](https://github.com/Volmarg/personal-management-system)
