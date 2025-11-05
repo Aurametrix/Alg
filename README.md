@@ -223,6 +223,8 @@ Python
 
 [Python style hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/) /introduced in Python 3.5
 
+[Python vs Node.js](https://blog.yakkomajuri.com/blog/python-to-node) - November 3, 2025
+
 + [How Python Attributes work](https://tenthousandmeters.com/blog/python-behind-the-scenes-7-how-python-attributes-work/)
 
 + Python libraries for NLP:
