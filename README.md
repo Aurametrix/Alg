@@ -343,6 +343,8 @@ Python
 
 [Memory Allocator in Numpy](https://github.com/inaccel/numpy-allocator)
 
+[How often does Python allocate?](https://zackoverflow.dev/writing/how-often-does-python-allocate/)
+
     [einsum](https://ajcr.net/Basic-guide-to-einsum/)
 
 [Faster Calculations with Numba](https://pythonspeed.com/articles/numba-faster-python/)
