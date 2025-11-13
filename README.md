@@ -242,6 +242,7 @@ Python
     + [Reddit bot](https://medium.com/@bbrenng1/create-your-first-reddit-bot-with-python-and-heroku-e75d7af3026f)
     + [ToddlerBot](https://github.com/hshi74/toddlerbot) - low-cost, open-source humanoid robot platform designed for scalable policy learning and research in robotics and AI.
     + [txtai](https://github.com/neuml/txtai) - All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+    + [Valori](https://news.ycombinator.com/item?id=45864900) - A Python-native Vector Database
     + [simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
     + [Binary Vector Search](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
     + [Semanrtic Search](https://github.com/onenodehq/onenode)
