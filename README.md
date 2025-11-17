@@ -278,6 +278,8 @@ Python
 
 [FASTAPI](https://fastapi.tiangolo.com/) - modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints
 
+[Z3Py](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) - Z3 API
+
 [self-contained python scripts with uv](https://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/)
 
 [web2pdf](https://github.com/dvcoolarun/web2pdf) - CLI to convert webpages to PDFs
