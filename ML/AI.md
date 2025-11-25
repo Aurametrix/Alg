@@ -46,6 +46,7 @@
 * [TRAP](https://github.com/BobMcDear/trap) - autoregressive transformers - namely, GPT2 - in APL
 * [ChatHUB](https://github.com/chathub-dev/chathub/blob/main/README.md) - Use ChatGPT, Bing, Bard and Claude in One App
 * [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
+* [Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use) on the Claude Developer Platform
 * [GPT engineer](https://github.com/AntonOsika/gpt-engineer) -  generates an entire codebase based on a prompt
 * [ChatGPT retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 * [Story Crowdsource Preference System](https://github.com/clchinkc/story_crowdsource_preference) -  Uses multiple AI models (GPT-4, Gemini, etc.) to generate story variations from prompts; [story variant collector(https://storycrowdsourcepreference.streamlit.app/)
