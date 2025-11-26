@@ -338,6 +338,8 @@ Python
 
 [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) 
 
+[Python and Data Science](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)
+
 [Clean Code](https://github.com/davified/clean-code-ml/blob/master/notebooks/titanic-notebook-1.ipynb)
 
 [Batteries included](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/)
