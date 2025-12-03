@@ -342,6 +342,8 @@ Python
 
 [Python and Data Science](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)
 
+[Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 [Clean Code](https://github.com/davified/clean-code-ml/blob/master/notebooks/titanic-notebook-1.ipynb)
 
 [Batteries included](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/)
