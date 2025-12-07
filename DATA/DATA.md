@@ -291,6 +291,8 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 
 [Advanced Scientific Data Format](https://github.com/asdf-format/asdf)
 
+[Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
+
 
 #### JSON
 
