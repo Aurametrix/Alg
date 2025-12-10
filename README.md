@@ -218,6 +218,7 @@ Python
 [Python IDM](https://github.com/pyIDM/PyIDM) - Internet Download manager
 
 [Django 3.2](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/)
+Django 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 
 [Tools for making python packages](https://antonz.org/python-packaging/)
 
