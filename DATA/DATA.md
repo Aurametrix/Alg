@@ -264,6 +264,7 @@ Winston-Salem, North Carolina	http://www.cityofws.org/departments/pla
 [PedNet](https://github.com/nathanrooy/ped-net)
 [self-hosted knowledge base](https://github.com/Uzay-G/archivy)
 [Simple SQL](https://github.com/nackjicholson/aiosql)
+[Data Axolotl](https://github.com/thorntale/data-axolotl) - data monitoring tool for catching unexpected breaking changes in analytics data sets
 
 [QuestDB](https://play.questdb.io/) - 	Time-series QuestDB with Python, Pandas and SQL in a Jupyter notebook – no install
 
