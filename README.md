@@ -349,6 +349,8 @@ Django 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 
 [Batteries included](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/)
 
+[MArkov models generating blog posts](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
+
 [Docstrings better than comments](https://blog.jaraco.com/why-docstrings-are-preferable-to-comments/)
 
 [Memory Allocator in Numpy](https://github.com/inaccel/numpy-allocator)
