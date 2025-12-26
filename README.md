@@ -741,6 +741,7 @@ pip install pygsr
 ### Interesting projects
 + [Generate Hacker News Projects](https://hncynic.leod.org/), [code](https://github.com/leod/hncynic)
 + [Mathics 7.0: Open Source Alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
++ [Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)
 + [70+ Python projects with source code](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 + [Python tools for malware analysis](https://www.pythonstacks.com/blog/post/top-python-tools-malware-analysis/)
 + [Sherlock](https://github.com/sherlock-project/sherlock) - Find usernames across social networks
