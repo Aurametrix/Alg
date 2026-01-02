@@ -42,6 +42,8 @@ Python
 [What's new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html)
 [How fast is 3.14?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
 
+[Python Numbers Every Programmer Should Know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
+
 [Python packaging](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/)
 
 [Python Packaging](https://lwn.net/Articles/1028299/)
