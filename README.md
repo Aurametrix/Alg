@@ -66,6 +66,8 @@ Python
 
 [100x speedup](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 
+[Sandboxing Untrusted Python](https://gist.github.com/mavdol/2c68acb408686f1e038bf89e5705b28c)
+
 [Ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 
 [Natto](https://python.natto.dev/) - spatial environment for Python
