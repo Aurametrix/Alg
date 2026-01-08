@@ -40,6 +40,7 @@ PyPI packages
 +  [An Algorithmic Audio Landscape](https://ambient.garden/)
 +  [Auidiosample](https://deepdub.ai/post/introducing-audiosample-an-efficient-solution-for-audio-processing) for audio processing
 +  [music gvneration foundation model](https://github.com/ace-step/ACE-Step)
++  [Karma player](https://github.com/trust-tune-net/karma-player) /TrustTune Network/ [](https://www.trusttune.network/)
 +  [Python Audio Transcription](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
 
 ### Images + Audio
