@@ -46,6 +46,8 @@ Python
 
 [Python packaging](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/)
 
+[the Internet Archive Python Library](https://github.com/jjjake/internetarchive)
+
 [Python Packaging](https://lwn.net/Articles/1028299/)
 
 [Python on the Edge](https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly): Fast, sandboxed, and powered by WebAssembly
