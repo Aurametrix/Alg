@@ -89,6 +89,8 @@ Python
 
 [RYE](https://rye.astral.sh/) - project management for PYthon
 
+[TProf](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/) - targeting profiler
+
 [compile to another version](https://github.com/nvbn/py-backwards)
     ➜ py-backwards -i input.py -o output.py -t 2.7
     
