@@ -879,6 +879,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [Pytorch Search Engine](https://you.com/niche/pytorch?q=initialize+weights&fromSearchBar=true)
 + [Pytorch 2.0](https://pytorch.org/blog/pytorch-2.0-release/)
 + [Executorch](https://pytorch.org/executorch/stable/index.html) - https://pytorch.org/executorch/stable/index.htmlPyTorch platform that provides infrastructure to run PyTorch programs everywhere from AR/VR wearables to standard on-device iOS and Android mobile deployment
++ [TikTock design](https://grokkingthesystemdesign.com/guides/tiktok-system-design/) - TikTok mobile app is programmed in C and C++, Java, Python, SQL, Go, R, React And Angular, Objective-C And Swift are available on this platform
 
 ##### Decentralized Communities
 + [Hummingbard](https://hummingbard.com/hummingbard/introducing-hummingbard) built on top of [Matrix](https://github.com/matrix-org)
