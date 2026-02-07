@@ -203,6 +203,8 @@ Python
 [JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy): -  high-performance C extensions
 [Numpy 2.0](https://numpy.org/devdocs/release/2.0.0-notes.html)
 [Numpy Practical Examples](https://realpython.com/numpy-example/)
+[Speeding up NumPy with parallelism](https://pythonspeed.com/articles/numpy-parallelism/)
+
 [C-style for loops](https://tushar.lol/post/cursed-for/)
 
 [Setting up Python for ML on Windows](https://realpython.com/python-windows-machine-learning-setup/)
