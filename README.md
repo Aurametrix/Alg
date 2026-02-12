@@ -276,6 +276,8 @@ Django 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 
 [Text Similarity with Python](https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python)
 
+[Text classification with Python 3.14's zstd module](https://maxhalford.github.io/blog/text-classification-zstd/)
+
 [PyCantonese:](https://pycantonese.org/index.html) Cantonese Linguistics 
     
 [NLP library](https://stanfordnlp.github.io/stanfordnlp/) moved to [Stanza](https://github.com/stanfordnlp/stanza/)
