@@ -727,6 +727,8 @@ pip install pygsr
 
 [Pytorch from scratch](https://github.com/MarioSieg/magnetron)
 
+[Visual intro to Pytorch](https://0byte.io/articles/pytorch_introduction.html)
+
 [TorchComms](https://pytorch.org/blog/torchcomms/) - a modern PyTorch communications AP
 
 [control flow in PT2](https://blog.ezyang.com/2025/09/so-you-want-to-control-flow-in-pt2/) - [bugs](https://github.com/pytorch/pytorch/issues/151328)
