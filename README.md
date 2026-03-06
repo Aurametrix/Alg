@@ -817,6 +817,7 @@ pip install pygsr
 + [The ABC programming language](https://homepages.cwi.nl/~steven/abc/) - influenced python syntax
 + [KeyLeak Detector](https://github.com/Amal-David/keyleak-detector) - scans website for potential sensitive info leaks
 + [Pygantry](https://github.com/erabytse/Pygantry) - The ultra-lightweight Python container engine
++ [Kanon 2 Enricher](https://isaacus.com/blog/kanon-2-enricher) -  the world’s first hierarchical graphitization model, capable of transforming unstructured documents of any length into rich, highly structured knowledge graphs with sub-second latency.
 
 + [DeepMind for Science](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery), [github repo](https://github.com/deepmind/deepmind-research)
 + [Personal Data Management Dashboard](https://volmarg.github.io/) - [GH](https://github.com/Volmarg/personal-management-system)
