@@ -226,6 +226,8 @@ Python
 [The Python tutorial](https://docs.python.org/3/tutorial/index.html)
 [Resource for Python Developers](https://pythonlink.xyz/en)
 
+[CasNum](https://github.com/0x0mer/CasNum) - Compass and straightedge Number, a library that implements arbitrary precision arithmetic using compass and straightedge constructions. 
+
 [A Simple Guide to creating Predictive Models](https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-2b-7be3afb5c557)
 
 [IDOM](https://rmorshea.github.io/articles/2021/idom-react-but-its-python/article/) - declarative Python package for building highly interactive user interfaces
