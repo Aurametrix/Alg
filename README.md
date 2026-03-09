@@ -779,6 +779,7 @@ pip install pygsr
 + [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 + [Time tracker](https://github.com/tech-branch/tsr)
 + [symforce](https://github.com/symforce-org/symforce) - fast symbolic computations
++ [Artificial Life](https://github.com/Rabrg/artificial-life)
 + [web-based spreadsheet application](https://github.com/ricklamers/gridstudio)
 + [Wonderland of math](https://github.com/neozhaoliang/pywonderland)
 + [Timesketch]{[Timesketch](https://github.com/google/timesketch)} -forensic timeline analysis
