@@ -865,6 +865,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [ActivePapers](https://github.com/activepapers/activepapers-python)
 + [urllib3](https://github.com/urllib3/urllib3/releases/tag/2.2.0) now works in the browser
 + [PySpread](https://pyspread.gitlab.io/) - pythonic spreadsheets
++ [distributed python dataframes](https://news.ycombinator.com/item?id=47339646)
 
 
 + [Converting tapes](https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/) of  [Usenet archives](UsenetArchives.com)
