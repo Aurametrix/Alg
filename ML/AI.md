@@ -78,6 +78,7 @@
   - [MAMBA by anakin.ai](https://anakin.ai/blog/mamba/)
   - [Can we Reach AGI with just LLMS](https://www.youtube.com/watch?v=jq0QeWIgvfw)  - Dr.Waku's Youtube
   - [MAMBA explained](https://thegradient.pub/mamba-explained/)
+  - [Mamba-3](https://www.together.ai/blog/mamba-3)
   - [FAL](https://github.com/fal-ai/fal) - serverless Python runtime that lets you run and scale code in the cloud with no infra management: build pipelines, serve ML models and scale them up
   - [TExt2Image model](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
   - [Qwen image](https://qwenlm.github.io/blog/qwen-image/) -- [on hagging face](https://huggingface.co/Qwen/Qwen-Image)
