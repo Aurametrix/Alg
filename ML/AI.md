@@ -17,6 +17,7 @@
 * [Streaming in the Assistant's API](https://platform.openai.com/docs/assistants/overview?context=with-streaming)
 * [OpenAI: function calling](https://platform.openai.com/docs/guides/function-calling?api-mode=responses)
 * [OpenAI agents](https://openai.github.io/openai-agents-python/)
+* [Opencode](https://opencode.ai/) - The open source AI coding agent
 * [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [ChatGPT for your data](https://github.com/raghavan/PdfGptIndexer)
