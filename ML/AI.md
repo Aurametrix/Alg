@@ -433,6 +433,7 @@ https://retool.com/products/ai
 + [Tools to Visualkize Architecture of NN](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 + [Tenzorflow playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.14660&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 + [Convolutions](https://github.com/3b1b/videos/tree/master/_2023/convolutions2)
++ [SentrySearch](https://github.com/ssrajadh/sentrysearch) - video search
 
 ### MISC
 
