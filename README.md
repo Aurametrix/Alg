@@ -415,6 +415,8 @@ https://github.com/fperez/jupytee
 [Build a Reactive Data Streaming App with Python and Apache Kafka](https://www.youtube.com/watch?v=jItIQ-UvFI4) - Subscribe to alert without alert API
 https://www.confluent.io/resources/online-talk/coding-in-motion/building-a-reactive-data-streaming-app/
 
+[CSP-toolkit](https://chs.us/2026/03/csp-toolkit/) -  library and CLI tool that parses CSP headers
+
 
 [Overpass](https://github.com/GOATS2K/overpass) - host your own live streaming server
 
