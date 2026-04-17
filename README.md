@@ -39,6 +39,8 @@ Python
 
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
 
+[CadQuery](https://cadquery.github.io/) - library for building 3D CAD models
+
 [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 
 [What's new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html)
