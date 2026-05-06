@@ -1037,6 +1037,7 @@ pip install matplotlib
 + [What's new in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
 + [Python 3.13: what did not make headlines](https://www.bitecode.dev/p/python-313-what-didnt-make-the-headlines)
 + [PyPy 7.3.16](https://www.pypy.org/posts/2024/04/pypy-v7316-release.html)
++ [PyInfra](https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0) v3.8.0
 
 ### Conferences    
 
