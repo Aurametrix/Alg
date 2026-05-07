@@ -25,6 +25,7 @@ PyPI packages
 + [Similar Image Search](https://blog.qwertyforce.dev/posts/similar_image_search) - [code](https://github.com/qwertyforce/image_search)
 + [GFPGAN](https://github.com/TencentARC/GFPGAN) -  Practical Algorithm for Real-world Face Restoration.
 + [video compression with bloom filters](https://github.com/ross39/new_bloom_filter_repo)
++ [Bulk Background Remover](https://github.com/mhamzahashim/bulk-bg-remover)
 
 
 ### Audio
