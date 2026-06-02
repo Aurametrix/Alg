@@ -253,6 +253,8 @@ information that are all connected
 to a Generative AI model invokes
 the concept of an agent.
 
+[AI agent guidelines](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+
 [MaxText](https://github.com/google/maxtext) - JAX LLM
 
 
