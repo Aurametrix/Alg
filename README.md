@@ -901,6 +901,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [Diffoscope](https://diffoscope.org/) - In-depth comparison of files, archives, and directories
 
 + [Whoogle](https://github.com/benbusby/whoogle-search) - google search without ads
++ [small brain](https://ranpara.net/posts/perceptron-explained-from-scratch/)
 
 + [Pytorch Search Engine](https://you.com/niche/pytorch?q=initialize+weights&fromSearchBar=true)
 + [Pytorch 2.0](https://pytorch.org/blog/pytorch-2.0-release/)
