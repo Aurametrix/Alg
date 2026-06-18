@@ -7,3 +7,6 @@ Online Grace calculator:
 https://www.outcomes-umassmed.org/grace/acs_risk2/index.html
 Original GRACE site:
 https://www.outcomes-umassmed.org/grace/
+
+AI in cardiac CT
+https://litfl.com/ai-in-cardiac-ct/
