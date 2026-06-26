@@ -429,6 +429,7 @@ https://retool.com/products/ai
 - [TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM/) - optimises inference time for LLMs on Nvidia cards.
 - [thin wrapper around TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs.
 - [nuanced image generation with NanoBanana](https://minimaxir.com/2025/11/nano-banana-prompts/)
+- [ARA](https://github.com/ARA-Labs/Agent-Native-Research-Artifact/tree/main/examples) - Agent-Native Research Artifacts Format
 
 ### Animated AI
 
