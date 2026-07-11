@@ -846,6 +846,7 @@ pip install pygsr
 + [Pytest debugger](https://github.com/leapingio/leaping)
 + [Pycel](https://github.com/pyccel/pyccel) - Python extension language using accelerators
 + [Prolog in Python](https://github.com/brunokim/prol)
++ [CPython ABI](https://labs.quansight.org/blog/python-abi-abi3t)
 
 + [Discovering Novel Algorithms)](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor)  
 with [AlphaTensor](https://github.com/deepmind/alphatensor)
