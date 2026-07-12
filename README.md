@@ -41,6 +41,7 @@ Python
 
 [CadQuery](https://cadquery.github.io/) - library for building 3D CAD models
 
+[otary](https://alexandrepoupeau.com/otary/learn/) -  Image and Geometry Python Library Now Has Tutorials
 [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 
 [What's new in Python 3.14](https://docs.python.org/3/whatsnew/3.14.html)
