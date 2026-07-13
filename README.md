@@ -449,6 +449,8 @@ https://www.confluent.io/resources/online-talk/coding-in-motion/building-a-react
 [Pylance](https://www.infoq.com/news/2020/07/pylance-visual-studio-code/)
 [Folders](https://github.com/SinaKhalili/Folders.py) - python implementation
 
+[Pure Python Javascript engine](https://github.com/simonw/micro-javascript)
+
 [Dependency management tools](https://modelpredict.com/python-dependency-management-tools)
 
 [Crush course by Google](https://www.i-programmer.info/news/150-training-a-education/14493-a-crash-course-on-python-by-google.html)
