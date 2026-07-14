@@ -502,6 +502,8 @@ https://retool.com/products/ai
 
  [OpenAplha_Evolve](https://github.com/shyamsaktawat/OpenAlpha_Evolve) - Regenerating Autonomous Algorithmic Discovery [notebooklm](https://notebooklm.google.com/notebook/21c03820-e14a-424f-8cac-ed7f0f9aed4f/audio)
 
+ [Jacquard](https://github.com/jbwinters/jacquard-lang) - a programming language for AI-written, human-reviewed code
+
 ### Notes
  - Claude Sonnet 3.5: everyday coding tasks with excellent flexibility and speed.
  - GPT-o1-preview: planning, difficult debugging, and deep reasoning about code; math tasks
