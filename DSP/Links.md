@@ -47,6 +47,7 @@ PyPI packages
 ### Images + Audio
 +  [Images that Sound](https://github.com/IFICL/images-that-sound)
 +  [Chaplin](https://github.com/amanvirparhar/chaplin) - A visual speech recognition (VSR) tool that reads your lips in real-time and types whatever you silently mouth. Runs fully locally
++  [Moonshine Micro](https://github.com/moonshine-ai/moonshine/tree/main/micro) - Voice Interfaces for Microcontrollers
 
 ### Video
 + [Video Average Frame](https://github.com/wq2012/video-average-frame) - compute the average frame of a video
