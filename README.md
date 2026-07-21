@@ -270,6 +270,7 @@ Django 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
     + [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
     + [Reddit bot](https://medium.com/@bbrenng1/create-your-first-reddit-bot-with-python-and-heroku-e75d7af3026f)
     + [ToddlerBot](https://github.com/hshi74/toddlerbot) - low-cost, open-source humanoid robot platform designed for scalable policy learning and research in robotics and AI.
+    + [the0](https://github.com/alexanderwanyoike/the0) -  open-source algorithmic trading execution engine that provides production-grade infrastructure for deploying and managing trading bots across multiple markets. 
     + [txtai](https://github.com/neuml/txtai) - All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
     + [Valori](https://news.ycombinator.com/item?id=45864900) - A Python-native Vector Database
     + [simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
