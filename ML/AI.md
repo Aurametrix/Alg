@@ -150,6 +150,7 @@
 + Anychat	Use any AI model in one place
 + Codeium	AI-powered autocomplete for your code
 + [OASIS](https://github.com/camel-ai/oasis) - Open Agent Social Interaction Simulations with One Million Agents
++ [Building custom agents](https://help.trmnl.com/en/articles/14130438-ai-agent)
 
 ### Get creative
 + ElevenLabs	Realistic AI voices
