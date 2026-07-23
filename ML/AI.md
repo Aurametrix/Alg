@@ -471,6 +471,7 @@ https://retool.com/products/ai
 [HealthBench](https://openai.com/index/healthbench/) - An evaluation for AI systems and human health; [arxiv paper](https://arxiv.org/abs/2505.08775)
 
 [Evals in 2025](https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md)
+[Benchmarks are Dead](https://poetiq.ai/posts/benchmarks_are_dead/)
 ### ACTIONS
 
 + [Repo for custom actions](https://github.com/bapo2/gpt-actions)
