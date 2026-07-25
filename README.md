@@ -828,6 +828,7 @@ pip install pygsr
 + [github assistant](https://github.com/reltadev/github-assistant)
 + [Mapsy](https://pypi.org/project/mapsy/) - library designed easily render static maps
 + [Datasette Lite](https://simonwillison.net/2022/May/4/datasette-lite/) - server-side Python web application running in a browser - [try it out here](https://simonw.github.io/datasette-lite/)
++ [AI tools for learning pythong from scratch](https://github.com/KubiKDB/AI-Tools-For-Learning))
 + [Flatland]( https://github.com/mayahq/flatland) - environment for program synthesis experiments
 + [Pyright](https://github.com/microsoft/pyright) - static type checker
 + [MyPy](https://pypi.org/project/mypy/) - linter on steroids
