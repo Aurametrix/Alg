@@ -104,7 +104,8 @@
 + [GPT4all](https://www.nomic.ai/gpt4all) - desktop client for download
 + [LLM by Simon Williso](https://llm.datasette.io/en/stable/) - one of the easier ways to download and use open source LLMs locally; need Python installed to run it
 + [2025 year in review](https://karpathy.bearblog.dev/year-in-review-2025/)
-+ [Seer](https://github.com/seer-engg/seer) - a workflow builder 
++ [Seer](https://github.com/seer-engg/seer) - a workflow builder
++ [esp32-ai](https://github.com/slvDev/esp32-ai) - Running a 28.9M parameter LLM on an $8 microcontroller
 
 
 + [MiniMax-AI](https://github.com/MiniMax-AI)
