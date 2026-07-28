@@ -755,6 +755,8 @@ pip install pygsr
 
 [Helion](https://pytorch.org/blog/helion/) - A High-Level DSL for Performant and Portable ML Kernels
 
+[PyTorch: a reference language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
+
 [A grammar of graphics for python](https://github.com/has2k1/plotnine)
 
 [Knowledge extraction from unstructured texts](https://blog.heuritech.com/2016/04/15/knowledge-extraction-from-unstructured-texts/)
