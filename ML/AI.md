@@ -23,6 +23,7 @@
 * [Agent Memory strategy](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/)
 * [Halo](https://github.com/bkuan001/halo-record) -  tamper-evident runtime evidence for AI agents
 * [List of alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+* [CrewAI in Python](https://realpython.com/crewai-python/) - agent coordination
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [ChatGPT for your data](https://github.com/raghavan/PdfGptIndexer)
 * [Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain); [github](https://github.com/airbytehq/tutorial-connector-dev-bot)
