@@ -7,6 +7,7 @@ Python
 [PDM](https://pdm.fming.dev/) - python package manager with PEP 582 support
 [How to create Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
 [making packaging lib faster](https://iscinumpy.dev/post/packaging-faster/)
+[scaling numpy](https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python)
 [SeqLogic](https://github.com/cjdrake/seqlogic) - Sequential Logic, SeqiLog (pronounced seh-kwi-log), a Python library for logic design and verification.
 [SnackBase](https://snackbase.dev/) - open-source Python backend with immutable audit logs, GxP compliance, and row-level security built-in.
 
