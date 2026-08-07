@@ -250,6 +250,9 @@ The following models are considered GPT 3.5:
 - 
 [prompttools](https://github.com/hegelai/prompttools) - for evaluations LLMs and vector dbs
 
+
+[ARF](https://www.korvo.xyz/arf) -  record format for evaluation runs
+
 [Magentic](https://github.com/jackmpcollins/magentic) - to integrate Large Language Models into code (as Python functions)
 
 [HumanLayer](https://humanlayer.dev) - an API and SDK that enables AI Agents to contact humans for feedback, input, and approvals
