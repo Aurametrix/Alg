@@ -91,7 +91,10 @@
   - [TimeGPT](https://docs.nixtla.io/docs/getting-started-timegpt_quickstart)
   - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
   - [DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepSeek's communication library tailored for Mixture-of-Experts (MoE) and expert parallelism (EP)
+  - [X.AI's Grok bot](https://x.ai/bot)
+  - [Nvidia Nemotron](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4) 
   - [Using DeepSeek R1 for RAG](https://blog.skypilot.co/deepseek-rag/)
+  - [Meta's Muse Glimmer](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 
 ### GPTs & LLMs
 
