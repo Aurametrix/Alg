@@ -89,6 +89,8 @@ Python
 
 [Natto](https://python.natto.dev/) - spatial environment for Python
 
+[Grounded Memory Runtime](https://github.com/Anchorstate-Lab/GMR)
+
 [symbolic python interpreter](https://chalk.ai/blog/symbolic-python-interpreter)
 
 [How virtual environments work](https://snarky.ca/how-virtual-environments-work/)
