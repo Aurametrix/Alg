@@ -37,6 +37,8 @@ Python
 
 [Python with E-graphs](https://vectorfold.studio/blog/egglog)
 
+[Polars cheetsheet](https://opensource.posit.co/resources/cheatsheets/polars/)
+
 
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
 
