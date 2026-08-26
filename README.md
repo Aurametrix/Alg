@@ -10,6 +10,7 @@ Python
 [scaling numpy](https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python)
 [SeqLogic](https://github.com/cjdrake/seqlogic) - Sequential Logic, SeqiLog (pronounced seh-kwi-log), a Python library for logic design and verification.
 [SnackBase](https://snackbase.dev/) - open-source Python backend with immutable audit logs, GxP compliance, and row-level security built-in.
+[ str.lower](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) - security vulnerability
 
 [RAE](https://www.theregister.com/2023/05/04/a_python_tool_called_rye/) - for python packaging, distribution
 [No-GIL Python](https://lwn.net/Articles/947138/)
