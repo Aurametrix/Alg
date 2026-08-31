@@ -894,6 +894,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [urllib3](https://github.com/urllib3/urllib3/releases/tag/2.2.0) now works in the browser
 + [PySpread](https://pyspread.gitlab.io/) - pythonic spreadsheets
 + [distributed python dataframes](https://news.ycombinator.com/item?id=47339646)
++ [RISC V](https://blog.python.org/2026/08/riscv-now-officially-supported/)
 
 
 + [Converting tapes](https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/) of  [Usenet archives](UsenetArchives.com)
