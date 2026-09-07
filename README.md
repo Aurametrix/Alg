@@ -95,6 +95,7 @@ Python
 [Grounded Memory Runtime](https://github.com/Anchorstate-Lab/GMR)
 
 [symbolic python interpreter](https://chalk.ai/blog/symbolic-python-interpreter)
+[Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
 
 [How virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 [identify unused dependences to avoid bloated envs](https://github.com/fredrikaverpil/creosote)
