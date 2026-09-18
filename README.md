@@ -172,6 +172,7 @@ Python
 [Solution for concurrency](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
 
 [Koda](https://pypi.org/project/koda/) - a collection of practical type-safe tools for Python.
+[Flet](https://flet.dev/) - build cross-platform apps
 
 [PyPi trends](https://py-code.org/stats)
 
