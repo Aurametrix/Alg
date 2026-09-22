@@ -542,6 +542,8 @@ https://www.confluent.io/resources/online-talk/coding-in-motion/building-a-react
 
 [Is Python the world's most popular language?](https://news.ycombinator.com/item?id=18182003)
 
+[Git 2.56 — and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
+
 
 ### tips & tricks
 
