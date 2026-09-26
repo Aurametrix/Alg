@@ -463,7 +463,8 @@ https://retool.com/products/ai
 + [Kagi's VectorDB](https://vectordb.com/)
 + [Tree Diffusion](https://github.com/revalo/tree-diffusion) - [teach neural models to *edit* programs, informed by the execution output](https://tree-diffusion.github.io/)
 + [WEB BROWSING ai](https://github.com/stanford-mast/blast)
-+ [V.AI](https://github.com/eotter-beep/vai) - open-source AI characters platform 
++ [V.AI](https://github.com/eotter-beep/vai) - open-source AI characters platform
++ [Hugging Face Details](https://swarmtraces.org/)
 
 ### Autogen - a framework for the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 + [Notebook](https://github.com/microsoft/autogen/tree/main/notebook)
