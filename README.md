@@ -683,6 +683,7 @@ pip install BeautifulSoup4
 * [MUD Pi](https://github.com/Frimkron/mud-pi) - A simple text-based Multi-User Dungeon (MUD) game, which could be run on a Raspberry Pi or other low-end server
 * [DOOM-style-Game](https://github.com/StanislavPetrovV/DOOM-style-Game) - open-source tool to visualize Git commands directly in your own repo
 * [Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
+* [Pyxel](https://github.com/kitao/pyxel) - etro game engine for Python
 * [Intro for absolute beginners](https://github.com/webartifex/intro-to-python)
 * [Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
 * [Coconut](http://coconut-lang.org/), a functional programming language that compiles to Python
