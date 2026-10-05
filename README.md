@@ -40,6 +40,8 @@ Python
 
 [Polars cheetsheet](https://opensource.posit.co/resources/cheatsheets/polars/)
 
+[Vuild with Python](https://scimigo.com/en/learn/build-with-python/01-draw-with-python)
+
 
 [Python job scheduling](https://schedule.readthedocs.io/en/stable/index.html) - [sched library](https://docs.python.org/3/library/sched.html)
 
