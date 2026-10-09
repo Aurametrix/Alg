@@ -97,6 +97,7 @@
   - [Nvidia Nemotron](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4) 
   - [Using DeepSeek R1 for RAG](https://blog.skypilot.co/deepseek-rag/)
   - [Meta's Muse Glimmer](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+  - []Benchmark your own model(https://github.com/opper-ai/jevman-benchmark/blob/main/CONTRIBUTING.md#benchmark-your-own-model)
 
 ### GPTs & LLMs
 
