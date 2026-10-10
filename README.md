@@ -56,6 +56,7 @@ Python
 [Python 3.15’s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 
 [3.15 features](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
+[What's new in 3.15](https://docs.python.org/3/whatsnew/3.15.html)
 
 [Python Numbers Every Programmer Should Know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
 
