@@ -312,6 +312,9 @@ the concept of an agent.
 [TinyTroupe 🤠🤓🥸🧐](https://github.com/microsoft/TinyTroupe) - 
 LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 
+[MAth Papers from OpenAI](https://github.com/openai/math/tree/main/preprints)
+[AI-assisted repositories on github](https://github.com/ActuallyTaylor/strata/blob/main/paper/data/large/datasets/ai-assisted-repositories.csv)
+
 ###
 https://github.com/mmabrouk/chatgpt-wrapper
 pip install git+https://github.com/mmabrouk/chatgpt-wrapper
