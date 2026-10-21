@@ -43,6 +43,7 @@ PyPI packages
 +  [music gvneration foundation model](https://github.com/ace-step/ACE-Step)
 +  [Karma player](https://github.com/trust-tune-net/karma-player) /TrustTune Network/ [](https://www.trusttune.network/)
 +  [Python Audio Transcription](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
++  [Suno Cleanser](https://github.com/MeFuMo/SunoCleanser/) - cleaning wav
 
 ### Images + Audio
 +  [Images that Sound](https://github.com/IFICL/images-that-sound)
