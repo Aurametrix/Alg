@@ -140,6 +140,8 @@ Python
 [Negatypes](https://www.hillelwayne.com/negatypes/)
  
 [REPL, online compiler](https://repl.it/repls/FrugalOrderlyLearning)
+
+[Symbolic learning in Python and Julia](https://github.com/astroautomata/PySR)
  
 [Junja2 - a template engine](http://jinja.pocoo.org/); [2.1](https://github.com/pallets/jinja/releases/tag/2.10)
 
