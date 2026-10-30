@@ -7,6 +7,7 @@ There are 10k+ air sensors that publish their pm2.5 measurements every 10 mins t
 
 
 [Pomi](https://github.com/sidmohan0/pomi) – standalone voice agent running on the Rabbit R1 
+[tinyworldformer](https://github.com/SheepSeb/tinyworldformer) - Using 2 small neural networks to generate and play the game at the same time on a Raspberry Pi Pico 2 W.
 
 
 ## Beginner — Raspberry Pi / Sensors / GPIO
