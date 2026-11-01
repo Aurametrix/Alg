@@ -105,6 +105,7 @@ Python
 [container types](https://www.b-list.org/weblog/2023/dec/24/python-container-types/)
 
 [Pyston](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/) - [v2.2](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
+[sentinel values](https://florianwilhelm.info/2026/10/sentinel_values/)
 
 [Reloadium](https://github.com/reloadware/reloadium) - adds hot reloading also called "edit and continue" functionality to any Python application
 
