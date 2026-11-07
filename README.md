@@ -682,6 +682,7 @@ pip install BeautifulSoup4
 * [Python for Economics](http://quant-econ.net/py/index.html)
 * [Quantitative Statistics](http://people.duke.edu/~ccc14/sta-663/)
 * [CS topics](https://github.com/jwasham/coding-interview-university)
+* [Pyling](https://github.com/thesayfulla/pylings) - python interview practice
 * [Python for Kids](https://github.com/mytechnotalent/Python-For-Kids)
 * [Jetbrains academy](https://www.jetbrains.com/academy/)
 * [Web academy](https://academy.bigbinary.com/)
