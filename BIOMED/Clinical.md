@@ -46,3 +46,5 @@ https://github.com/pubmedqa/pubmedqa
 [LLM RR evals](https://github.com/cathyshyr/repeatability_and_reproducibility_of_LLMs) - A statistical framework for evaluating repeatability and reproducibility of large language models in diagnostic reasoning [medrXiv paper](https://www.medrxiv.org/content/10.1101/2025.08.06.25333170v1.full)
 
 [Omni health](https://www.radicalnumerics.ai/blog/omnii-health-preview) - state-of-the-art genome language model (gLM) built to predict, design, and interpret)
+
+[Cancer Vaccine](https://github.com/popvax/yash)
