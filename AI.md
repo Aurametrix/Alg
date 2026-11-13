@@ -10,3 +10,7 @@ Tools for machine learning are indicated in the methods section and the code for
 https://github.com/cancer-imaging-group/
 
 [Tiny LLM](https://github.com/arman-bd/guppylm)
+
+
+### AI Agent Skills
+[Smart Glasses Skills](https://github.com/hinty-eu/smart-glasses-skills)
