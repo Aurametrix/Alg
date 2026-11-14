@@ -136,7 +136,7 @@
 ### A16z Apps & categorization
 
 ##### General assistance
-+ Perplexity	AI-powered search engine and research assistant
++ Perplexity	AI-powered search engine and research assistant  [Perplexity Decider](https://www.perplexity.ai/hub/blog/perplexity-decider)
 + Claude (Anthropic)	General chatbot, great for projects and sharing work
 + ChatGPT	You know this one, but check out Advanced Voice Mode to talk to AI
 
