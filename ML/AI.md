@@ -18,6 +18,7 @@
 * [OpenAI Python Library](https://github.com/openai/openai-python)
 * [Streaming in the Assistant's API](https://platform.openai.com/docs/assistants/overview?context=with-streaming)
 * [OpenAI: function calling](https://platform.openai.com/docs/guides/function-calling?api-mode=responses)
+* [Agents for Healthcare](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)
 * [OpenAI agents](https://openai.github.io/openai-agents-python/)
 * [Agent Skills](https://addyosmani.com/blog/agent-skills/)
 * [Opencode](https://opencode.ai/) - The open source AI coding agent
