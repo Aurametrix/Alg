@@ -883,6 +883,7 @@ with [AlphaTensor](https://github.com/deepmind/alphatensor)
 + [command-line journal application](https://github.com/jrnl-org/jrnl)
 + [wordle-solver](https://github.com/jason-chao/wordle-solver)
 + [Python for Inversive and Hyperbolic Geometry](https://coe.psu.ac.th/ad/invhyper/)
++ [Periodic Matrix](https://github.com/Dr-Logvinovich/IT3-Topological-Periodic-Matrix)
 
 + [Seq — a language for bioinformatics](https://seq-lang.org/)
 + [Compare floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
