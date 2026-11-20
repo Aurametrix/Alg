@@ -68,6 +68,8 @@ Python
 
 [Python on the Edge](https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly): Fast, sandboxed, and powered by WebAssembly
 
+[Writing Python like Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
+
 [metaP](https://sbaziotis.com/compilers/metap.html) - meta-programming layer for Python
 
 [Yapsl](https://github.com/kutoga/yapsl) - Python SMS library
