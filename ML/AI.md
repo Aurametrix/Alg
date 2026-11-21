@@ -103,7 +103,8 @@
   - [Benchmark your own model](https://github.com/opper-ai/jevman-benchmark/blob/main/CONTRIBUTING.md#benchmark-your-own-model)
   - [Hob](https://github.com/FrigadeHQ/hob) - open source cowork/GPT alternative
   - [AA index](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
-  - [Rivet Actors](https://github.com/rivet-dev/rivet) - 
+  - [Rivet Actors](https://github.com/rivet-dev/rivet) -
+  - [rigtunr](https://github.com/Aagam-Bothara/rigtune) - LLM config for your GPU
 
 
 ### GPTs & LLMs
